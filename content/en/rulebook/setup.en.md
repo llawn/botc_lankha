@@ -5,6 +5,8 @@ section: "rulebook"
 toc: true
 ---
 
+- [x] llawn
+
 You can set up a game of Clocktower by following the instructions on the [setup sheet](/en/sheets/setup-sheet/),
 there are instructions with lore.
 
