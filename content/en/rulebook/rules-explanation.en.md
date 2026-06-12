@@ -5,7 +5,7 @@ section: "rulebook"
 toc: true
 ---
 
-- [ x ] Llawn
+- [x] Llawn
 
 The [rules sheet](/en/sheets/rules/) describes all the major things that a new player will need to know to start playing.
 Simply read out the text written on this *sheet* to the group, or let those who want to read it do so privately.
