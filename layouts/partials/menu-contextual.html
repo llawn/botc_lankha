@@ -1,0 +1,23 @@
+<details class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <summary class="f5 b mb3 pointer">Table of Contents</summary>
+
+  {{- if .Params.toc -}}
+    {{ .TableOfContents }}
+  {{- end -}}
+
+  {{ $related := .Site.RegularPages.Related . | collections.First 15 }}
+  {{ with $related }}
+    <div class="mt3 nested-list-reset nested-copy-line-height nested-links">
+      <p class="f5 b mb2">{{ lang.Translate "related" }}</p>
+      <ul class="pa0 list">
+       {{ range . }}
+         <li class="mb2">
+          <a href="{{ .RelPermalink }}">
+            {{- .Title -}}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+</details>

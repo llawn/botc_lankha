@@ -1,0 +1,41 @@
+{{ $charType := .Params.charType }}
+{{ $edition := .Params.edition }}
+{{ $experimental := .Params.experimental }}
+{{ $homemade := .Params.homemade }}
+{{ $category := "" }}
+{{ if compare.Eq $charType "townsfolk" }}{{ $category = "Townsfolk" }}{{ end }}
+{{ if compare.Eq $charType "outsiders" }}{{ $category = "Outsider" }}{{ end }}
+{{ if compare.Eq $charType "minions" }}{{ $category = "Minion" }}{{ end }}
+{{ if compare.Eq $charType "demons" }}{{ $category = "Demon" }}{{ end }}
+{{ if compare.Eq $charType "fabled" }}{{ $category = "Fabled" }}{{ end }}
+{{ if compare.Eq $charType "travellers" }}{{ $category = "Traveller" }}{{ end }}
+{{ if compare.Eq $charType "loric" }}{{ $category = "Loric" }}{{ end }}
+{{ $editionName := "" }}
+{{ if compare.Eq $edition "trouble-brewing" }}{{ $editionName = "Trouble Brewing" }}{{ end }}
+{{ if compare.Eq $edition "bad-moon-rising" }}{{ $editionName = "Bad Moon Rising" }}{{ end }}
+{{ if compare.Eq $edition "sects-and-violets" }}{{ $editionName = "Sects & Violets" }}{{ end }}
+{{ if compare.Eq $edition "loup-garou" }}{{ $editionName = "Loup Garou" }}{{ end }}
+{{ if or $category $editionName }}
+<div class="character-meta mv3">
+  {{ with $category }}
+    <a href="/en/characters/{{ $charType }}/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#e8f5e9;border-color:#66bb6a;">
+      {{ . }}
+    </a>
+  {{ end }}
+  {{ with $editionName }}
+    <a href="/en/scenarios/{{ $edition }}/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#e3f2fd;border-color:#42a5f5;">
+      {{ . }}
+    </a>
+  {{ end }}
+  {{ if compare.Eq $experimental true }}
+    <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#fff3e0;border-color:#ff9800;">
+      Experimental
+    </span>
+  {{ end }}
+  {{ if compare.Eq $homemade true }}
+    <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#fce4ec;border-color:#e91e63;">
+      Custom
+    </span>
+  {{ end }}
+</div>
+{{ end }}

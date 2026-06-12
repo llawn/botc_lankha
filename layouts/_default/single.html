@@ -1,0 +1,74 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $page := .}}
+  {{ $section := .Site.GetPage "section" .Section }}
+
+  {{- $post_class := "" -}}
+  {{- with .File -}}
+    {{- $post_class = printf "page-%s" .ContentBaseName -}}
+  {{- end -}}
+
+  <article class="{{ $post_class }} flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      {{- partials.Include "hook.html" ( dict "hook" "article/section-link"  "context" . ) -}}
+      {{- partials.IncludeCached "social/share.html" . . -}}
+      <h1 class="f1 athelas mt3 mb1">
+        {{- .Title -}}
+      </h1>
+      {{ if .Params.charType }}
+        {{- partials.Include "character-meta.html" . -}}
+      {{ end }}
+      {{ with .Params.author | compare.Default .Site.Params.author }}
+      <p class="tracked">
+        {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
+          {{- lang.Translate "by" -}}
+        {{ end -}} <strong>
+        {{- if reflect.IsSlice . -}}
+            {{ collections.Delimit . ", " | transform.Markdownify }}
+        {{- else -}}
+            {{ . | transform.Markdownify }}
+        {{- end -}}
+        </strong>
+      </p>
+      {{ end }}
+      {{ if partials.Include "func/ShowDate.html" . }}
+      <time class="f6 mv4 dib tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
+        {{- .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) -}}
+      </time>
+      {{end}}
+
+      {{ if (or (compare.Eq (.Param "show_reading_time") true) (compare.Eq $section.Params.show_reading_time true) )}}
+        {{ $readingTime := .ReadingTime }}
+        {{ with .Site.Params.reading_speed }}
+          {{ $readingTime = div (float $.WordCount) . }}
+          {{ $readingTime = math.Ceil $readingTime }}
+          {{ $readingTime = int $readingTime }}
+        {{ end }}
+        <span class="f6 mv4 dib tracked"> - {{ lang.Translate "readingTime" $readingTime }} </span>
+        <span class="f6 mv4 dib tracked"> - {{ lang.Translate "wordCount" .WordCount }} </span>
+      {{ end }}
+
+      {{- partials.Include "menu-contextual.html" . -}}
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | compare.Default "serif"}} f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }} w-100-l">
+      {{- partials.Include "hook.html" (dict "hook" "content-before" "context" .) -}}
+      {{- .Content -}}
+      {{- partials.Include "hook.html" (dict "hook" "content-after" "context" .) -}}
+      {{- partials.Include "categories.html" . -}}
+      {{- partials.Include "tags.html" . -}}
+      {{ if .Site.Config.Services.Disqus.Shortname }}
+      <div class="mt6 instapaper_ignoref">
+        {{ partials.Include "disqus.html" . }}
+      </div>
+      {{ end }}
+      {{ if .Site.Params.commentoEnable }}
+      <div class="mt6 instapaper_ignoref">
+        {{- partials.Include "commento.html" . -}}
+      </div>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

@@ -1,0 +1,21 @@
+<style>
+  .nested-list-reset details summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+  }
+  .nested-list-reset details summary::-webkit-details-marker {
+    display: none;
+  }
+  .nested-list-reset details summary::before {
+    content: "\25B6";
+    font-size: 0.7em;
+    transition: transform 0.2s;
+  }
+  .nested-list-reset details[open] summary::before {
+    transform: rotate(90deg);
+  }
+</style>
+{{- partials.Include "hook.html" (dict "hook" "head-end" "context" .) -}}

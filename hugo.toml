@@ -1,0 +1,56 @@
+baseURL = 'https://example.org/'
+title = 'Blood on the Clocktower - Rules'
+theme = 'ananke'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    locale = 'en-us'
+    label = 'English'
+    weight = 1
+    contentDir = 'content/en'
+    title = 'Blood on the Clocktower - Rules'
+
+  [languages.fr]
+    locale = 'fr-fr'
+    label = 'Français'
+    weight = 2
+    contentDir = 'content/fr'
+    title = 'Blood on the Clocktower - Règles'
+
+[params]
+  description = 'Blood on the Clocktower rulebook and character reference'
+  ananke_social = false
+  ananke_home_feature = false
+
+[menu]
+  [[menu.main]]
+    identifier = 'rulebook'
+    name = 'Rulebook'
+    url = '/en/rulebook/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'characters'
+    name = 'Characters'
+    url = '/en/characters/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'scenarios'
+    name = 'Scenarios'
+    url = '/en/scenarios/'
+    weight = 30
+  [[menu.main]]
+    identifier = 'sheets'
+    name = 'Sheets'
+    url = '/en/sheets/'
+    weight = 40
+  [[menu.main]]
+    identifier = 'toolbox'
+    name = 'Toolbox'
+    url = '/en/toolbox/'
+    weight = 50
+
+[services]
+  [services.googleAnalytics]
+    ID = ''

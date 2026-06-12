@@ -1,0 +1,106 @@
+{{ define "head" }}
+  <link rel="stylesheet" href="/toolbox/toolbox.css">
+  {{- partials.Include "head-additions.html" . -}}
+{{ end }}
+
+{{ define "header" }}
+  {{ partials.Include "site-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="toolbox-page">
+  <div class="toolbox-book">
+    <div class="book-page left-page" id="page-grimoire">
+      <div class="page-header-bar">
+        <h2 class="page-title">Grimoire</h2>
+      </div>
+
+      <div class="grimoire-controls">
+        <div class="control-group">
+          <label for="player-count">Players</label>
+          <input type="number" id="player-count" min="5" max="15" value="8">
+        </div>
+        <div class="control-group">
+          <label for="edition-filter">Edition</label>
+          <select id="edition-filter">
+            <option value="">All</option>
+            <option value="trouble-brewing">Trouble Brewing</option>
+            <option value="bad-moon-rising">Bad Moon Rising</option>
+            <option value="sects-and-violets">Sects & Violets</option>
+            <option value="loup-garou">Loup Garou</option>
+          </select>
+        </div>
+        <button class="tool-btn" id="btn-reset-game">New Game</button>
+      </div>
+
+      <div class="circle-wrapper">
+        <div id="circle-container"></div>
+      </div>
+
+      <div class="status-toolbar">
+        <div class="status-toolbar-label">Statuses</div>
+        <div class="status-toolbar-buttons" id="status-toolbar-buttons"></div>
+      </div>
+
+      <div class="color-legend">
+        <span class="legend-item"><span class="legend-swatch swatch-townsfolk"></span>Townsfolk</span>
+        <span class="legend-item"><span class="legend-swatch swatch-outsiders"></span>Outsider</span>
+        <span class="legend-item"><span class="legend-swatch swatch-minions"></span>Minion</span>
+        <span class="legend-item"><span class="legend-swatch swatch-demons"></span>Demon</span>
+        <span class="legend-item"><span class="legend-swatch swatch-travellers"></span>Traveller</span>
+        <span class="legend-item"><span class="legend-swatch swatch-fabled"></span>Fabled</span>
+        <span class="legend-item"><span class="legend-swatch swatch-loric"></span>Loric</span>
+      </div>
+    </div>
+
+    <div class="book-page right-page" id="page-notebook">
+      <div class="page-header-bar">
+        <h2 class="page-title">Notebook</h2>
+      </div>
+
+      <div class="journal-section">
+        <div class="section-label">Night & Day Journal</div>
+        <div id="journal-entries"></div>
+        <button class="tool-btn" id="btn-add-phase">+ Add Phase</button>
+        <button class="tool-btn btn-secondary" id="btn-clear-journal">Clear Journal</button>
+      </div>
+
+      <div class="notes-section">
+        <div class="section-label">Free Notes</div>
+        <textarea id="free-notes" placeholder="Write your notes here..."></textarea>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="char-modal" class="modal hidden">
+  <div class="modal-backdrop"></div>
+  <div class="modal-content">
+    <div class="modal-header">
+      <h3>Choose Character</h3>
+      <div class="modal-search">
+        <input type="text" id="char-search" placeholder="Search character...">
+        <select id="char-type-filter">
+          <option value="">All types</option>
+          <option value="townsfolk">Townsfolk</option>
+          <option value="outsiders">Outsider</option>
+          <option value="minions">Minion</option>
+          <option value="demons">Demon</option>
+          <option value="travellers">Traveller</option>
+          <option value="fabled">Fabled</option>
+          <option value="loric">Loric</option>
+        </select>
+      </div>
+      <button id="btn-close-modal" class="modal-close">&times;</button>
+    </div>
+    <div class="modal-body" id="char-list"></div>
+  </div>
+</div>
+
+<div id="status-menu" class="status-menu hidden">
+  <div class="status-menu-header">Toggle Status</div>
+  <div id="status-list"></div>
+</div>
+
+<script src="/toolbox/toolbox.js"></script>
+{{ end }}
