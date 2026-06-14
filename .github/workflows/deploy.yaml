@@ -25,7 +25,7 @@ jobs:
         run: |
           apk add --no-cache curl tar
           curl -sL https://github.com/gohugoio/hugo/releases/download/v0.163.0/hugo_extended_0.163.0_linux-amd64.tar.gz \
-            | tar xz -C /usr/local/bin hugo
+            | tar xz -C /usr/local/bin
           hugo version
 
       - name: Build site
