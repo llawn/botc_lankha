@@ -1,0 +1,17 @@
+{{ $charType := .Params.charType }}
+{{ $typeColors := dict "townsfolk" "#3498db" "outsiders" "#1a237e" "minions" "#8e44ad" "demons" "#e74c3c" "travellers" "#6b5e4e" "fabled" "#f39c12" "loric" "#27ae60" }}
+{{ $borderColor := "#c9a84c" }}
+{{ with $charType }}{{ with index $typeColors . }}{{ $borderColor = . }}{{ end }}{{ end }}
+<article class="botc-card" style="border-left: 3px solid {{ $borderColor }};">
+  <div class="botc-card-body">
+    {{ $section := .CurrentSection.Title }}
+    {{ with $section }}<div class="botc-card-section">{{ . }}</div>{{ end }}
+    <h2 class="botc-card-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <div class="botc-card-summary">
+      {{ .Summary | strings.Truncate 200 }}
+    </div>
+    <a href="{{ .RelPermalink }}" class="botc-card-link">Read more</a>
+  </div>
+</article>
