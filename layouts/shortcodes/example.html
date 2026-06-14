@@ -1,0 +1,4 @@
+<blockquote class="example-block">
+  <div class="example-label">{{ with .Get "title" }}{{ . }}{{ else }}Example{{ end }}</div>
+  <div class="example-body">{{ .Inner | .Page.RenderString }}</div>
+</blockquote>
