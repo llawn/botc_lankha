@@ -1,0 +1,6 @@
+{{- $url := .Destination -}}
+{{- if and (strings.HasPrefix $url "/") (not (strings.HasPrefix $url "//")) -}}
+  {{- $base := .Page.Site.BaseURL | strings.TrimRight "/" -}}
+  {{- $url = printf "%s%s" $base $url -}}
+{{- end -}}
+<a href="{{ $url | safe.URL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safe.HTML }}</a>

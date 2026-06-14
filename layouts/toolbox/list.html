@@ -1,5 +1,5 @@
 {{ define "head" }}
-  <link rel="stylesheet" href="{{ "/toolbox/toolbox.css" | relURL }}">
+  <link rel="stylesheet" href="{{ strings.TrimRight "/" .Site.BaseURL }}/toolbox/toolbox.css">
   {{- partials.Include "head-additions.html" . -}}
 {{ end }}
 
@@ -102,5 +102,5 @@
   <div id="status-list"></div>
 </div>
 
-<script src="{{ "/toolbox/toolbox.js" | relURL }}"></script>
+<script src="{{ strings.TrimRight "/" .Site.BaseURL }}/toolbox/toolbox.js"></script>
 {{ end }}
