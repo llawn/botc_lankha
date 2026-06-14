@@ -10,6 +10,15 @@
 {{ if compare.Eq $charType "fabled" }}{{ $category = "Fabled" }}{{ end }}
 {{ if compare.Eq $charType "travellers" }}{{ $category = "Traveller" }}{{ end }}
 {{ if compare.Eq $charType "loric" }}{{ $category = "Loric" }}{{ end }}
+{{ $catBg := "#e8f5e9" }}
+{{ $catBorder := "#66bb6a" }}
+{{ if compare.Eq $charType "townsfolk" }}{{ $catBg = "#e8f4fd" }}{{ $catBorder = "#3498db" }}{{ end }}
+{{ if compare.Eq $charType "outsiders" }}{{ $catBg = "#e8eaf6" }}{{ $catBorder = "#1a237e" }}{{ end }}
+{{ if compare.Eq $charType "minions" }}{{ $catBg = "#f3e8f7" }}{{ $catBorder = "#8e44ad" }}{{ end }}
+{{ if compare.Eq $charType "demons" }}{{ $catBg = "#fde8e8" }}{{ $catBorder = "#e74c3c" }}{{ end }}
+{{ if compare.Eq $charType "travellers" }}{{ $catBg = "#f0ede8" }}{{ $catBorder = "#6b5e4e" }}{{ end }}
+{{ if compare.Eq $charType "fabled" }}{{ $catBg = "#fef5e7" }}{{ $catBorder = "#f39c12" }}{{ end }}
+{{ if compare.Eq $charType "loric" }}{{ $catBg = "#e8f5e9" }}{{ $catBorder = "#27ae60" }}{{ end }}
 {{ $editionName := "" }}
 {{ if compare.Eq $edition "trouble-brewing" }}{{ $editionName = "Trouble Brewing" }}{{ end }}
 {{ if compare.Eq $edition "bad-moon-rising" }}{{ $editionName = "Bad Moon Rising" }}{{ end }}
@@ -18,7 +27,7 @@
 {{ if or $category $editionName }}
 <div class="character-meta mv3">
   {{ with $category }}
-    <a href="/en/characters/{{ $charType }}/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#e8f5e9;border-color:#66bb6a;">
+    <a href="/en/characters/{{ $charType }}/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:{{ $catBg }};border-color:{{ $catBorder }};">
       {{ . }}
     </a>
   {{ end }}

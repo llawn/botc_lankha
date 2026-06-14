@@ -1,10 +1,10 @@
 ---
-title: "Blood on the Clocktower - Règles"
+title: "BotC - Lugdunum"
 weight: 0
 toc: true
 ---
 
-# Blood on the Clocktower
+# BotC - Lugdunum
 
 Traduction française des règles et des personnages.
 

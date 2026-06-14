@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-title = 'Blood on the Clocktower - Rules'
+    title = 'BotC - Lugdunum'
 theme = 'ananke'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
@@ -10,17 +10,20 @@ defaultContentLanguageInSubdir = true
     label = 'English'
     weight = 1
     contentDir = 'content/en'
-    title = 'Blood on the Clocktower - Rules'
+title = 'BotC - Lugdunum'
 
   [languages.fr]
     locale = 'fr-fr'
     label = 'Français'
     weight = 2
     contentDir = 'content/fr'
-    title = 'Blood on the Clocktower - Règles'
+    title = 'BotC - Lugdunum'
 
 [params]
-  description = 'Blood on the Clocktower rulebook and character reference'
+  description = 'BotC - Lugdunum rulebook and character reference'
+  body_classes = 'avenir bg-botc-dark'
+  background_color_class = 'bg-botc-header'
+  text_color = 'botc-text'
   ananke_social = false
   ananke_home_feature = false
 
@@ -50,6 +53,11 @@ defaultContentLanguageInSubdir = true
     name = 'Toolbox'
     url = '/en/toolbox/'
     weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [services]
   [services.googleAnalytics]
