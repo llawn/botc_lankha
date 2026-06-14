@@ -1,6 +1,6 @@
 # Projet Blood on the Clocktower - Edition Lankha
 
-Ce depot contient l'ensemble du code et des textes pour la creation d'une version personnalisee du jeu de societe "Blood on the Clocktower" (BOTC) pour les 26 ans de Lankha.
+Ce dépot contient l'ensemble du code et des textes pour la creation d'une version personnalisee du jeu de societe "Blood on the Clocktower" (BOTC) pour les 26 ans de Lankha.
 
 ## La Genese du Projet
 
