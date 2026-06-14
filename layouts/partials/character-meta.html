@@ -10,15 +10,15 @@
 {{ if compare.Eq $charType "fabled" }}{{ $category = "Fabled" }}{{ end }}
 {{ if compare.Eq $charType "travellers" }}{{ $category = "Traveller" }}{{ end }}
 {{ if compare.Eq $charType "loric" }}{{ $category = "Loric" }}{{ end }}
-{{ $catBg := "#e8f5e9" }}
+{{ $catBg := "#1b5e20" }}
 {{ $catBorder := "#66bb6a" }}
-{{ if compare.Eq $charType "townsfolk" }}{{ $catBg = "#e8f4fd" }}{{ $catBorder = "#3498db" }}{{ end }}
-{{ if compare.Eq $charType "outsiders" }}{{ $catBg = "#e8eaf6" }}{{ $catBorder = "#1a237e" }}{{ end }}
-{{ if compare.Eq $charType "minions" }}{{ $catBg = "#f3e8f7" }}{{ $catBorder = "#8e44ad" }}{{ end }}
-{{ if compare.Eq $charType "demons" }}{{ $catBg = "#fde8e8" }}{{ $catBorder = "#e74c3c" }}{{ end }}
-{{ if compare.Eq $charType "travellers" }}{{ $catBg = "#f0ede8" }}{{ $catBorder = "#6b5e4e" }}{{ end }}
-{{ if compare.Eq $charType "fabled" }}{{ $catBg = "#fef5e7" }}{{ $catBorder = "#f39c12" }}{{ end }}
-{{ if compare.Eq $charType "loric" }}{{ $catBg = "#e8f5e9" }}{{ $catBorder = "#27ae60" }}{{ end }}
+{{ if compare.Eq $charType "townsfolk" }}{{ $catBg = "#1a237e" }}{{ $catBorder = "#5c6bc0" }}{{ end }}
+{{ if compare.Eq $charType "outsiders" }}{{ $catBg = "#311b92" }}{{ $catBorder = "#7c4dff" }}{{ end }}
+{{ if compare.Eq $charType "minions" }}{{ $catBg = "#4a148c" }}{{ $catBorder = "#ab47bc" }}{{ end }}
+{{ if compare.Eq $charType "demons" }}{{ $catBg = "#b71c1c" }}{{ $catBorder = "#ef5350" }}{{ end }}
+{{ if compare.Eq $charType "travellers" }}{{ $catBg = "#4e342e" }}{{ $catBorder = "#8d6e63" }}{{ end }}
+{{ if compare.Eq $charType "fabled" }}{{ $catBg = "#e65100" }}{{ $catBorder = "#ff9800" }}{{ end }}
+{{ if compare.Eq $charType "loric" }}{{ $catBg = "#1b5e20" }}{{ $catBorder = "#4caf50" }}{{ end }}
 {{ $editionName := "" }}
 {{ if compare.Eq $edition "trouble-brewing" }}{{ $editionName = "Trouble Brewing" }}{{ end }}
 {{ if compare.Eq $edition "bad-moon-rising" }}{{ $editionName = "Bad Moon Rising" }}{{ end }}
@@ -27,22 +27,22 @@
 {{ if or $category $editionName }}
 <div class="character-meta mv3">
   {{ with $category }}
-    <a href="{{ printf "/en/characters/%s/" $charType | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:{{ $catBg }};border-color:{{ $catBorder }};">
+    <a href="{{ printf "/en/characters/%s/" $charType | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:{{ $catBg }};border-color:{{ $catBorder }};color:#fff;">
       {{ . }}
     </a>
   {{ end }}
   {{ with $editionName }}
-    <a href="{{ printf "/en/scenarios/%s/" $edition | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#e3f2fd;border-color:#42a5f5;">
+    <a href="{{ printf "/en/scenarios/%s/" $edition | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#01579b;border-color:#42a5f5;color:#fff;">
       {{ . }}
     </a>
   {{ end }}
   {{ if compare.Eq $experimental true }}
-    <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#fff3e0;border-color:#ff9800;">
+    <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#e65100;border-color:#ff9800;color:#fff;">
       Experimental
     </span>
   {{ end }}
   {{ if compare.Eq $homemade true }}
-    <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#fce4ec;border-color:#e91e63;">
+    <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#880e4f;border-color:#e91e63;color:#fff;">
       Custom
     </span>
   {{ end }}
