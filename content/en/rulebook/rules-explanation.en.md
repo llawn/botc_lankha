@@ -5,8 +5,6 @@ section: "rulebook"
 toc: true
 ---
 
-- [x] Llawn
-
 The [rules sheet](/en/sheets/rules/) describes all the major things that a new player will need to know to start playing.
 Simply read out the text written on this *sheet* to the group, or let those who want to read it do so privately.
 
@@ -121,12 +119,14 @@ If you become drunk or poisoned, your character's ability does not function corr
 However, the *Storyteller* will continue to act as though it does.
 Any information you receive may be completely false, and you will not be told whether you are drunk or poisoned.
 
-For example, if you are [the Drunk](/en/characters/outsiders/drunk/), you may believe you are another character entirely.
+{{< example >}}
+If you are [the Drunk](/en/characters/outsiders/drunk/), you may believe you are another character entirely.
 Only the Storyteller knows your true identity.
 
 Likewise, if a [Poisoner](/en/characters/minions/poisoner/) affects you,
 you may still wake during the night and attempt to use your ability,
 but the information you receive may be incorrect, or your ability may have no effect at all.
+{{< /example >}}
 
 In this city, certainty is dangerous.
 
@@ -163,7 +163,10 @@ This can be a lot of information to take in at once, so to keep things simple, t
 ##  Before the First Nomination
 
 To nominate a player, simply say who.
-For example: “I nominate Bob.” When a player is nominated, everyone votes on whether or not to execute them.
+{{< example >}}
+“I nominate Bob.”
+{{< /example >}}
+When a player is nominated, everyone votes on whether or not to execute them.
 The storyteller will put his arm out like this (point to Bob), and say “Votes for Bob, starting now.”
 The he moves his hand in a clockwise direction (demonstrate this) and if your hand is up when I get to you, that’s a vote,
 and if your hand is down, that’s not a vote.

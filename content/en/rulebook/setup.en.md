@@ -5,8 +5,6 @@ section: "rulebook"
 toc: true
 ---
 
-- [x] llawn
-
 You can set up a game of Clocktower by following the instructions on the [setup sheet](/en/sheets/setup-sheet/),
 there are instructions with lore.
 
@@ -263,7 +261,8 @@ Choose what you think will be fun, what will interact well, or simply what you f
 If it is your first game, and you don’t know which characters to include, 
 consider the following (for an 8 player game) or alter one to suit your style:
 
-- [Chef](/en/characters/townsfolk/chef/),
+{{< example title="Chaotic Starter" >}}
+[Chef](/en/characters/townsfolk/chef/),
 [Empath](/en/characters/townsfolk/empath/),
 [Fortune Teller](/en/characters/townsfolk/fortune-teller/),
 [Undertaker](/en/characters/townsfolk/undertaker/),
@@ -272,13 +271,15 @@ consider the following (for an 8 player game) or alter one to suit your style:
 [Scarlet Woman](/en/characters/minions/scarlet-women),
 [Imp](/en/characters/demons/imp).
 
-    This setup has a lot of information for the good team, and is a great way to get people engaged and talking immediately,
-    but also is relatively safe for evil players that are unsure of how to bluff well.
-    It will be a chaotic game that is a blast for new players.
-    Remember to give the **Drunk Investigator** false information,
-    and remember that they cannot die by nominating the **Virgin**!
+This setup has a lot of information for the good team, and is a great way to get people engaged and talking immediately,
+but also is relatively safe for evil players that are unsure of how to bluff well.
+It will be a chaotic game that is a blast for new players.
+Remember to give the **Drunk Investigator** false information,
+and remember that they cannot die by nominating the **Virgin**!
+{{< /example >}}
 
-- [Empath](/en/characters/townsfolk/empath/),
+{{< example title="Quiet & Tense" >}}
+[Empath](/en/characters/townsfolk/empath/),
 [Fortune Teller](/en/characters/townsfolk/fortune-teller/),
 [Mayor](/en/characters/townsfolk/mayor/),
 [Ravenkeeper](/en/characters/townsfolk/ravenkeeper/),
@@ -287,15 +288,16 @@ consider the following (for an 8 player game) or alter one to suit your style:
 [Poisoner](/en/characters/minions/poisoner/),
 [Imp](/en/characters/demons/imp).
 
-    This will be a much quieter game, as players slowly figure out if the
-    **Saint**, **Slayer**, and **Mayor** are telling the truth.
-    The **Poisoner**, who has many juicy targets, can certainly cause some chaos.
-    However, the game may be a quick one if the **Slayer** is savvy,
-    if the **Saint** is not savvy enough,
-    or if the **Poisoner** cannot find the **Empath** and **Fortune Teller** in time. If the Mayor is attacked at night, remember to kill another player instead - perhaps the Ravenkeeper?
+This will be a much quieter game, as players slowly figure out if the
+**Saint**, **Slayer**, and **Mayor** are telling the truth.
+The **Poisoner**, who has many juicy targets, can certainly cause some chaos.
+However, the game may be a quick one if the **Slayer** is savvy,
+if the **Saint** is not savvy enough,
+or if the **Poisoner** cannot find the **Empath** and **Fortune Teller** in time. If the Mayor is attacked at night, remember to kill another player instead - perhaps the Ravenkeeper?
+{{< /example >}}
 
-
-- [Fortune Teller](/en/characters/townsfolk/fortune-teller/),
+{{< example title="Advanced Deduction" >}}
+[Fortune Teller](/en/characters/townsfolk/fortune-teller/),
 [Slayer](/en/characters/townsfolk/slayer/),
 [Undertaker](/en/characters/townsfolk/undertaker/),
 [Virgin](/en/characters/townsfolk/virgin/),
@@ -304,10 +306,11 @@ consider the following (for an 8 player game) or alter one to suit your style:
 [Spy](/en/characters/minions/spy/),
 [Imp](/en/characters/demons/imp).
 
-    This is a more advanced setup, requiring some deeper logic from the players,
-    but can be very rewarding if they figure it out.
-    Remember that the **Recluse** can register as the **Demon** to the **Fortune Teller**, **Undertaker**, and **Slayer**!
-    And remember that the **Spy** can register as a *Townsfolk* to the **Virgin**, **Undertaker**, and **Washerwoman**!
+This is a more advanced setup, requiring some deeper logic from the players,
+but can be very rewarding if they figure it out.
+Remember that the **Recluse** can register as the **Demon** to the **Fortune Teller**, **Undertaker**, and **Slayer**!
+And remember that the **Spy** can register as a *Townsfolk* to the **Virgin**, **Undertaker**, and **Washerwoman**!
+{{< /example >}}
 
 ##  Add and Remove Characters
 
@@ -317,11 +320,11 @@ This happens right now, and does not happen again once the game is underway.
 
 After adding and removing character cards, the number of character cards will always equal the number of players.
 
-```mardown
+{{< example >}}
 The Baron card has text that says [+2 Outsiders].
 The Baron adds two Outsider cards to the game, but removes two Townsfolk cards.
 Other characters, such as the Drunk, do similar things.
-```
+{{< /example >}}
 
 ##  Add Reminder Cards To The Grimore
 
