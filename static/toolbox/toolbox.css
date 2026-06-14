@@ -97,6 +97,7 @@
   display: flex;
   justify-content: center;
   padding: 10px 0;
+  overflow-x: auto;
 }
 
 #circle-container {
@@ -279,7 +280,7 @@
 }
 
 .swatch-townsfolk { background: #3498db; }
-.swatch-outsiders { background: #2c3e50; }
+.swatch-outsiders { background: #1a237e; }
 .swatch-minions { background: #8e44ad; }
 .swatch-demons { background: #e74c3c; }
 .swatch-travellers { background: linear-gradient(90deg, #e74c3c 50%, #3498db 50%); }
@@ -352,7 +353,7 @@
 
 /* Type colors on tokens */
 .player-token.type-townsfolk { border-color: #3498db; }
-.player-token.type-outsiders { border-color: #2c3e50; }
+.player-token.type-outsiders { border-color: #1a237e; }
 .player-token.type-minions { border-color: #8e44ad; }
 .player-token.type-demons { border-color: #e74c3c; }
 .player-token.type-loric { border-color: #27ae60; }
@@ -367,7 +368,7 @@
 .player-token.type-loric { border-color: #1abc9c; }
 
 .player-token.type-townsfolk .token-char { color: #2980b9; }
-.player-token.type-outsiders .token-char { color: #2c3e50; }
+.player-token.type-outsiders .token-char { color: #1a237e; }
 .player-token.type-minions .token-char { color: #7d3c98; }
 .player-token.type-demons .token-char { color: #c0392b; }
 .player-token.type-travellers .token-char { color: #6b5e4e; }
@@ -478,7 +479,7 @@
 }
 
 .char-card.type-townsfolk { border-left: 3px solid #3498db; }
-.char-card.type-outsiders { border-left: 3px solid #2c3e50; }
+.char-card.type-outsiders { border-left: 3px solid #1a237e; }
 .char-card.type-minions { border-left: 3px solid #8e44ad; }
 .char-card.type-demons { border-left: 3px solid #e74c3c; }
 .char-card.type-travellers {

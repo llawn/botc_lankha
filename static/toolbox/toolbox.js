@@ -263,7 +263,7 @@ function resetGame() {
 // ---- Character helpers ----
 function getCharColor(type) {
   const map = {
-    townsfolk:'#3498db', outsiders:'#2c3e50', minions:'#8e44ad',
+    townsfolk:'#3498db', outsiders:'#1a237e', minions:'#8e44ad',
     demons:'#e74c3c', travellers:'#6b5e4e', fabled:'#f39c12', loric:'#27ae60'
   };
   return map[type] || '#999';
@@ -318,11 +318,19 @@ function renderAll() {
 function renderCircle() {
   const container = document.getElementById('circle-container');
   const total = state.playerCount + 1;
-  const size = 580;
-  const radius = 220;
+  const tokenWidth = 72;
+  const tokenGap = 24;
+  const spacing = tokenWidth + tokenGap;
+  const circumference = total * spacing;
+  const radius = Math.max(180, circumference / (2 * Math.PI));
+  const halfToken = tokenWidth / 2;
+  const containerPadding = 44;
+  const size = Math.max(580, Math.ceil((radius + halfToken + containerPadding) * 2));
   const cx = size / 2;
   const cy = size / 2 - 10;
 
+  container.style.width = size + 'px';
+  container.style.height = size + 'px';
   container.innerHTML = '';
 
   for (let i = 0; i < total; i++) {
@@ -474,7 +482,7 @@ function createTokenEl(index) {
 function renumberPlayers() {
   const count = parseInt(document.getElementById('player-count').value) || 8;
   if (count < 5) { document.getElementById('player-count').value = 5; return; }
-  if (count > 15) { document.getElementById('player-count').value = 15; return; }
+  if (count > 30) { document.getElementById('player-count').value = 30; return; }
   if (count === state.playerCount) return;
 
   const oldPlayers = state.players;
