@@ -1,11 +1,7 @@
 ---
-title: "Règles"
+title: "Livre de Règles"
 weight: 10
 toc: true
 ---
 
-# Règles
-
-Traduction française du rulebook de Blood on the Clocktower.
-
-Pour traduire une page, créez un fichier `.fr.md` correspondant dans `content/fr/rulebook/`.
+Le guide complet pour diriger Blood on the Clocktower à Lugdunum.
