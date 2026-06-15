@@ -1,0 +1,35 @@
+---
+title: "Sbires"
+weight: 5
+section: characters
+type: category
+characters:
+  - "Assassin"
+  - "Baron"
+  - "Boffin"
+  - "Boomdandy"
+  - "Cerenovus"
+  - "Devil's Advocate"
+  - "Evil Twin"
+  - "Fearmonger"
+  - "Goblin"
+  - "Godfather"
+  - "Harpy"
+  - "Marionette"
+  - "Mastermind"
+  - "Mezepheles"
+  - "Organ Grinder"
+  - "Pit-Hag"
+  - "Poisoner"
+  - "Psychopath"
+  - "Scarlet Woman"
+  - "Spy"
+  - "Summoner"
+  - "Vizier"
+  - "Widow"
+  - "Witch"
+  - "Wizard"
+  - "Wraith"
+  - "Xaan"
+toc: true
+---
