@@ -18,7 +18,7 @@ The Librarian learns that a particular Outsider character is in play, but not ex
 
 * During the first night, the Librarian learns that one of two players is a specific Outsider.
 * They learn this only once and then learn nothing more.
-* The Drunk is an Outsider. If the Librarian learns that one of two players is the Drunk, they do not learn the Townsfolk that the Drunk's player thinks they are.
+* The [Drunk](/en/characters/outsiders/drunk) is an Outsider. If the Librarian learns that one of two players is the Drunk, they do not learn the Townsfolk that the Drunk's player thinks they are.
 
 ##  How to Run
 
