@@ -2,7 +2,6 @@
 title: "Loup Garou"
 weight: 10
 edition: "loup-garou"
-type: "scenario"
 homemade: true
 characters:
   - "Seer"
@@ -32,23 +31,3 @@ Loup Garou is a custom homebrew scenario inspired by the classic French party ga
 The good team must identify and execute the Werewolf before it picks off the entire village. With the Seer gathering intelligence, the Witch holding the power of life and death, and the Hunter seeking vengeance from beyond the grave, the villagers have tools to fight back. But Cupid's tangled web of lovers means every death carries twice the weight—and the Thief may be wearing a friendly face while plotting betrayal.
 
 In Loup Garou, information is your sharpest weapon. Trust no one, question everything, and remember: even the most unlikely villager may have fangs.
-
-##  Townsfolk
-
-- [Seer](/en/characters/townsfolk/seer/)
-- [Witch](/en/characters/townsfolk/witch/)
-- [Hunter](/en/characters/townsfolk/hunter/)
-- [Guard](/en/characters/townsfolk/guard/)
-
-##  Outsiders
-
-- [Elder](/en/characters/outsiders/elder/)
-
-##  Minions
-
-- [Cupid](/en/characters/minions/cupid/)
-- [Thief](/en/characters/minions/thief/)
-
-##  Demons
-
-- [Werewolf](/en/characters/demons/werewolf/)

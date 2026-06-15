@@ -2,7 +2,6 @@
 title: "Bad Moon Rising"
 weight: 10
 edition: "bad-moon-rising"
-type: "scenario"
 characters:
   - "Grandmother"
   - "Sailor"

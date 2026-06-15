@@ -2,7 +2,6 @@
 title: "Trouble Brewing"
 weight: 10
 edition: "trouble-brewing"
-type: "scenario"
 characters:
   - "Washerwoman"
   - "Librarian"

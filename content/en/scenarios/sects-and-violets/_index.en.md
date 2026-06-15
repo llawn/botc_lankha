@@ -2,7 +2,6 @@
 title: "Sects & Violets"
 weight: 10
 edition: "sects-and-violets"
-type: "scenario"
 characters:
   - "Clockmaker"
   - "Dreamer"
