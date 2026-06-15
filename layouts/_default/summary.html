@@ -1,5 +1,5 @@
 {{ $charType := .Params.charType }}
-{{ $typeColors := dict "townsfolk" "#3498db" "outsiders" "#1a237e" "minions" "#8e44ad" "demons" "#e74c3c" "travellers" "#6b5e4e" "fabled" "#f39c12" "loric" "#27ae60" }}
+{{ $typeColors := dict "townsfolk" "#3498db" "outsiders" "#1a237e" "minions" "#8e44ad" "demons" "#e74c3c" "travellers" "#6b5e4e" "fabled" "#f39c12" "loric" "#27ae60" "solo" "#607d8b" "werewolf" "#2d5016" "vampire" "#8b0000" }}
 {{ $borderColor := "#c9a84c" }}
 {{ with $charType }}{{ with index $typeColors . }}{{ $borderColor = . }}{{ end }}{{ end }}
 <article class="botc-card" style="border-left: 3px solid {{ $borderColor }};">

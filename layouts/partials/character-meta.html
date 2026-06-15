@@ -10,6 +10,9 @@
 {{ if compare.Eq $charType "fabled" }}{{ $category = "Fabled" }}{{ end }}
 {{ if compare.Eq $charType "travellers" }}{{ $category = "Traveller" }}{{ end }}
 {{ if compare.Eq $charType "loric" }}{{ $category = "Loric" }}{{ end }}
+{{ if compare.Eq $charType "solo" }}{{ $category = "Solo" }}{{ end }}
+{{ if compare.Eq $charType "werewolf" }}{{ $category = "Werewolf" }}{{ end }}
+{{ if compare.Eq $charType "vampire" }}{{ $category = "Vampire" }}{{ end }}
 {{ $catBg := "#1b5e20" }}
 {{ $catBorder := "#66bb6a" }}
 {{ if compare.Eq $charType "townsfolk" }}{{ $catBg = "#1a237e" }}{{ $catBorder = "#5c6bc0" }}{{ end }}
@@ -19,6 +22,9 @@
 {{ if compare.Eq $charType "travellers" }}{{ $catBg = "#4e342e" }}{{ $catBorder = "#8d6e63" }}{{ end }}
 {{ if compare.Eq $charType "fabled" }}{{ $catBg = "#e65100" }}{{ $catBorder = "#ff9800" }}{{ end }}
 {{ if compare.Eq $charType "loric" }}{{ $catBg = "#1b5e20" }}{{ $catBorder = "#4caf50" }}{{ end }}
+{{ if compare.Eq $charType "solo" }}{{ $catBg = "#37474f" }}{{ $catBorder = "#78909c" }}{{ end }}
+{{ if compare.Eq $charType "werewolf" }}{{ $catBg = "#1b5e20" }}{{ $catBorder = "#4caf50" }}{{ end }}
+{{ if compare.Eq $charType "vampire" }}{{ $catBg = "#4a148c" }}{{ $catBorder = "#ab47bc" }}{{ end }}
 {{ $editionName := "" }}
 {{ if compare.Eq $edition "trouble-brewing" }}{{ $editionName = "Trouble Brewing" }}{{ end }}
 {{ if compare.Eq $edition "bad-moon-rising" }}{{ $editionName = "Bad Moon Rising" }}{{ end }}

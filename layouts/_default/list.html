@@ -1,8 +1,91 @@
 {{ define "main" }}
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links botc-text">
-      {{- .Content -}}
-    </section>
+<article class="pa3 pa4-ns nested-copy-line-height">
+  <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links botc-text">
+    {{- .Content -}}
+  </section>
+  {{ if and (compare.Eq .Section "characters") .Pages }}
+    <div x-data="charFilter()">
+      <div class="filter-bar">
+        <div class="flex-ns items-center mb2">
+          <input type="text" x-model="search" placeholder="Search characters..." class="filter-input" style="width:100%;">
+        </div>
+        <div class="flex flex-wrap items-center gap2" x-show="search || edition || game || showExperimental || showHomemade">
+          <select x-model="game" class="filter-select" style="width:auto;min-width:100px;margin-right:0.5em;margin-bottom:0.3em;" x-on:change="onGameChange()">
+            <option value="">All Games</option>
+            <option value="botc">BotC</option>
+            <option value="lg">Loup Garou</option>
+            <option value="lg-1nuit">LG pour 1 nuit</option>
+          </select>
+          <select x-model="edition" class="filter-select" style="width:auto;min-width:130px;margin-right:0.5em;margin-bottom:0.3em;">
+            <option value="">All Editions</option>
+            <template x-for="opt in filteredEditions" :key="opt.value">
+              <option :value="opt.value" x-text="opt.label"></option>
+            </template>
+          </select>
+          <label class="filter-label" style="margin-right:0.8em;margin-bottom:0.3em;">
+            <input type="checkbox" x-model="showExperimental" class="filter-checkbox"> Experimental
+          </label>
+          <label class="filter-label" style="margin-bottom:0.3em;">
+            <input type="checkbox" x-model="showHomemade" class="filter-checkbox"> Custom
+          </label>
+        </div>
+      </div>
+      <section class="flex-ns mt4 flex-wrap" x-effect="filterCards($el)">
+        {{ range .Pages }}
+          {{ $editionList := slice }}{{ if .Params.editions }}{{ $editionList = .Params.editions }}{{ else if .Params.edition }}{{ $editionList = slice .Params.edition }}{{ end }}
+          {{ $gameMap := dict "trouble-brewing" "botc" "bad-moon-rising" "botc" "sects-and-violets" "botc" "loup-garou" "lg" "lg-nouvelle-lune" "lg" "lg-le-village" "lg" "lg-personnages" "lg" "lg-pour-une-nuit" "lg-1nuit" "lg-pour-un-crepuscule" "lg-1nuit" "vampire-pour-une-nuit" "lg-1nuit" }}
+          {{ $firstEdition := index $editionList 0 | default "" }}{{ $game := "botc" }}{{ if $firstEdition }}{{ $game = index $gameMap $firstEdition | default "botc" }}{{ end }}
+          <div class="w-100 w-30-l mb4 ph2" data-char
+               data-name="{{ .Title | lower }}"
+               data-edition="{{ delimit $editionList "," }}"
+               data-experimental="{{ .Params.experimental }}"
+               data-homemade="{{ .Params.homemade }}"
+               data-game="{{ $game }}">
+            {{ .Render "summary" }}
+          </div>
+<script>
+  function charFilter() {
+    return {
+      search: '', edition: '', game: '', showExperimental: false, showHomemade: false,
+      editionOptions: [
+        {value:'trouble-brewing', label:'Trouble Brewing', games:['botc']},
+        {value:'bad-moon-rising', label:'Bad Moon Rising', games:['botc']},
+        {value:'sects-and-violets', label:'Sects & Violets', games:['botc']},
+        {value:'loup-garou', label:'Loup Garou', games:['lg']},
+        {value:'lg-nouvelle-lune', label:'LG: Nouvelle Lune', games:['lg']},
+        {value:'lg-le-village', label:'LG: Le Village', games:['lg']},
+        {value:'lg-personnages', label:'LG: Personnages', games:['lg']},
+        {value:'lg-pour-une-nuit', label:'LG pour une nuit', games:['lg-1nuit']},
+        {value:'lg-pour-un-crepuscule', label:'LG: Crépuscule', games:['lg-1nuit']},
+        {value:'vampire-pour-une-nuit', label:'Vampire pour une nuit', games:['lg-1nuit']},
+      ],
+      get filteredEditions() {
+        if (!this.game) return this.editionOptions;
+        return this.editionOptions.filter(e => e.games.includes(this.game));
+      },
+      onGameChange() {
+        if (this.game && this.edition && !this.filteredEditions.some(e => e.value === this.edition)) this.edition = '';
+      },
+      filterCards(el) {
+        const q = this.search.toLowerCase();
+        const e = this.edition; const g = this.game;
+        const exp = this.showExperimental; const home = this.showHomemade;
+        el.querySelectorAll('[data-char]').forEach(card => {
+          const name = (card.dataset.name || '').toLowerCase();
+          const ced = card.dataset.edition || '';
+          const cgame = card.dataset.game || '';
+          const cexp = card.dataset.experimental === 'true';
+          const chome = card.dataset.homemade === 'true';
+          card.style.display = (!q || name.includes(q)) && (!e || ced.split(',').includes(e)) && (!g || cgame === g) && (!exp || cexp) && (!home || chome) ? '' : 'none';
+        });
+      }
+    };
+  }
+</script>
+{{ end }}
+      </section>
+    </div>
+  {{ else }}
     <section class="flex-ns mt4 flex-wrap">
       {{ range .Paginator.Pages }}
         <div class="w-100 w-30-l mb4 ph2">
@@ -10,6 +93,7 @@
         </div>
       {{ end }}
     </section>
-    {{ partial "pagination.html" . }}
-  </article>
+  {{ end }}
+  {{ partial "pagination.html" . }}
+</article>
 {{ end }}
