@@ -1,0 +1,197 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height">
+  <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links botc-text">
+    {{- .Content -}}
+  </section>
+
+  {{ $edition := .Params.edition | default "" }}
+  {{ $editions := .Params.editions }}
+  {{ $hasEdition := or $edition $editions }}
+  {{ $metaEditions := dict "loup-garou" (slice "loup-garou" "lg-nouvelle-lune" "lg-le-village" "lg-personnages" "lg-pour-une-nuit" "lg-pour-un-crepuscule") }}
+  {{ $isMeta := index $metaEditions $edition }}
+  {{ $allChars := where .Site.RegularPages "Section" "characters" }}
+
+  {{ if $isMeta }}
+    {{ $lgEditions := slice "loup-garou" "lg-nouvelle-lune" "lg-le-village" "lg-personnages" "lg-pour-une-nuit" "lg-pour-un-crepuscule" }}
+    {{ $lgLabels := dict "loup-garou" "Loup Garou" "lg-nouvelle-lune" "Nouvelle Lune" "lg-le-village" "Le Village" "lg-personnages" "Personnages" "lg-pour-une-nuit" "Pour une nuit" "lg-pour-un-crepuscule" "Crépuscule" }}
+    {{ $editionMeta := dict "loup-garou" (dict "label" "LG" "bg" "#333333") "lg-nouvelle-lune" (dict "label" "NL" "bg" "#666666") "lg-le-village" (dict "label" "Village" "bg" "#8B4513") "lg-personnages" (dict "label" "Perso" "bg" "#2d5016") "lg-pour-une-nuit" (dict "label" "1Nuit" "bg" "#1a237e") "lg-pour-un-crepuscule" (dict "label" "Crép" "bg" "#e67e22") "vampire-pour-une-nuit" (dict "label" "Vamp" "bg" "#8b0000") }}
+    {{ $typeColors := dict "townsfolk" "#3498db" "outsiders" "#1a237e" "minions" "#8e44ad" "demons" "#e74c3c" "travellers" "#6b5e4e" "fabled" "#f39c12" "loric" "#27ae60" "solo" "#607d8b" "werewolf" "#2d5016" "vampire" "#8b0000" }}
+    {{ $gameMap := dict "loup-garou" "lg" "lg-nouvelle-lune" "lg" "lg-le-village" "lg" "lg-personnages" "lg" "lg-pour-une-nuit" "lg-1nuit" "lg-pour-un-crepuscule" "lg-1nuit" "vampire-pour-une-nuit" "lg-1nuit" }}
+
+    <div x-data="charFilter()" class="mt4">
+      <div class="filter-bar">
+        <div class="flex-ns items-center mb2">
+          <input type="text" x-model="search" placeholder="Search characters..." class="filter-input" style="width:100%;">
+        </div>
+        <div class="flex flex-wrap items-center gap2" x-show="search || type || showExperimental || showHomemade">
+          <select x-model="type" class="filter-select" style="width:auto;min-width:130px;margin-right:0.5em;margin-bottom:0.3em;">
+            <option value="">All Types</option>
+            <option value="townsfolk">Townsfolk</option>
+            <option value="outsiders">Outsiders</option>
+            <option value="solo">Solo</option>
+            <option value="werewolf">Werewolf</option>
+            <option value="vampire">Vampire</option>
+          </select>
+          <select x-model="edition" class="filter-select" style="width:auto;min-width:130px;margin-right:0.5em;margin-bottom:0.3em;">
+            <option value="">All Editions</option>
+            <option value="loup-garou">Loup Garou</option>
+            <option value="lg-nouvelle-lune">LG: Nouvelle Lune</option>
+            <option value="lg-le-village">LG: Le Village</option>
+            <option value="lg-personnages">LG: Personnages</option>
+            <option value="lg-pour-une-nuit">LG pour une nuit</option>
+            <option value="lg-pour-un-crepuscule">LG: Crépuscule</option>
+          </select>
+          <label class="filter-label" style="margin-right:0.8em;margin-bottom:0.3em;">
+            <input type="checkbox" x-model="showExperimental" class="filter-checkbox"> Experimental
+          </label>
+          <label class="filter-label" style="margin-bottom:0.3em;">
+            <input type="checkbox" x-model="showHomemade" class="filter-checkbox"> Custom
+          </label>
+        </div>
+      </div>
+
+      {{ $shown := slice }}
+      {{ range $lgEditions }}
+        {{ $ed := . }}
+        {{ $chars := where $allChars "Params.edition" $ed }}
+        {{ $chars2 := where $allChars "Params.editions" "intersect" (slice $ed) }}
+        {{ $chars = $chars | union $chars2 }}
+
+        {{ $newChars := slice }}
+        {{ range $chars }}{{ if not (in $shown .) }}{{ $newChars = $newChars | append . }}{{ $shown = $shown | append . }}{{ end }}{{ end }}
+
+        {{ if len $newChars }}
+          <h3 style="color:var(--botc-gold);margin:1.5em 0 0.5em;border-bottom:1px solid var(--botc-border);padding-bottom:0.3em;">{{ index $lgLabels $ed }}</h3>
+          <div class="home-grid" style="grid-template-columns:repeat(auto-fill,minmax(180px,1fr));" data-edition-group="{{ $ed }}">
+          {{ range $newChars }}
+            {{ $borderColor := "#c9a84c" }}
+            {{ with .Params.charType }}{{ with index $typeColors . }}{{ $borderColor = . }}{{ end }}{{ end }}
+            {{ $editionList := slice }}{{ if .Params.editions }}{{ $editionList = .Params.editions }}{{ else if .Params.edition }}{{ $editionList = slice .Params.edition }}{{ end }}
+            {{ $firstEdition := index $editionList 0 | default "" }}{{ $game := "lg" }}{{ if $firstEdition }}{{ $game = index $gameMap $firstEdition | default "lg" }}{{ end }}
+            <a href="{{ .RelPermalink }}" class="home-card" style="text-align:left;align-items:flex-start;padding:0.7em 0.8em;border-left:3px solid {{ $borderColor }};position:relative;"
+               data-char
+               data-name="{{ .Title | lower }}"
+               data-type="{{ .Params.charType }}"
+               data-edition="{{ delimit $editionList "," }}"
+               data-experimental="{{ .Params.experimental }}"
+               data-homemade="{{ .Params.homemade }}"
+               data-game="{{ $game }}">
+              <div class="botc-muted" style="font-size:0.6rem;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:0.15em;">{{ .CurrentSection.Title }}</div>
+              <h2 style="font-size:0.85rem;color:var(--botc-gold);margin:0 0 0.3em;font-weight:700;">{{ .Title }}</h2>
+              <div style="display:flex;flex-wrap:wrap;gap:0.3em;align-items:center;">
+                {{ range $editionList }}
+                  {{ with index $editionMeta . }}
+                    <span style="font-size:0.6rem;background:{{ .bg }};color:#fff;border-radius:3px;padding:0.1em 0.4em;line-height:1.4;">{{ .label }}</span>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </a>
+          {{ end }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+    <script>
+      function charFilter() {
+        return { search:'', type:'', edition:'', game:'loup-garou', showExperimental:false, showHomemade:false,
+          filterCards(el) {
+            el.querySelectorAll('[data-char]').forEach(card => {
+              const q = this.search.toLowerCase();
+              const t = this.type; const e = this.edition;
+              const exp = this.showExperimental; const home = this.showHomemade;
+              const name = (card.dataset.name||'').toLowerCase();
+              const ctype = card.dataset.type||'';
+              const ced = card.dataset.edition||'';
+              card.style.display = (!q||name.includes(q)) && (!t||ctype===t) && (!e||ced.split(',').includes(e)) && (!exp||card.dataset.experimental==='true') && (!home||card.dataset.homemade==='true') ? '' : 'none';
+            });
+          }
+        };
+      }
+    </script>
+
+  {{ else if $hasEdition }}
+    {{ $editions := .Params.editions | default (slice $edition) }}
+    {{ $chars := where $allChars "Params.edition" "in" $editions }}
+    {{ $chars2 := where $allChars "Params.editions" "intersect" $editions }}
+    {{ $filtered := $chars | union $chars2 }}
+
+    {{ $editionMeta := dict "trouble-brewing" (dict "label" "TB" "bg" "#c0392b") "bad-moon-rising" (dict "label" "BMR" "bg" "#e67e22") "sects-and-violets" (dict "label" "S&V" "bg" "#8e44ad") "loup-garou" (dict "label" "LG" "bg" "#333333") "lg-nouvelle-lune" (dict "label" "NL" "bg" "#666666") "lg-le-village" (dict "label" "Village" "bg" "#8B4513") "lg-personnages" (dict "label" "Perso" "bg" "#2d5016") "lg-pour-une-nuit" (dict "label" "1Nuit" "bg" "#1a237e") "lg-pour-un-crepuscule" (dict "label" "Crép" "bg" "#e67e22") "vampire-pour-une-nuit" (dict "label" "Vamp" "bg" "#8b0000") }}
+    {{ $typeColors := dict "townsfolk" "#3498db" "outsiders" "#1a237e" "minions" "#8e44ad" "demons" "#e74c3c" "travellers" "#6b5e4e" "fabled" "#f39c12" "loric" "#27ae60" "solo" "#607d8b" "werewolf" "#2d5016" "vampire" "#8b0000" }}
+    {{ $gameMap := dict "trouble-brewing" "botc" "bad-moon-rising" "botc" "sects-and-violets" "botc" "loup-garou" "lg" "lg-nouvelle-lune" "lg" "lg-le-village" "lg" "lg-personnages" "lg" "lg-pour-une-nuit" "lg-1nuit" "lg-pour-un-crepuscule" "lg-1nuit" "vampire-pour-une-nuit" "lg-1nuit" }}
+
+    <div x-data="charFilter()" class="mt4">
+      <div class="filter-bar">
+        <div class="flex-ns items-center mb2">
+          <input type="text" x-model="search" placeholder="Search characters..." class="filter-input" style="width:100%;">
+        </div>
+        <div class="flex flex-wrap items-center gap2" x-show="search || type || showExperimental || showHomemade">
+          <select x-model="type" class="filter-select" style="width:auto;min-width:130px;margin-right:0.5em;margin-bottom:0.3em;">
+            <option value="">All Types</option>
+            <option value="townsfolk">Townsfolk</option>
+            <option value="outsiders">Outsiders</option>
+            <option value="minions">Minions</option>
+            <option value="demons">Demons</option>
+            <option value="travellers">Travellers</option>
+            <option value="fabled">Fabled</option>
+            <option value="loric">Loric</option>
+            <option value="solo">Solo</option>
+            <option value="werewolf">Werewolf</option>
+            <option value="vampire">Vampire</option>
+          </select>
+          <label class="filter-label" style="margin-right:0.8em;margin-bottom:0.3em;">
+            <input type="checkbox" x-model="showExperimental" class="filter-checkbox"> Experimental
+          </label>
+          <label class="filter-label" style="margin-bottom:0.3em;">
+            <input type="checkbox" x-model="showHomemade" class="filter-checkbox"> Custom
+          </label>
+        </div>
+      </div>
+      <div class="home-grid" style="grid-template-columns:repeat(auto-fill,minmax(180px,1fr));" x-effect="filterCards($el)">
+        {{ range $filtered }}
+          {{ $borderColor := "#c9a84c" }}
+          {{ with .Params.charType }}{{ with index $typeColors . }}{{ $borderColor = . }}{{ end }}{{ end }}
+          {{ $editionList := slice }}{{ if .Params.editions }}{{ $editionList = .Params.editions }}{{ else if .Params.edition }}{{ $editionList = slice .Params.edition }}{{ end }}
+          {{ $firstEdition := index $editionList 0 | default "" }}{{ $game := "botc" }}{{ if $firstEdition }}{{ $game = index $gameMap $firstEdition | default "botc" }}{{ end }}
+          <a href="{{ .RelPermalink }}" class="home-card" style="text-align:left;align-items:flex-start;padding:0.7em 0.8em;border-left:3px solid {{ $borderColor }};position:relative;"
+             data-char
+             data-name="{{ .Title | lower }}"
+             data-type="{{ .Params.charType }}"
+             data-edition="{{ delimit $editionList "," }}"
+             data-experimental="{{ .Params.experimental }}"
+             data-homemade="{{ .Params.homemade }}"
+             data-game="{{ $game }}">
+            <div class="botc-muted" style="font-size:0.6rem;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:0.15em;">{{ .CurrentSection.Title }}</div>
+            <h2 style="font-size:0.85rem;color:var(--botc-gold);margin:0 0 0.3em;font-weight:700;">{{ .Title }}</h2>
+            <div style="display:flex;flex-wrap:wrap;gap:0.3em;align-items:center;">
+              {{ range $editionList }}
+                {{ with index $editionMeta . }}
+                  <span style="font-size:0.6rem;background:{{ .bg }};color:#fff;border-radius:3px;padding:0.1em 0.4em;line-height:1.4;">{{ .label }}</span>
+                {{ end }}
+              {{ end }}
+              {{ if .Params.experimental }}<span style="font-size:0.6rem;line-height:1.4;">⚠️</span>{{ end }}
+              {{ if .Params.homemade }}<span style="font-size:0.6rem;line-height:1.4;">🔧</span>{{ end }}
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+    <script>
+      function charFilter() {
+        return { search:'', type:'', edition:'', game:'', showExperimental:false, showHomemade:false,
+          filterCards(el) {
+            el.querySelectorAll('[data-char]').forEach(card => {
+              const q = this.search.toLowerCase();
+              const t = this.type; const e = this.edition;
+              const exp = this.showExperimental; const home = this.showHomemade;
+              const name = (card.dataset.name||'').toLowerCase();
+              const ctype = card.dataset.type||'';
+              const ced = card.dataset.edition||'';
+              card.style.display = (!q||name.includes(q)) && (!t||ctype===t) && (!e||ced.split(',').includes(e)) && (!exp||card.dataset.experimental==='true') && (!home||card.dataset.homemade==='true') ? '' : 'none';
+            });
+          }
+        };
+      }
+    </script>
+  {{ end }}
+</article>
+{{ end }}
