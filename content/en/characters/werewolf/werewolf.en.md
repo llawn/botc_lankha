@@ -1,10 +1,10 @@
 ---
 title: "Werewolf"
 weight: 1300
-charType: "demons"
+charType: "werewolf"
 summary: "\"Each night*, choose a player: they die. If you kill a lover, both die tonight.\"\n\nThe Werewolf stalks the village each night, driven by an insatiable hunger.\n* Each night except the first, the Werewolf chooses a player to kill.\n* The Werewolf knows which Minions are in play, and three not-in-play good characters to bluff as.\n* If the Werewolf kills a player who is a lover, that player's lover also dies the same night.\n* The Werewolf wins if only evil players remain alive."
 flavour: "\"The moon calls to me, a siren's song of blood and bone. I try to resist, but the beast inside... the beast always wins.\""
-edition: "loup-garou"
+editions: ["loup-garou", "lg-pour-une-nuit"]
 homemade: true
 section: "characters"
 toc: true
@@ -25,11 +25,17 @@ Each night except the first, wake the Werewolf. They point to any living player.
 
 ##  Examples
 
-				The Werewolf kills Marie on night three. Marie is not a lover. Only Marie dies.
+{{< example >}}
+The Werewolf kills Marie on night three. Marie is not a lover. Only Marie dies.
+{{< /example >}}
 
-				The Werewolf kills Pierre. Pierre is a lover of Claire. Both Pierre and Claire die.
+{{< example >}}
+The Werewolf kills Pierre. Pierre is a lover of Claire. Both Pierre and Claire die.
+{{< /example >}}
 
-				The Werewolf kills Claire, who is Cupid's lover (Cupid made themselves Claire's lover). Both Claire and Cupid die.
+{{< example >}}
+The Werewolf kills Claire, who is Cupid's lover (Cupid made themselves Claire's lover). Both Claire and Cupid die.
+{{< /example >}}
 
 ##  Tips & Tricks
 
