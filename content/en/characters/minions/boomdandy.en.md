@@ -29,7 +29,9 @@ Your countdown should be longer than ten seconds, and as slow, dramatic, or erra
 
 ##  Examples
 
-				Amy is the Boomdandy. She is executed. She explodes, killing all players except for the Po, the Widow, and the Fortune Teller. Frantically, all players start pointing at each other, and talking about who should be pointed at. After counting down, the Storyteller calls “Freeze” and the Widow has the most number of fingers pointed at them, and dies. Evil wins.
+{{< example >}}
+Amy is the Boomdandy. She is executed. She explodes, killing all players except for the Po, the Widow, and the Fortune Teller. Frantically, all players start pointing at each other, and talking about who should be pointed at. After counting down, the Storyteller calls “Freeze” and the Widow has the most number of fingers pointed at them, and dies. Evil wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -23,15 +23,25 @@ Each time the Recluse is targeted by an ability that detects or affects evil cha
 
 ##  Examples
 
-				The Slayer uses their ability on the Recluse. The Storyteller decides that the Recluse registers as the Imp, so the Recluse dies. The Slayer believes that they just killed the Imp.
+{{< example >}}
+The Slayer uses their ability on the Recluse. The Storyteller decides that the Recluse registers as the Imp, so the Recluse dies. The Slayer believes that they just killed the Imp.
+{{< /example >}}
 
-				The Empath, who neighbours the Recluse and the Monk, learns she is neighbouring one evil player. The next night, the Empath learns they are neighbouring no evil players.
+{{< example >}}
+The Empath, who neighbours the Recluse and the Monk, learns she is neighbouring one evil player. The next night, the Empath learns they are neighbouring no evil players.
+{{< /example >}}
 
-				The Investigator learns that either the Recluse or the Saint is the Scarlet Woman.
+{{< example >}}
+The Investigator learns that either the Recluse or the Saint is the Scarlet Woman.
+{{< /example >}}
 
-				The Recluse is executed. The Undertaker learns that the Imp was executed.
+{{< example >}}
+The Recluse is executed. The Undertaker learns that the Imp was executed.
+{{< /example >}}
 
-				The Recluse neighbours the Imp and an Evil Traveller. Because showing a "2" to the Chef might be too revealing, the Chef learns true information, a "0,” instead.
+{{< example >}}
+The Recluse neighbours the Imp and an Evil Traveller. Because showing a "2" to the Chef might be too revealing, the Chef learns true information, a "0,” instead.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -25,9 +25,13 @@ Each night, wake the Guard. They point to any living player except themselves. M
 
 ##  Examples
 
-				The Guard protects Marie on night two. The Werewolf chooses Marie. Marie does not die.
+{{< example >}}
+The Guard protects Marie on night two. The Werewolf chooses Marie. Marie does not die.
+{{< /example >}}
 
-				The Guard protects Pierre. Pierre is executed at dawn. The Guard's protection does not save Pierre from execution.
+{{< example >}}
+The Guard protects Pierre. Pierre is executed at dawn. The Guard's protection does not save Pierre from execution.
+{{< /example >}}
 
 ##  Tips & Tricks
 

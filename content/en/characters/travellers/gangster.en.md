@@ -24,11 +24,17 @@ Once per day, the Gangster can declare that they wish to use their ability. If s
 
 ##  Examples
 
-				The Gangster neighbors the Saint and the Baron. The Gangster asks the Baron if they want to kill the Saint. The Baron agrees and the Saint dies.
+{{< example >}}
+The Gangster neighbors the Saint and the Baron. The Gangster asks the Baron if they want to kill the Saint. The Baron agrees and the Saint dies.
+{{< /example >}}
 
-				The Gangster neighbours the Chambermaid and the Poppy Grower, but they are both dead. The Gangster’s two living neighbours are the Engineer and the Po. The Gangster talks with the Po and offers to kill the Engineer. The Po declines. The Gangster talks with the Engineer and the Engineer asks the Gangster to kill the Po. The Gangster agrees, and the Po dies. Good wins.
+{{< example >}}
+The Gangster neighbours the Chambermaid and the Poppy Grower, but they are both dead. The Gangster’s two living neighbours are the Engineer and the Po. The Gangster talks with the Po and offers to kill the Engineer. The Po declines. The Gangster talks with the Engineer and the Engineer asks the Gangster to kill the Po. The Gangster agrees, and the Po dies. Good wins.
+{{< /example >}}
 
-				The Gangster neighbours the Fool and the Sage. The Sage and the Gangster kill the Fool but the Fool doesn’t die, because of the Fool's ability. The Gangster may not use their ability again today.
+{{< example >}}
+The Gangster neighbours the Fool and the Sage. The Sage and the Gangster kill the Fool but the Fool doesn’t die, because of the Fool's ability. The Gangster may not use their ability again today.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

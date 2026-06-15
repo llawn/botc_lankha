@@ -26,11 +26,17 @@ Tomorrow, if the player marked **MAD** is not mad that the player marked **2ND**
 
 ##  Examples
 
-				The Harpy chooses the Monk and the Engineer. The Monk claims to be the Investigator who saw the Engineer and campaigns for them to be executed. When challenged, they are emphatic in their claims that the Engineer is most likely evil due to their information, and so avoid death.
+{{< example >}}
+The Harpy chooses the Monk and the Engineer. The Monk claims to be the Investigator who saw the Engineer and campaigns for them to be executed. When challenged, they are emphatic in their claims that the Engineer is most likely evil due to their information, and so avoid death.
+{{< /example >}}
 
+{{< example >}}
 The Harpy chooses the Oracle and the dead Alchemist. The Oracle claims that they trust the Alchemist because their Oracle information indicates that they were not evil. The Storyteller declares that the Oracle dies.
+{{< /example >}}
 
+{{< example >}}
 The Farmer is chosen by the Harpy. As they don't have any information themselves to claim in order to imply that the other player is evil, they make a concerted effort to find information that might clear each of the other living people, leaving their target as the remaining Demon candidate and therefore evil by implication.
+{{< /example >}}
 
 ##  Tips & Tricks
 

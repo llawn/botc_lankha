@@ -25,9 +25,13 @@ If a player marked **CANNOT DIE** would die, they remain alive. If a player mark
 
 ##  Examples
 
-				The Tea Lady starts the game neighbouring the Mastermind and the good Goon. The Mastermind is executed and dies. Now, the Tea Lady's alive neighbours are the good Goon and the Courtier. The Demon attacks the Courtier, but the Courtier remains alive. Later, the Goon turns evil, and the Demon attacks the Courtier again. This time, the Courtier dies.
+{{< example >}}
+The Tea Lady starts the game neighbouring the Mastermind and the good Goon. The Mastermind is executed and dies. Now, the Tea Lady's alive neighbours are the good Goon and the Courtier. The Demon attacks the Courtier, but the Courtier remains alive. Later, the Goon turns evil, and the Demon attacks the Courtier again. This time, the Courtier dies.
+{{< /example >}}
 
-				The Tea Lady's alive neighbours are a good Matron and a good Judge. The Matron is exiled but remains alive.
+{{< example >}}
+The Tea Lady's alive neighbours are a good Matron and a good Judge. The Matron is exiled but remains alive.
+{{< /example >}}
 
 ##  Tips & Tricks
 

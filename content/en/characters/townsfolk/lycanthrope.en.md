@@ -28,11 +28,17 @@ Each night except the first, wake the Lycanthrope. They point at any player. Put
 
 ##  Examples
 
-				The Lycanthrope attacks the General. The General dies. Later that night, the Imp attacks the Amnesiac. The Amnesiac does not die, because the Imp cannot kill tonight.
+{{< example >}}
+The Lycanthrope attacks the General. The General dies. Later that night, the Imp attacks the Amnesiac. The Amnesiac does not die, because the Imp cannot kill tonight.
+{{< /example >}}
 
-				The Lycanthrope attacks the Farmer. The Farmer dies, and another good player becomes a Farmer. The Magician was poisoned by the Pukka last night but does not die tonight, because the Pukka cannot kill tonight.
+{{< example >}}
+The Lycanthrope attacks the Farmer. The Farmer dies, and another good player becomes a Farmer. The Magician was poisoned by the Pukka last night but does not die tonight, because the Pukka cannot kill tonight.
+{{< /example >}}
 
-				The Lycanthrope attacks the Godfather. The Godfather does not die, because the Godfather is evil. The Lycanthrope attacks the Zealot, who is registering as evil due to the Lycanthrope’s ability. The Zealot does not die. The Demon attacks the Lycanthrope and the Lycanthrope dies.
+{{< example >}}
+The Lycanthrope attacks the Godfather. The Godfather does not die, because the Godfather is evil. The Lycanthrope attacks the Zealot, who is registering as evil due to the Lycanthrope’s ability. The Zealot does not die. The Demon attacks the Lycanthrope and the Lycanthrope dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

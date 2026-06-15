@@ -26,11 +26,17 @@ If the Townsfolk marked **MAD** dies, and you feel that the Pixie player has bee
 
 ##  Examples
 
-				Amy is the Pixie, and knows that the Washerwoman is in play. For three days, Amy claims that the Washerwoman player is lying, because she is the Washerwoman. The Washerwoman is executed. That night, Amy gains the Washerwoman ability, and learns that one of two people is the Monk.
+{{< example >}}
+Amy is the Pixie, and knows that the Washerwoman is in play. For three days, Amy claims that the Washerwoman player is lying, because she is the Washerwoman. The Washerwoman is executed. That night, Amy gains the Washerwoman ability, and learns that one of two people is the Monk.
+{{< /example >}}
 
-				Doug is the Drunk Pixie. He learns that the Lycanthrope is in play. There is no Lycanthrope in play, but a Minion bluffs as the Lycanthrope. The Minion dies. The Storyteller wakes Doug and Doug chooses a player to “attack” each night, but they do not die because Doug does not have the Lycanthrope ability.
+{{< example >}}
+Doug is the Drunk Pixie. He learns that the Lycanthrope is in play. There is no Lycanthrope in play, but a Minion bluffs as the Lycanthrope. The Minion dies. The Storyteller wakes Doug and Doug chooses a player to “attack” each night, but they do not die because Doug does not have the Lycanthrope ability.
+{{< /example >}}
 
-				On the first day, the Pixie player claims to be the Soldier. The real Soldier also claims to be the Soldier. The Pixie player doesn’t dispute this. When the Soldier dies, the Pixie player does not gain the Soldier ability, as the Storyteller feels that the Pixie did not really pretend to be the Soldier.
+{{< example >}}
+On the first day, the Pixie player claims to be the Soldier. The real Soldier also claims to be the Soldier. The Pixie player doesn’t dispute this. When the Soldier dies, the Pixie player does not gain the Soldier ability, as the Storyteller feels that the Pixie did not really pretend to be the Soldier.
+{{< /example >}}
 
 ##  Tips & Tricks
 

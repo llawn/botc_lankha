@@ -25,11 +25,17 @@ When this Minion would normally act, the relevant choices are made by the Storyt
 
 ##  Examples
 
-				The Plague Doctor dies. The Storyteller gains the Poisoner ability and chooses a player to poison each night for the rest of the game.
+{{< example >}}
+The Plague Doctor dies. The Storyteller gains the Poisoner ability and chooses a player to poison each night for the rest of the game.
+{{< /example >}}
 
+{{< example >}}
 The Plague Doctor is executed and the Storyteller gains the Cerenovus ability. That night, the Pit-Hag turns the Witch into the Cerenovus. There are now two Cerenovus abilities in play – the Storyteller’s and the new Cerenovus’.
+{{< /example >}}
 
+{{< example >}}
 The Plague Doctor has died and the Storyteller has had the Organ Grinder ability for two days. The Plague Doctor is made drunk by the Minstrel. The Storyteller still has the Organ Grinder ability as they gained it when the Plague Doctor died and the Plague Doctor now being drunk does not affect that.
+{{< /example >}}
 
 ##  Tips & Tricks
 

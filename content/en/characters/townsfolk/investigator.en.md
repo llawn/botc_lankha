@@ -22,11 +22,17 @@ During the first night, wake the Investigator and point to the players marked **
 
 ##  Examples
 
-				Amy is the Baron, and Julian is the Mayor. The Investigator learns that either Amy or Julian is the Baron.
+{{< example >}}
+Amy is the Baron, and Julian is the Mayor. The Investigator learns that either Amy or Julian is the Baron.
+{{< /example >}}
 
-				Angelus is the Spy, and Lewis is the Poisoner. The Investigator learns that either Angelus or Lewis is the Spy.
+{{< example >}}
+Angelus is the Spy, and Lewis is the Poisoner. The Investigator learns that either Angelus or Lewis is the Spy.
+{{< /example >}}
 
-				Brianna is the Recluse, and Marianna is the Imp. The Investigator learns that either Brianna or Marianna is the Poisoner. (This happens because the Recluse is registering as a Minion—in this case, the Poisoner.)
+{{< example >}}
+Brianna is the Recluse, and Marianna is the Imp. The Investigator learns that either Brianna or Marianna is the Poisoner. (This happens because the Recluse is registering as a Minion—in this case, the Poisoner.)
+{{< /example >}}
 
 ##  Tips & Tricks
 

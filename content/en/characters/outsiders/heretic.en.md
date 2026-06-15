@@ -26,15 +26,25 @@ If the game ends and the good team would have won, declare that the evil team wi
 
 ##  Examples
 
-				On the first day, the Heretic publicly claims to be the Heretic. That night, the Demon kills themself. Evil wins.
+{{< example >}}
+On the first day, the Heretic publicly claims to be the Heretic. That night, the Demon kills themself. Evil wins.
+{{< /example >}}
 
-				The Heretic does not reveal their character until the final day, when 3 players are alive. They convince the good team to execute a good player, leaving 2 players alive, one of which is the Demon. Good wins.
+{{< example >}}
+The Heretic does not reveal their character until the final day, when 3 players are alive. They convince the good team to execute a good player, leaving 2 players alive, one of which is the Demon. Good wins.
+{{< /example >}}
 
-				The Heretic is dead. The Saint is executed. Good wins.
+{{< example >}}
+The Heretic is dead. The Saint is executed. Good wins.
+{{< /example >}}
 
-				The Heretic is poisoned. The Assassin kills the Demon. Good wins.
+{{< example >}}
+The Heretic is poisoned. The Assassin kills the Demon. Good wins.
+{{< /example >}}
 
-				There are 3 players alive. The Demon is executed. Because there is a Heretic in play, evil wins.
+{{< example >}}
+There are 3 players alive. The Demon is executed. Because there is a Heretic in play, evil wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

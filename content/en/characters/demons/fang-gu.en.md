@@ -33,7 +33,9 @@ If the chosen player is an Outsider and the **ONCE** reminder is not in the cent
 
 ##  Examples
 
-				The Fang Gu attacks the Artist, who dies. The next night, the Fang Gu attacks the Sweetheart, who becomes the Fang Gu while the old Fang Gu dies. The Sweetheart does not make a player drunk, because they did not die. The next night, the new Fang Gu attacks the Klutz, who dies.
+{{< example >}}
+The Fang Gu attacks the Artist, who dies. The next night, the Fang Gu attacks the Sweetheart, who becomes the Fang Gu while the old Fang Gu dies. The Sweetheart does not make a player drunk, because they did not die. The next night, the new Fang Gu attacks the Klutz, who dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

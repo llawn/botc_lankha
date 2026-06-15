@@ -4,7 +4,7 @@ weight: 100
 charType: "townsfolk"
 summary: "\"Each night*, choose a player: you learn their character.\"\n\nThe Seer peers into the soul of a chosen player and learns their true nature.\n* Each night except the first, the Seer wakes and chooses a living player.\n* The Storyteller shows the Seer the character token of that player.\n* The information is true unless the Seer is drunk or poisoned.\n* The Seer learns the exact character, not just alignment."
 flavour: "\"I see the truth in your heart, even if your lips speak lies.\""
-edition: "loup-garou"
+editions: ["loup-garou", "lg-pour-une-nuit"]
 homemade: true
 section: "characters"
 toc: true
@@ -25,9 +25,13 @@ Each night except the first, wake the Seer. They point to any living player. Sho
 
 ##  Examples
 
-				The Seer chooses Marie on night two. Marie is the Werewolf. The Storyteller shows the Werewolf token to the Seer.
+{{< example >}}
+The Seer chooses Marie on night two. Marie is the Werewolf. The Storyteller shows the Werewolf token to the Seer.
+{{< /example >}}
 
-				The Seer chooses Pierre, who is the Guard. The Storyteller shows the Guard token. Pierre is confirmed good.
+{{< example >}}
+The Seer chooses Pierre, who is the Guard. The Storyteller shows the Guard token. Pierre is confirmed good.
+{{< /example >}}
 
 ##  Tips & Tricks
 

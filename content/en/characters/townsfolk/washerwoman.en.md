@@ -22,11 +22,17 @@ During the first night, wake the Washerwoman and point to the players marked **T
 
 ##  Examples
 
-				Evin is the Chef, and Amy is the Ravenkeeper. The Washerwoman learns that either Evin or Amy is the Chef.
+{{< example >}}
+Evin is the Chef, and Amy is the Ravenkeeper. The Washerwoman learns that either Evin or Amy is the Chef.
+{{< /example >}}
 
-				Julian is the Imp, and Alex is the Virgin. The Washerwoman learns that either Julian or Alex is the Virgin.
+{{< example >}}
+Julian is the Imp, and Alex is the Virgin. The Washerwoman learns that either Julian or Alex is the Virgin.
+{{< /example >}}
 
-				Marianna is the Spy, and Sarah is the Scarlet Woman. The Washerwoman learns that one of them is the Ravenkeeper. Here, the Spy is registering as a Townsfolk—in this case, the Ravenkeeper.
+{{< example >}}
+Marianna is the Spy, and Sarah is the Scarlet Woman. The Washerwoman learns that one of them is the Ravenkeeper. Here, the Spy is registering as a Townsfolk—in this case, the Ravenkeeper.
+{{< /example >}}
 
 ##  Tips & Tricks
 

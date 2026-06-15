@@ -36,9 +36,13 @@ If the players try to force others to vote to “test whether the vote tally is 
 
 ##  Examples
 
-				The only good players are the Fortune Teller and the Slayer. 6 Legion and the Slayer vote to execute the Fortune Teller. They are executed, and evil wins.
+{{< example >}}
+The only good players are the Fortune Teller and the Slayer. 6 Legion and the Slayer vote to execute the Fortune Teller. They are executed, and evil wins.
+{{< /example >}}
 
-				4 players are alive. 3 Legion and no good players vote to execute Julian. Julian is not executed. Alex, who has 2 votes, 1 of which is a good player, is executed instead. Evil wins.
+{{< example >}}
+4 players are alive. 3 Legion and no good players vote to execute Julian. Julian is not executed. Alex, who has 2 votes, 1 of which is a good player, is executed instead. Evil wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

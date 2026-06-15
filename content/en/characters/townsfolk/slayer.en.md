@@ -28,11 +28,17 @@ When the Slayer declares that they wish to use their ability, give the group a m
 
 ##  Examples
 
-				The Slayer chooses the Imp. The Imp dies, and good wins!
+{{< example >}}
+The Slayer chooses the Imp. The Imp dies, and good wins!
+{{< /example >}}
 
-				The Slayer chooses the Recluse. The Storyteller decides that the Recluse registers as the Imp, so the Recluse dies, but the game continues.
+{{< example >}}
+The Slayer chooses the Recluse. The Storyteller decides that the Recluse registers as the Imp, so the Recluse dies, but the game continues.
+{{< /example >}}
 
-				The Imp is bluffing as the Slayer. They declare that they use their Slayer ability on the Scarlet Woman. Nothing happens.
+{{< example >}}
+The Imp is bluffing as the Slayer. They declare that they use their Slayer ability on the Scarlet Woman. Nothing happens.
+{{< /example >}}
 
 ##  Tips & Tricks
 

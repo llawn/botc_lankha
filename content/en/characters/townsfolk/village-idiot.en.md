@@ -30,9 +30,13 @@ During each night, wake any Village Idiot. They point to a player. Give a thumbs
 
 ##  Examples
 
-				Doug, Lewis, and Amy are all Village Idiots. Doug is drunk. At night, they all choose Evin, the Kazali. Doug learns that Evin is good. Lewis and Amy learn that Evin is evil.
+{{< example >}}
+Doug, Lewis, and Amy are all Village Idiots. Doug is drunk. At night, they all choose Evin, the Kazali. Doug learns that Evin is good. Lewis and Amy learn that Evin is evil.
+{{< /example >}}
 
-				Ben and Marianna are Village Idiots. Marianna is drunk. Sarah is evil, and bluffing as the Village Idiot. Ben chooses Sarah and learns that she is evil. Marianna chooses the Heretic player and learns that they are good. Sarah claims to have chosen Ben and learnt that he is evil.
+{{< example >}}
+Ben and Marianna are Village Idiots. Marianna is drunk. Sarah is evil, and bluffing as the Village Idiot. Ben chooses Sarah and learns that she is evil. Marianna chooses the Heretic player and learns that they are good. Sarah claims to have chosen Ben and learnt that he is evil.
+{{< /example >}}
 
 ##  Tips & Tricks
 *  Find your fellow idiots. The easiest way for you to find out which of you is drunk is to compare your information and spot where there are agreements and disagreements. And, if you’re the only Village Idiot out there, you know you’re sober!

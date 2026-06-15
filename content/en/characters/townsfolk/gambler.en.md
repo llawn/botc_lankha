@@ -22,9 +22,13 @@ Each night except the first, wake the Gambler. They point at any player, then po
 
 ##  Examples
 
-				The Gambler points to the Minstrel player, then to the Minstrel icon. This guess is correct, so the Gambler remains alive, but is killed by the Demon tonight anyway.
+{{< example >}}
+The Gambler points to the Minstrel player, then to the Minstrel icon. This guess is correct, so the Gambler remains alive, but is killed by the Demon tonight anyway.
+{{< /example >}}
 
-				The Devil's Advocate is bluffing as the Pacifist. That night, the Gambler points to the Devil's Advocate player, then to the Pacifist icon. This guess is wrong, so the Gambler dies.
+{{< example >}}
+The Devil's Advocate is bluffing as the Pacifist. That night, the Gambler points to the Devil's Advocate player, then to the Pacifist icon. This guess is wrong, so the Gambler dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

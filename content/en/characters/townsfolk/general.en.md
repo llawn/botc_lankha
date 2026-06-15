@@ -23,11 +23,17 @@ Each night, wake the General. If you believe that the good team is winning, give
 
 ##  Examples
 
-				There are 5 good players alive and 4 evil players alive. Even though the Demon is very suspicious and will probably be executed next, there is a Scarlet Woman in play, who is very trustworthy. The Storyteller gives a thumbs down.
+{{< example >}}
+There are 5 good players alive and 4 evil players alive. Even though the Demon is very suspicious and will probably be executed next, there is a Scarlet Woman in play, who is very trustworthy. The Storyteller gives a thumbs down.
+{{< /example >}}
 
-				The Good team has a lot of information, and believes that their false information is indeed false. The only Minion is dead. The Storyteller gives a thumbs up.
+{{< example >}}
+The Good team has a lot of information, and believes that their false information is indeed false. The only Minion is dead. The Storyteller gives a thumbs up.
+{{< /example >}}
 
-				The Po is a very experienced player and is coordinating well with the Minions. The Monk is successfully protecting the Savant each night and the good team have correctly identified several good players. However, the Po will probably kill 3 times tomorrow night, so it is anyone’s game. The Storyteller gives a thumbs to the side.
+{{< example >}}
+The Po is a very experienced player and is coordinating well with the Minions. The Monk is successfully protecting the Savant each night and the good team have correctly identified several good players. However, the Po will probably kill 3 times tomorrow night, so it is anyone’s game. The Storyteller gives a thumbs to the side.
+{{< /example >}}
 
 ##  Tips & Tricks
 

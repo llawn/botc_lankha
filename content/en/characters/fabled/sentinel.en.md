@@ -23,9 +23,13 @@ While setting up the game, before putting character tokens in the bag, add an Ou
 
 ##  Examples
 
-				There are seven players in this game. There are no characters on the character list that add Outsiders. The Demon bluffs as the Saint. A Sentinel is in play, so the good players are not sure if there is actually a Saint or not.
+{{< example >}}
+There are seven players in this game. There are no characters on the character list that add Outsiders. The Demon bluffs as the Saint. A Sentinel is in play, so the good players are not sure if there is actually a Saint or not.
+{{< /example >}}
 
-				There are nine players in this game. Even though a Baron is on the character list, the good players know no Baron is in play because the Witch just killed a player, so there should be just two Outsiders in play. However, the Outsiders cannot be trusted because a Sentinel is in play. Indeed, there is one less Outsider than normal in this game, and the Witch is bluffing as the Butler.
+{{< example >}}
+There are nine players in this game. Even though a Baron is on the character list, the good players know no Baron is in play because the Witch just killed a player, so there should be just two Outsiders in play. However, the Outsiders cannot be trusted because a Sentinel is in play. Indeed, there is one less Outsider than normal in this game, and the Witch is bluffing as the Butler.
+{{< /example >}}
 
 ##  Explanation
 

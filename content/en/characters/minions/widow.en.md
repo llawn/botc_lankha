@@ -26,11 +26,17 @@ Wake the player marked **KNOW**. Show them the Widow character token. Put that g
 
 ##  Examples
 
-				The Widow sees the Grimoire and points to the Sailor. The Sailor is poisoned this game. The Sailor is sober, but dies when executed.
+{{< example >}}
+The Widow sees the Grimoire and points to the Sailor. The Sailor is poisoned this game. The Sailor is sober, but dies when executed.
+{{< /example >}}
 
-				On the third night, the Pit-Hag turns themselves into the Widow. That night, the good Scapegoat learns that a Widow is in play.
+{{< example >}}
+On the third night, the Pit-Hag turns themselves into the Widow. That night, the good Scapegoat learns that a Widow is in play.
+{{< /example >}}
 
-				The Empath is poisoned due to the Widow. The Widow becomes drunk due to the Innkeeper. The Empath is no longer poisoned. The Innkeeper dies. The Widow is now sober and the Empath is poisoned again.
+{{< example >}}
+The Empath is poisoned due to the Widow. The Widow becomes drunk due to the Innkeeper. The Empath is no longer poisoned. The Innkeeper dies. The Widow is now sober and the Empath is poisoned again.
+{{< /example >}}
 
 ##  Tips & Tricks
 

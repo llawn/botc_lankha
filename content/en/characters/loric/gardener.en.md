@@ -22,4 +22,6 @@ During setup, instead of putting the character tokens in the bag, put them face-
 
 ##  Examples
 
+{{< example >}}
 The Storyteller wants to set up a game that has the Wraith, Lord of Typhon, Cerenovus, Zealot, Monk, Alsaahir, Banshee, High Priestess, and Balloonist. The Storyteller sets up these characters in this order, places them face down, and the players take their tokens. Ben is the Lord of Typhon and Julian is the High Priestess.
+{{< /example >}}

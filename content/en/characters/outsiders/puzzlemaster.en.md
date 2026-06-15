@@ -30,9 +30,13 @@ While you can make a Minion or the Demon drunk with the Puzzlemaster ability, on
 
 ##  Examples
 
-				Alex is the Demon. Sarah is the Empath who has been made drunk by the Puzzlemaster and is getting false information. The Puzzlemaster publicly guesses that Sarah is drunk, and is told “Alex is the Demon” privately by the Storyteller.
+{{< example >}}
+Alex is the Demon. Sarah is the Empath who has been made drunk by the Puzzlemaster and is getting false information. The Puzzlemaster publicly guesses that Sarah is drunk, and is told “Alex is the Demon” privately by the Storyteller.
+{{< /example >}}
 
-				Lewis is the Demon. Ben is dead and is drunk due to the Puzzlemaster. Marianna is alive and drunk due to the Sailor. The Puzzlemaster privately guesses Marianna, and is told “Evin is the Demon” privately by the Storyteller.
+{{< example >}}
+Lewis is the Demon. Ben is dead and is drunk due to the Puzzlemaster. Marianna is alive and drunk due to the Sailor. The Puzzlemaster privately guesses Marianna, and is told “Evin is the Demon” privately by the Storyteller.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -35,9 +35,13 @@ Choose a phrase that is fairly plain. If the Demon has an unusual phrase each da
 
 ##  Examples
 
-				The Yaggababble's phrase is "that sounds fishy". The Yaggababble says this once during the first day. That night, a player dies. The next day, the Yaggababble says "that sounds fishy" three times. That night, three players die.
+{{< example >}}
+The Yaggababble's phrase is "that sounds fishy". The Yaggababble says this once during the first day. That night, a player dies. The next day, the Yaggababble says "that sounds fishy" three times. That night, three players die.
+{{< /example >}}
 
-				The Yaggababble has said their phrase twice today. A Witch is in play. When the Heretic nominates, the Heretic dies, even though they were not cursed by the Witch. The Golem nominates the Demon, and the Golem dies. Both players died due to the Yaggababble's ability.
+{{< example >}}
+The Yaggababble has said their phrase twice today. A Witch is in play. When the Heretic nominates, the Heretic dies, even though they were not cursed by the Witch. The Golem nominates the Demon, and the Golem dies. Both players died due to the Yaggababble's ability.
+{{< /example >}}
 
 ##  Tips & Tricks
 * Say your phrase as often as you can! It's how you get kills, after all, you can really charge up your ability by getting a bunch of kills every single night.

@@ -29,13 +29,21 @@ If the Pit-Hag changes a Demon into a new Demon, it is best to make no death occ
 
 ##  Examples
 
-				The Pit-Hag turns the Clockmaker into the Mutant.
+{{< example >}}
+The Pit-Hag turns the Clockmaker into the Mutant.
+{{< /example >}}
 
-				The Pit-Hag tries to turn the Savant into the Sage, but nothing happens because a Sage is already in play.
+{{< example >}}
+The Pit-Hag tries to turn the Savant into the Sage, but nothing happens because a Sage is already in play.
+{{< /example >}}
 
-				The Pit-Hag turns the Flowergirl into the Evil Twin. Now, there is a good Evil Twin, so the Evil Twin and an evil player are woken to learn each other's character.
+{{< example >}}
+The Pit-Hag turns the Flowergirl into the Evil Twin. Now, there is a good Evil Twin, so the Evil Twin and an evil player are woken to learn each other's character.
+{{< /example >}}
 
-				During the final night, the Pit-Hag turns the Oracle into a good No Dashii. The Storyteller kills the evil Demon only, so that only one Demon is alive during the final day.
+{{< example >}}
+During the final night, the Pit-Hag turns the Oracle into a good No Dashii. The Storyteller kills the evil Demon only, so that only one Demon is alive during the final day.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -23,11 +23,17 @@ During the first night, wake the Librarian and point to the players marked **OUT
 
 ##  Examples
 
-				Benjamin is the Saint, and Filip is the Baron. The Librarian learns that either Benjamin or Filip is the Saint.
+{{< example >}}
+Benjamin is the Saint, and Filip is the Baron. The Librarian learns that either Benjamin or Filip is the Saint.
+{{< /example >}}
 
-				There are no Outsiders in this game. The Librarian learns a '0'.
+{{< example >}}
+There are no Outsiders in this game. The Librarian learns a '0'.
+{{< /example >}}
 
-				Abdallah is the Drunk, who thinks they are the Monk, and Douglas is the Undertaker. The Librarian learns that either Abdallah or Douglas is the Drunk. (This happens because the Librarian learns the true character. The Drunk is Abdallah’s true character, not the Monk.)
+{{< example >}}
+Abdallah is the Drunk, who thinks they are the Monk, and Douglas is the Undertaker. The Librarian learns that either Abdallah or Douglas is the Drunk. (This happens because the Librarian learns the true character. The Drunk is Abdallah’s true character, not the Monk.)
+{{< /example >}}
 
 ##  Tips & Tricks
 

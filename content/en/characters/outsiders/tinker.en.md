@@ -32,11 +32,17 @@ We recommend that you never kill the Tinker when it would end the game. Players 
 
 ##  Examples
 
-				During the night, the Tinker dies, even though the Demon attacked a different player.
+{{< example >}}
+During the night, the Tinker dies, even though the Demon attacked a different player.
+{{< /example >}}
 
-				The Tea Lady sits next to the Tinker and another good player, protecting the Tinker from death. The Tinker cannot die from their ability.
+{{< example >}}
+The Tea Lady sits next to the Tinker and another good player, protecting the Tinker from death. The Tinker cannot die from their ability.
+{{< /example >}}
 
-				The Tinker is attacked by the Demon. The Tinker does not die because they are protected by the Innkeeper. Later that night, the Innkeeper dies, so the Storyteller chooses to kill the Tinker too.
+{{< example >}}
+The Tinker is attacked by the Demon. The Tinker does not die because they are protected by the Innkeeper. Later that night, the Innkeeper dies, so the Storyteller chooses to kill the Tinker too.
+{{< /example >}}
 
 ##  Tips & Tricks
 

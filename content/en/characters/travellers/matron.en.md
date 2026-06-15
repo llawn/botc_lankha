@@ -26,9 +26,13 @@ Each day, the Matron may choose two players and declare that they swap seating p
 
 ##  Examples
 
-				The evil Matron rearranges the seating order so that she is sitting next to the Tea Lady. This way, the two of them can whisper to each other, and the Tea Lady's ability does not work.
+{{< example >}}
+The evil Matron rearranges the seating order so that she is sitting next to the Tea Lady. This way, the two of them can whisper to each other, and the Tea Lady's ability does not work.
+{{< /example >}}
 
-				The good Matron swaps the seating position of the player they think is the Demon, so that player is far away from the player they think is the Minion. They may not whisper to each other now.
+{{< example >}}
+The good Matron swaps the seating position of the player they think is the Demon, so that player is far away from the player they think is the Minion. They may not whisper to each other now.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

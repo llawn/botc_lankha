@@ -26,9 +26,13 @@ If the Klutz player doesn’t realize that they must choose a player when they d
 
 ##  Examples
 
-				The Klutz dies by execution. After much yelling and confusion, the Klutz chooses a player—who is secretly the Seamstress. Night falls, and the game continues.
+{{< example >}}
+The Klutz dies by execution. After much yelling and confusion, the Klutz chooses a player—who is secretly the Seamstress. Night falls, and the game continues.
+{{< /example >}}
 
-				The Demon kills Dave, the Klutz. In the morning, when the Storyteller informs the group that Dave is dead, Dave says "Ok everybody, I was the Klutz" and after discussion for a few minutes, Dave publicly chooses the player that is the Demon. The game ends immediately and evil rejoices.
+{{< example >}}
+The Demon kills Dave, the Klutz. In the morning, when the Storyteller informs the group that Dave is dead, Dave says "Ok everybody, I was the Klutz" and after discussion for a few minutes, Dave publicly chooses the player that is the Demon. The game ends immediately and evil rejoices.
+{{< /example >}}
 
 ##  Tips & Tricks
 

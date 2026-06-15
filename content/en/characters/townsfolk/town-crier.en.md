@@ -28,9 +28,13 @@ If you forget whether a Minion made a nomination or not, wake each Minion at nig
 
 ##  Examples
 
-				Today, four players nominated. Two of them were Minions. Many players voted, but there was no execution. That night, the Town Crier learns a “yes.”
+{{< example >}}
+Today, four players nominated. Two of them were Minions. Many players voted, but there was no execution. That night, the Town Crier learns a “yes.”
+{{< /example >}}
 
-				A Minion called for the exile of a Traveller, who was exiled. That night, the Town Crier learns a “no.” (Exiles are never affected by character abilities.)
+{{< example >}}
+A Minion called for the exile of a Traveller, who was exiled. That night, the Town Crier learns a “no.” (Exiles are never affected by character abilities.)
+{{< /example >}}
 
 ##  Tips & Tricks
 

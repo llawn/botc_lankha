@@ -28,6 +28,10 @@ Think carefully about giving in-play characters as bluffs to the Demon. Some cha
 
 ##  Examples
 
-				Doug, Ben, and Sarah are all Empaths. Doug learns a “1”. Ben learns a “0”. Sarah learns a “2”.
+{{< example >}}
+Doug, Ben, and Sarah are all Empaths. Doug learns a “1”. Ben learns a “0”. Sarah learns a “2”.
+{{< /example >}}
 
-				Lewis and Abdallah are Generals. Evin is the Drunk who thinks he is a General. Alex and Julian are Zealots, and Marianna is the Xaan bluffing as a Zealot.
+{{< example >}}
+Lewis and Abdallah are Generals. Evin is the Drunk who thinks he is a General. Alex and Julian are Zealots, and Marianna is the Xaan bluffing as a Zealot.
+{{< /example >}}

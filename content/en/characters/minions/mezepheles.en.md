@@ -29,11 +29,17 @@ Choose an unusual word that would never be spoken accidentally. You can even mak
 
 ##  Examples
 
-				The Mezepheles tells the Barber that the secret word is “Rumpelstiltskin”. The Barber publicly says “This reminds me of the fairy tale where the Miller’s daughter has to guess Rumpelstiltskin’s name”. The Barber turns evil that night.
+{{< example >}}
+The Mezepheles tells the Barber that the secret word is “Rumpelstiltskin”. The Barber publicly says “This reminds me of the fairy tale where the Miller’s daughter has to guess Rumpelstiltskin’s name”. The Barber turns evil that night.
+{{< /example >}}
 
-				The Mezepheles tells the Mayor the secret word. The Mayor, wanting to stay good, tells the group who the Mezepheles is.
+{{< example >}}
+The Mezepheles tells the Mayor the secret word. The Mayor, wanting to stay good, tells the group who the Mezepheles is.
+{{< /example >}}
 
-				The Mezepheles privately tells the Noble the secret word – “Constantinople”. The Noble visits the Storyteller and says “Constantinople” in private. That night, the Courtier makes the Mezepheles drunk. The Noble stays good.
+{{< example >}}
+The Mezepheles privately tells the Noble the secret word – “Constantinople”. The Noble visits the Storyteller and says “Constantinople” in private. That night, the Courtier makes the Mezepheles drunk. The Noble stays good.
+{{< /example >}}
 
 ##  Tips & Tricks
 

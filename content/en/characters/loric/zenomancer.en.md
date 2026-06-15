@@ -27,8 +27,14 @@ Add “...without telling anyone your goal” to make your goals more interestin
 
 ##  Examples
 
-				Alex is the Pit-Hag. He is given the goal “create an evil Outsider”. Alex turns the Witch into the Sweetheart, and learns that Lewis is the drunk Sage.
+{{< example >}}
+Alex is the Pit-Hag. He is given the goal “create an evil Outsider”. Alex turns the Witch into the Sweetheart, and learns that Lewis is the drunk Sage.
+{{< /example >}}
 
-				Evin is given the goal “convince Sarah that she is the Marionette”. The Storyteller judges that Sarah is adequately confused about whether she is the Marionette or not. Evin learns that there is no Marionette in play. Meanwhile, Ben has the goal “nominate and execute a Minion”. This does not happen, and Ben does not get his Zenomancer information.
+{{< example >}}
+Evin is given the goal “convince Sarah that she is the Marionette”. The Storyteller judges that Sarah is adequately confused about whether she is the Marionette or not. Evin learns that there is no Marionette in play. Meanwhile, Ben has the goal “nominate and execute a Minion”. This does not happen, and Ben does not get his Zenomancer information.
+{{< /example >}}
 
-				Julian has the goal to “steal all the comfy pillows from the couch, without touching them”. Amy has the same goal. Amy convinces Marianna to engage Julian in a private chat while Abdallah steals the pillows and gives them to her. Amy learns that the Demon is a Fang Gu.
+{{< example >}}
+Julian has the goal to “steal all the comfy pillows from the couch, without touching them”. Amy has the same goal. Amy convinces Marianna to engage Julian in a private chat while Abdallah steals the pillows and gives them to her. Amy learns that the Demon is a Fang Gu.
+{{< /example >}}

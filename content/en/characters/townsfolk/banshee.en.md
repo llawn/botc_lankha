@@ -28,11 +28,17 @@ If all good players are dead, the game continues. Good can still win due to the 
 
 ##  Examples
 
-				The Kazali kills the Banshee. All players learn that the Banshee has died. Tomorrow, the Banshee nominates the Village Idiot and votes twice, then nominates the Fearmonger and votes twice, then votes twice when the Shugenja is nominated. The next day, the Banshee doesn’t nominate at all, but votes twice for the Kazali.
+{{< example >}}
+The Kazali kills the Banshee. All players learn that the Banshee has died. Tomorrow, the Banshee nominates the Village Idiot and votes twice, then nominates the Fearmonger and votes twice, then votes twice when the Shugenja is nominated. The next day, the Banshee doesn’t nominate at all, but votes twice for the Kazali.
+{{< /example >}}
 
-				The Banshee is poisoned. The Ojo kills the Banshee. Nobody learns that the Banshee has died, and for the rest of the game, the Banshee may not nominate, and has just one vote.
+{{< example >}}
+The Banshee is poisoned. The Ojo kills the Banshee. Nobody learns that the Banshee has died, and for the rest of the game, the Banshee may not nominate, and has just one vote.
+{{< /example >}}
 
-				The Lycanthrope kills the Banshee. The Banshee does not gain their additional powers and is not announced.
+{{< example >}}
+The Lycanthrope kills the Banshee. The Banshee does not gain their additional powers and is not announced.
+{{< /example >}}
 
 ##  Tips & Tricks
 

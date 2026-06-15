@@ -35,9 +35,13 @@ Remove the Angel on the final day, so that players feel free to execute players 
 
 ##  Examples
 
-				The Angel protects Sarah. The Demon attacks and kills her. As punishment, the Demon cannot attack on the next night.
+{{< example >}}
+The Angel protects Sarah. The Demon attacks and kills her. As punishment, the Demon cannot attack on the next night.
+{{< /example >}}
 
-				Ben is the Demon and is protected by the Angel. The players do not execute him until the final day, at which point they may execute him without penalty.
+{{< example >}}
+Ben is the Demon and is protected by the Angel. The players do not execute him until the final day, at which point they may execute him without penalty.
+{{< /example >}}
 
 ##  Explanation
 

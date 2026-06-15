@@ -22,11 +22,17 @@ Each day, immediately after a player is executed, the Butcher may nominate a pla
 
 ##  Examples
 
-				The Witch is executed and dies. The Butcher then nominates the Sage, who gets enough votes to be executed. The Sage dies too.
+{{< example >}}
+The Witch is executed and dies. The Butcher then nominates the Sage, who gets enough votes to be executed. The Sage dies too.
+{{< /example >}}
 
-				The Bone Collector is exiled, and then the Harlot is exiled. There are no executions today. The Butcher does not get to nominate again, because exiles are not executions.
+{{< example >}}
+The Bone Collector is exiled, and then the Harlot is exiled. There are no executions today. The Butcher does not get to nominate again, because exiles are not executions.
+{{< /example >}}
 
-				The Butcher nominates the Town Crier, but the Town Crier is not executed. The Mathematician gets more votes and is executed today. The game continues, and the Butcher nominates the Town Crier again. This time, enough hands are raised, and the Town Crier is executed.
+{{< example >}}
+The Butcher nominates the Town Crier, but the Town Crier is not executed. The Mathematician gets more votes and is executed today. The game continues, and the Butcher nominates the Town Crier again. This time, enough hands are raised, and the Town Crier is executed.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

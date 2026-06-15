@@ -31,11 +31,17 @@ If the Butler accidentally votes illegally, tally the Butler's vote anyway. If y
 
 ##  Examples
 
-				The Butler chooses Filip to be their Master. Tomorrow, if Filip raises his hand to vote on an execution, then the Butler may too. If not, then the Butler may not raise their hand.
+{{< example >}}
+The Butler chooses Filip to be their Master. Tomorrow, if Filip raises his hand to vote on an execution, then the Butler may too. If not, then the Butler may not raise their hand.
+{{< /example >}}
 
-				A nomination is in progress. The Butler and their Master both have their hands raised to vote. As the Storyteller is counting votes, the Master lowers their hand at the last second. The Butler must lower their hand immediately.
+{{< example >}}
+A nomination is in progress. The Butler and their Master both have their hands raised to vote. As the Storyteller is counting votes, the Master lowers their hand at the last second. The Butler must lower their hand immediately.
+{{< /example >}}
 
-				The Butler is dead. Because dead players have no ability, the Butler may vote with their vote token at any time.
+{{< example >}}
+The Butler is dead. Because dead players have no ability, the Butler may vote with their vote token at any time.
+{{< /example >}}
 
 ##  Tips & Tricks
 

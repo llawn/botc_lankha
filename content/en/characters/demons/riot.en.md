@@ -30,4 +30,6 @@ If the players do not nominate at all on the 3rd day, or if a nominated player d
 
 ##  Examples
 
-				Alex nominates Lewis. Lewis dies and nominates Ben. Ben dies and nominates Marianna. Marianna dies and nominates Lachlan. Lachlan dies. All Riot players are dead. Good wins.
+{{< example >}}
+Alex nominates Lewis. Lewis dies and nominates Ben. Ben dies and nominates Marianna. Marianna dies and nominates Lachlan. Lachlan dies. All Riot players are dead. Good wins.
+{{< /example >}}

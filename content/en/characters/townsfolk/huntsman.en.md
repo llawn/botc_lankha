@@ -34,9 +34,13 @@ If they point to a player, put the Huntsman to sleep. **The Huntsman loses their
 
 ##  Examples
 
-				The Huntsman is woken on the 1st night, but does not use their ability. On the second night, the Huntsman chooses the Damsel player. The Damsel becomes the Undertaker and learns which player died today.
+{{< example >}}
+The Huntsman is woken on the 1st night, but does not use their ability. On the second night, the Huntsman chooses the Damsel player. The Damsel becomes the Undertaker and learns which player died today.
+{{< /example >}}
 
-				The Huntsman chooses Lachlan. Lachlan is the General, so nothing happens. The Huntsman is no longer woken at night.
+{{< example >}}
+The Huntsman chooses Lachlan. Lachlan is the General, so nothing happens. The Huntsman is no longer woken at night.
+{{< /example >}}
 
 ##  Tips & Tricks
 

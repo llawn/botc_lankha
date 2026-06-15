@@ -25,11 +25,17 @@ If the first player to ever nominate the Virgin is not a Townsfolk, continue the
 
 ##  Examples
 
-				The Washerwoman nominates the Virgin. The Washerwoman is immediately executed and the day ends.
+{{< example >}}
+The Washerwoman nominates the Virgin. The Washerwoman is immediately executed and the day ends.
+{{< /example >}}
 
-				The Drunk, who thinks they are the Chef, nominates the Virgin. The Drunk remains alive, and the Virgin loses their ability. Players may now vote on whether or not to execute the Virgin. (This happens because the Drunk is not a Townsfolk.)
+{{< example >}}
+The Drunk, who thinks they are the Chef, nominates the Virgin. The Drunk remains alive, and the Virgin loses their ability. Players may now vote on whether or not to execute the Virgin. (This happens because the Drunk is not a Townsfolk.)
+{{< /example >}}
 
-				A dead player nominates the Virgin. The dead, however, cannot nominate. The Storyteller declares that the nomination does not count. The Virgin does not lose their ability.
+{{< example >}}
+A dead player nominates the Virgin. The dead, however, cannot nominate. The Storyteller declares that the nomination does not count. The Virgin does not lose their ability.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -27,11 +27,17 @@ When the **X** reminder is in the Grimoire, all Townsfolk players are **poisoned
 
 ##  Examples
 
-				There are 3 Outsiders in play, due to the Xaan. On night 3, the Exorcist chooses the Demon but nothing happens, the Acrobat chooses the Drunk but nothing happens, and the Seamstress gets false information.
+{{< example >}}
+There are 3 Outsiders in play, due to the Xaan. On night 3, the Exorcist chooses the Demon but nothing happens, the Acrobat chooses the Drunk but nothing happens, and the Seamstress gets false information.
+{{< /example >}}
 
-				There is 1 Outsider in play. It is an 11-player game. On the first night, the Xaan poisons all 7 Townsfolk. On the second night, the Pit-Hag creates a Hatter. Even though there are 2 Outsiders in play, all players are healthy tonight.
+{{< example >}}
+There is 1 Outsider in play. It is an 11-player game. On the first night, the Xaan poisons all 7 Townsfolk. On the second night, the Pit-Hag creates a Hatter. Even though there are 2 Outsiders in play, all players are healthy tonight.
+{{< /example >}}
 
-				There are no Outsiders in play. The Xaan never poisons anyone. The Xaan bluffs as the Zealot, and the good team believes that all Townsfolk are poisoned on night 1, but they are not.
+{{< example >}}
+There are no Outsiders in play. The Xaan never poisons anyone. The Xaan bluffs as the Zealot, and the good team believes that all Townsfolk are poisoned on night 1, but they are not.
+{{< /example >}}
 
 ##  Tips & Tricks
 * Stay alive as long as you can - or at least until after night & day X! Remember, your ability only works while you are alive.

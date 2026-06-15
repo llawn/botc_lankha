@@ -29,9 +29,13 @@ During any night, if the Demon would wake and their attack could end the game, b
 
 ##  Examples
 
-				On the second night, when five players are alive, the Imp chooses not to attack, which allows it to act during the final night. On the third night, when four players are alive, it kills a player.
+{{< example >}}
+On the second night, when five players are alive, the Imp chooses not to attack, which allows it to act during the final night. On the third night, when four players are alive, it kills a player.
+{{< /example >}}
 
-				On the second night, the Imp kills a player. On the third night, when just three players are alive, the Imp cannot attack because it is the final night.
+{{< example >}}
+On the second night, the Imp kills a player. On the third night, when just three players are alive, the Imp cannot attack because it is the final night.
+{{< /example >}}
 
 ##  Explanation
 

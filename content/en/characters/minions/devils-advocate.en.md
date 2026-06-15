@@ -23,11 +23,17 @@ If a player marked **SURVIVES EXECUTION** is executed, declare that the player w
 
 ##  Examples
 
-				At night, the Devil's Advocate protects themself. The next day, the Devil's Advocate is executed but remains alive.
+{{< example >}}
+At night, the Devil's Advocate protects themself. The next day, the Devil's Advocate is executed but remains alive.
+{{< /example >}}
 
-				The Devil's Advocate protects the Zombuul. The Zombuul is executed but remains alive, so their life token is not flipped. The next day, the Zombuul is executed again and registers as dead.
+{{< example >}}
+The Devil's Advocate protects the Zombuul. The Zombuul is executed but remains alive, so their life token is not flipped. The next day, the Zombuul is executed again and registers as dead.
+{{< /example >}}
 
-				The Devil's Advocate protects the Grandmother. The Grandmother is executed but remains alive. Later, the Devil's Advocate protects the Tinker. The Tinker is executed, but the Storyteller kills the Tinker anyway, due to the Tinker ability. Later, the Devil's Advocate protects the Moonchild, and the Judge forces the execution to succeed&mdash;the execution succeeds, but the Moonchild remains alive.
+{{< example >}}
+The Devil's Advocate protects the Grandmother. The Grandmother is executed but remains alive. Later, the Devil's Advocate protects the Tinker. The Tinker is executed, but the Storyteller kills the Tinker anyway, due to the Tinker ability. Later, the Devil's Advocate protects the Moonchild, and the Judge forces the execution to succeed&mdash;the execution succeeds, but the Moonchild remains alive.
+{{< /example >}}
 
 ##  Tips & Tricks
 

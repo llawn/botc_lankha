@@ -25,4 +25,6 @@ If a player dies during the day, privately tell them what character and alignmen
 
 ##  Examples
 
-				Julian, Alex, Evin, Lachlan, Sarah, Marianna and Amy do not know which character they are. Evin wakes each night and learns a thumbs up, but does not know why. Sarah wakes each night to choose a player, but does not know why. Amy wakes each night to choose a player, but does not know why. Sarah is executed and learns that she is the good Monk. Lachlan, guessing that he might be the Slayer, publicly says that he is the Slayer, and chooses Amy. Amy dies. Evin was the General, Lachlan was the Slayer and Amy was the Imp.
+{{< example >}}
+Julian, Alex, Evin, Lachlan, Sarah, Marianna and Amy do not know which character they are. Evin wakes each night and learns a thumbs up, but does not know why. Sarah wakes each night to choose a player, but does not know why. Amy wakes each night to choose a player, but does not know why. Sarah is executed and learns that she is the good Monk. Lachlan, guessing that he might be the Slayer, publicly says that he is the Slayer, and chooses Amy. Amy dies. Evin was the General, Lachlan was the Slayer and Amy was the Imp.
+{{< /example >}}

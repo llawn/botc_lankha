@@ -23,15 +23,25 @@ Each dusk, the poisoned player becomes healthy—remove their **POISONED** remin
 
 ##  Examples
 
-				During the night, the Poisoner poisons the Slayer. The next day, the Slayer tries to slay the Imp. Nothing happens. The Slayer now has no ability.
+{{< example >}}
+During the night, the Poisoner poisons the Slayer. The next day, the Slayer tries to slay the Imp. Nothing happens. The Slayer now has no ability.
+{{< /example >}}
 
-				The poisoned Empath, who neighbours two evil players, learns a "0.” The next night, the Empath, no longer poisoned, learns the correct information: a "2.”
+{{< example >}}
+The poisoned Empath, who neighbours two evil players, learns a "0.” The next night, the Empath, no longer poisoned, learns the correct information: a "2.”
+{{< /example >}}
 
-				The Investigator is poisoned. They learn that one of two players is the Baron, even though neither is a Minion. (Or even the right players, but the wrong Minion type.)
+{{< example >}}
+The Investigator is poisoned. They learn that one of two players is the Baron, even though neither is a Minion. (Or even the right players, but the wrong Minion type.)
+{{< /example >}}
 
-				The Undertaker is poisoned. Even though the Imp died today, they learn that the Virgin died. A few days later, a poisoned Saint dies, and the game continues.
+{{< example >}}
+The Undertaker is poisoned. Even though the Imp died today, they learn that the Virgin died. A few days later, a poisoned Saint dies, and the game continues.
+{{< /example >}}
 
-				The Poisoner poisons the Mayor, then becomes the Imp. The Mayor is no longer poisoned because there is no Poisoner in play.
+{{< example >}}
+The Poisoner poisons the Mayor, then becomes the Imp. The Mayor is no longer poisoned because there is no Poisoner in play.
+{{< /example >}}
 
 ##  Tips & Tricks
 

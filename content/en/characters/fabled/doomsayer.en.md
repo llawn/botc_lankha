@@ -27,9 +27,13 @@ You won’t want to kill the Demon this way, unless the game can continue afterw
 
 ##  Examples
 
-				The Monk uses the Doomsayer ability, and the Washerwoman dies. Later that day, the Poisoner uses the Doomsayer ability, and the Baron dies.
+{{< example >}}
+The Monk uses the Doomsayer ability, and the Washerwoman dies. Later that day, the Poisoner uses the Doomsayer ability, and the Baron dies.
+{{< /example >}}
 
-				An evil Thief uses the Doomsayer ability, and the Scarlet Woman dies. Later, the Spy uses the Doomsayer ability, and the good Gunslinger dies. Later, the Demon uses the Doomsayer ability, and the Spy dies.
+{{< example >}}
+An evil Thief uses the Doomsayer ability, and the Scarlet Woman dies. Later, the Spy uses the Doomsayer ability, and the good Gunslinger dies. Later, the Demon uses the Doomsayer ability, and the Spy dies.
+{{< /example >}}
 
 ##  Explanation
 

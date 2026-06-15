@@ -30,11 +30,17 @@ If they pointed to an icon of a character in play, the player of the chosen char
 
 ##  Examples
 
-				During the first night, the Philosopher chooses to gain the Dreamer's ability. They gain the Dreamer's ability from now on and act when the Dreamer normally acts.
+{{< example >}}
+During the first night, the Philosopher chooses to gain the Dreamer's ability. They gain the Dreamer's ability from now on and act when the Dreamer normally acts.
+{{< /example >}}
 
-				During the third night, the Philosopher chooses to gain the Clockmaker's ability. That night, they learn the distance from the Demon to their nearest Minion.
+{{< example >}}
+During the third night, the Philosopher chooses to gain the Clockmaker's ability. That night, they learn the distance from the Demon to their nearest Minion.
+{{< /example >}}
 
-				An Artist is in play. The Philosopher chooses to gain the Artist's ability. The original Artist becomes drunk. Later, the Philosopher dies, so the original Artist becomes sober again. (The original Artist would also become sober if the Philosopher became drunk.)
+{{< example >}}
+An Artist is in play. The Philosopher chooses to gain the Artist's ability. The original Artist becomes drunk. Later, the Philosopher dies, so the original Artist becomes sober again. (The original Artist would also become sober if the Philosopher became drunk.)
+{{< /example >}}
 
 ##  Tips & Tricks
 

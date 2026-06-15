@@ -30,11 +30,17 @@ Each day, once only, if the Alsaahir declares that they wish to use their abilit
 
 ##  Examples
 
-				The Alsaahir guesses four good players. Nothing happens.
+{{< example >}}
+The Alsaahir guesses four good players. Nothing happens.
+{{< /example >}}
 
-				The Alsaahir guesses that Doug is the Demon, and Ben and Sarah are Minions. Doug is the Demon, and Ben and Sarah are Minions. Good wins immediately.
+{{< example >}}
+The Alsaahir guesses that Doug is the Demon, and Ben and Sarah are Minions. Doug is the Demon, and Ben and Sarah are Minions. Good wins immediately.
+{{< /example >}}
 
-				The drunk Alsaahir guesses that Doug is the Demon, and Ben and Sarah are Minions. Doug is the Demon, and Ben and Sarah are Minions. Nothing happens and the game continues. The next day, the sober Alsaahir guesses that Ben is the Demon and Doug and Sarah are Minions. Nothing happens and the game continues.
+{{< example >}}
+The drunk Alsaahir guesses that Doug is the Demon, and Ben and Sarah are Minions. Doug is the Demon, and Ben and Sarah are Minions. Nothing happens and the game continues. The next day, the sober Alsaahir guesses that Ben is the Demon and Doug and Sarah are Minions. Nothing happens and the game continues.
+{{< /example >}}
 
 ##  Tips & Tricks
 

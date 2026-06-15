@@ -28,11 +28,17 @@ Optional rule: If the Poppy Grower becomes drunk, poisoned, or leaves play, Mini
 
 ##  Examples
 
-				The Imp, the Poisoner and the Witch are in play. On the first night, the Imp wakes to learn 3 not-in-play characters, but does not learn which players are the Minions. The Poisoner and the Witch do not wake to learn who each other are, and do not learn who the Demon is.
+{{< example >}}
+The Imp, the Poisoner and the Witch are in play. On the first night, the Imp wakes to learn 3 not-in-play characters, but does not learn which players are the Minions. The Poisoner and the Witch do not wake to learn who each other are, and do not learn who the Demon is.
+{{< /example >}}
 
-				The Poppy Grower is executed, and dies. That night, the Shabaloth learns which players are the Minions. The Godfather and the Baron wake, make eye contact, and learn which player is the Shabaloth.
+{{< example >}}
+The Poppy Grower is executed, and dies. That night, the Shabaloth learns which players are the Minions. The Godfather and the Baron wake, make eye contact, and learn which player is the Shabaloth.
+{{< /example >}}
 
-				The Poppy Grower is the Drunk. On the 1st night, the evil players learn who each other are, as normal. On the fourth night, the Demon kills the Poppy Grower. The Demons and Minions do not wake to learn who each other are again because the Poppy Grower is the Drunk.
+{{< example >}}
+The Poppy Grower is the Drunk. On the 1st night, the evil players learn who each other are, as normal. On the fourth night, the Demon kills the Poppy Grower. The Demons and Minions do not wake to learn who each other are again because the Poppy Grower is the Drunk.
+{{< /example >}}
 
 ##  Tips & Tricks
 

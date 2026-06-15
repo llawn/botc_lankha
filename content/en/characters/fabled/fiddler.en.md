@@ -26,10 +26,14 @@ When the game needs to end, declare that you are using the Fiddler ability. Put 
 
 ##  Examples
 
-				The game begins but will need to end in 45 minutes due to a freak lightning storm approaching the neighbourhood, so the Storyteller adds the Fiddler. After 40 minutes, the Fiddler activates. The players choose the good player to win, so good wins.
+{{< example >}}
+The game begins but will need to end in 45 minutes due to a freak lightning storm approaching the neighbourhood, so the Storyteller adds the Fiddler. After 40 minutes, the Fiddler activates. The players choose the good player to win, so good wins.
+{{< /example >}}
 
-				There are just four players left alive. Each day, nobody nominates. Each night, the Demon chooses a dead player to kill. Since this could go on indefinitely, the Storyteller adds the Fiddler so that
+{{< example >}}
+There are just four players left alive. Each day, nobody nominates. Each night, the Demon chooses a dead player to kill. Since this could go on indefinitely, the Storyteller adds the Fiddler so that
 the game can end.
+{{< /example >}}
 
 ##  Explanation
 

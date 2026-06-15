@@ -25,7 +25,9 @@ Like the Angel, the “something bad” that might happen is up to you. However,
 
 ##  Examples
 
-				The Storyteller is attempting to explain the voting rules to a few new players. The group is loud and is not listening to the Storyteller’s requests for silence, so the Storyteller declares that the Hell's Librarian is in play. Two players continue to loudly talk, even though they know the possible penalty. The Storyteller decides that one dies and the other loses their vote for today. All players are silent whilst the rules are explained.
+{{< example >}}
+The Storyteller is attempting to explain the voting rules to a few new players. The group is loud and is not listening to the Storyteller’s requests for silence, so the Storyteller declares that the Hell's Librarian is in play. Two players continue to loudly talk, even though they know the possible penalty. The Storyteller decides that one dies and the other loses their vote for today. All players are silent whilst the rules are explained.
+{{< /example >}}
 
 ##  Explanation
 

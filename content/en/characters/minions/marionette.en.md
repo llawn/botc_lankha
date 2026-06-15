@@ -33,11 +33,17 @@ Treat the Marionette as if they were drunk. They wake when their good character 
 
 ##  Examples
 
-				Marianna is the Marionette, but thinks she is the Undertaker. She wakes each night to learn who was executed that day, but her information is often wrong. Halfway through the game, the Demon tells her that she is the Marionette.
+{{< example >}}
+Marianna is the Marionette, but thinks she is the Undertaker. She wakes each night to learn who was executed that day, but her information is often wrong. Halfway through the game, the Demon tells her that she is the Marionette.
+{{< /example >}}
 
-				Lachlan is the Demon. He tells Sarah that she is the Marionette. Lachlan is lying. There is no Marionette.
+{{< example >}}
+Lachlan is the Demon. He tells Sarah that she is the Marionette. Lachlan is lying. There is no Marionette.
+{{< /example >}}
 
-				The Demon tells Ben that he is the Marionette. Ben thinks he is the Fortune Teller, but he isn’t. Ben doesn’t believe the Demon, and executes them. Good wins.
+{{< example >}}
+The Demon tells Ben that he is the Marionette. Ben thinks he is the Fortune Teller, but he isn’t. Ben doesn’t believe the Demon, and executes them. Good wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

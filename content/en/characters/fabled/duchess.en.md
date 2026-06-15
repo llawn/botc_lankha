@@ -29,11 +29,17 @@ Remove the Duchess at any time, declaring when you do so.
 
 ##  Examples
 
-				The Soldier, Pacifist, and Sage visit the Duchess. The Soldier and Pacifist learn a "0.” The Sage learns a "1.”
+{{< example >}}
+The Soldier, Pacifist, and Sage visit the Duchess. The Soldier and Pacifist learn a "0.” The Sage learns a "1.”
+{{< /example >}}
 
-				The Mutant, Butler, and Po visit the Duchess. The Mutant learns a "1,” the Butler learns a "2," and the Po learns a "1.”
+{{< example >}}
+The Mutant, Butler, and Po visit the Duchess. The Mutant learns a "1,” the Butler learns a "2," and the Po learns a "1.”
+{{< /example >}}
 
-				The Mastermind, Imp, and Minstrel visit the Duchess. The Mastermind learns a "2,” the Imp learns a "1," and the Minstrel learns a "2.”
+{{< example >}}
+The Mastermind, Imp, and Minstrel visit the Duchess. The Mastermind learns a "2,” the Imp learns a "1," and the Minstrel learns a "2.”
+{{< /example >}}
 
 ##  Explanation
 

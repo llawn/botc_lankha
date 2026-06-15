@@ -33,9 +33,13 @@ Avoid creating arbitrary rules or changing the win conditions. In order to have 
 
 ##  Examples
 
-				The Investigator learns that either the Grandmother or the Seamstress is the Boomdandy. The Sweetheart nominates, and dies, even though there is no Witch in play. The Slayer uses their ability on the Gossip, who dies.
+{{< example >}}
+The Investigator learns that either the Grandmother or the Seamstress is the Boomdandy. The Sweetheart nominates, and dies, even though there is no Witch in play. The Slayer uses their ability on the Gossip, who dies.
+{{< /example >}}
 
-				There are three Outsiders in play, when there should be two. The players execute the Storyteller. Good wins.
+{{< example >}}
+There are three Outsiders in play, when there should be two. The players execute the Storyteller. Good wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

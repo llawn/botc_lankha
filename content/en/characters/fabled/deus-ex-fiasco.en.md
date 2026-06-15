@@ -32,19 +32,33 @@ At any time, you may deliberately break the rules, then correct it. Afterwards, 
 
 ##  Examples
 
-				During the first day, Doug talks privately with the Storyteller and says that he drew the Drunk token from the bag. The Storyteller looks in the Grimoire and notices that Doug’s token is the Drunk. The Storyteller tells Doug that he is now the Mayor, replaces the Drunk token with the Mayor token in the Grimoire, and secretly makes the Ravenkeeper the Drunk instead. Later that day, the Storyteller declares that a mistack has been madde.
+{{< example >}}
+During the first day, Doug talks privately with the Storyteller and says that he drew the Drunk token from the bag. The Storyteller looks in the Grimoire and notices that Doug’s token is the Drunk. The Storyteller tells Doug that he is now the Mayor, replaces the Drunk token with the Mayor token in the Grimoire, and secretly makes the Ravenkeeper the Drunk instead. Later that day, the Storyteller declares that a mistack has been madde.
+{{< /example >}}
 
-				The Empath is sitting next to the Monk and the poisoned Recluse. The Storyteller, forgetting that the Recluse is poisoned, accidentally gives the Empath a “1”. Later that night, the Storyteller wakes the Empath again and gives a “0”. The following day, when the Empath privately asks what happened, the Storyteller explains that the first number was a mistake, and the second number is correct. To avoid revealing too much, the Storyteller waits until the next day to inform the group that a mistake was made.
+{{< example >}}
+The Empath is sitting next to the Monk and the poisoned Recluse. The Storyteller, forgetting that the Recluse is poisoned, accidentally gives the Empath a “1”. Later that night, the Storyteller wakes the Empath again and gives a “0”. The following day, when the Empath privately asks what happened, the Storyteller explains that the first number was a mistake, and the second number is correct. To avoid revealing too much, the Storyteller waits until the next day to inform the group that a mistake was made.
+{{< /example >}}
 
-				The Imp was executed today. The Storyteller wakes the sober & healthy Undertaker, and deliberately (and incorrectly) shows the Recluse token. Later that night, the Storyteller again wakes the Undertaker and shows the Imp token. In the morning, the Storyteller tells the group that a mistake was made in the night, but corrected.
+{{< example >}}
+The Imp was executed today. The Storyteller wakes the sober & healthy Undertaker, and deliberately (and incorrectly) shows the Recluse token. Later that night, the Storyteller again wakes the Undertaker and shows the Imp token. In the morning, the Storyteller tells the group that a mistake was made in the night, but corrected.
+{{< /example >}}
 
-				The Yaggababble is executed and dies. The Storyteller accidentally declares that the game is over and good has wun. However, the Scarlet Woman is still alive. The Storyteller declares that a mistake has been made, and that the game continus.
+{{< example >}}
+The Yaggababble is executed and dies. The Storyteller accidentally declares that the game is over and good has wun. However, the Scarlet Woman is still alive. The Storyteller declares that a mistake has been made, and that the game continus.
+{{< /example >}}
 
-				Ben is the Shabaloth. At night, Ben kills Amy and Doug. In the morning, the Storyteller deliberately declares that Ben and Lewis have died. After 30 seconds or so, the Storyteller says “Whoops, I had my Grimoire facing the wrong way. Ben and Lewis should not have died. They are still alive. Amy and Doug died during the night. Sorry, my mistake.”
+{{< example >}}
+Ben is the Shabaloth. At night, Ben kills Amy and Doug. In the morning, the Storyteller deliberately declares that Ben and Lewis have died. After 30 seconds or so, the Storyteller says “Whoops, I had my Grimoire facing the wrong way. Ben and Lewis should not have died. They are still alive. Amy and Doug died during the night. Sorry, my mistake.”
+{{< /example >}}
 
-				The Storyteller forgot to wake the Poisoner last night. The Storyteller has a private chat with the Poisoner, tells them this, and tells them that every night from now on, they can choose as many players as they want, and the Storyteller will choose which of these players are poisoned.
+{{< example >}}
+The Storyteller forgot to wake the Poisoner last night. The Storyteller has a private chat with the Poisoner, tells them this, and tells them that every night from now on, they can choose as many players as they want, and the Storyteller will choose which of these players are poisoned.
+{{< /example >}}
 
-				The Chambermaid wakes and chooses a dead player, even though the Chambermaid must only choose living players. The Storyteller notices this, but does not correct the Chambermaid. Instead, the Storyteller deliberately gives false information to the Chambermaid. The next day, the Storyteller requests a private chat with the Chambermaid, tells them that they made a mistake by allowing them to choose a dead player, and prompts them to choose two living players immediately. The Storyteller gives correct information this time.
+{{< example >}}
+The Chambermaid wakes and chooses a dead player, even though the Chambermaid must only choose living players. The Storyteller notices this, but does not correct the Chambermaid. Instead, the Storyteller deliberately gives false information to the Chambermaid. The next day, the Storyteller requests a private chat with the Chambermaid, tells them that they made a mistake by allowing them to choose a dead player, and prompts them to choose two living players immediately. The Storyteller gives correct information this time.
+{{< /example >}}
 
 ##  Explanation
 

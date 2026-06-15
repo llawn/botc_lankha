@@ -24,9 +24,13 @@ During the first night, wake the Knight. Point to the two players marked **KNOW*
 
 ##  Examples
 
-				Lewis is the Undertaker, Doug is the Imp and Ben is the Fortune Teller. The Knight learns Lewis and Ben.
+{{< example >}}
+Lewis is the Undertaker, Doug is the Imp and Ben is the Fortune Teller. The Knight learns Lewis and Ben.
+{{< /example >}}
 
-				Marianna is the Vortox and Abdallah is the Alchemist. The Knight learns Marianna and Abdallah. The Knight must learn Marianna and Abdallah because the Knight's information must be false due to the Vortox ability and therefore include the Demon.
+{{< example >}}
+Marianna is the Vortox and Abdallah is the Alchemist. The Knight learns Marianna and Abdallah. The Knight must learn Marianna and Abdallah because the Knight's information must be false due to the Vortox ability and therefore include the Demon.
+{{< /example >}}
 
 ##  Tips & Tricks
 

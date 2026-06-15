@@ -29,9 +29,13 @@ Tonight, if the Demon would wake to choose a player, wake them as normal. The De
 
 ##  Examples
 
-				The Princess nominates the Preacher. The Preacher is executed, and dies. That night, the Vortox chooses the Pixie, who does not die. The Town Crier learns that a Minion nominated today, which is false information due to the Vortox.
+{{< example >}}
+The Princess nominates the Preacher. The Preacher is executed, and dies. That night, the Vortox chooses the Pixie, who does not die. The Town Crier learns that a Minion nominated today, which is false information due to the Vortox.
+{{< /example >}}
 
-				On night 4, the Pit-Hag turns the Dreamer into the Princess. That day, the Princess nominates the Zealot, who is executed. That night, the Kazali chooses the Princess, who does not die.
+{{< example >}}
+On night 4, the Pit-Hag turns the Dreamer into the Princess. That day, the Princess nominates the Zealot, who is executed. That night, the Kazali chooses the Princess, who does not die.
+{{< /example >}}
 
 ##  Tips & Tricks
 * Demand attention from your loyal subj- I mean, fellow players! If you want to be the one who nominates and executes a player, let everyone know your plan in advance so they’ll vote with you & help you achieve your goal.

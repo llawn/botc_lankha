@@ -31,11 +31,17 @@ Each night except the first, wake the Lord of Typhon. They point at any player. 
 
 ##  Examples
 
-				There are two Minions: the Organ Grinder and the Mezepheles. In between them, neighboring them both, sits the Lord of Typhon. The number of Outsiders is normal.
+{{< example >}}
+There are two Minions: the Organ Grinder and the Mezepheles. In between them, neighboring them both, sits the Lord of Typhon. The number of Outsiders is normal.
+{{< /example >}}
 
-				The Vizier neighbors the Harpy, who neighbors the Lord of Typhon, who neighbors the Goblin. There are ten players, and two Outsiders in play, due to the Lord of Typhon ability.
+{{< example >}}
+The Vizier neighbors the Harpy, who neighbors the Lord of Typhon, who neighbors the Goblin. There are ten players, and two Outsiders in play, due to the Lord of Typhon ability.
+{{< /example >}}
 
-				The Fearmonger neighbors the Boomdandy, who neighbors the Lord of Typhon, who neighbors the Poisoner, who neighbors the Mastermind. There are 15 players, but zero Outsiders in play, since the Lord of Typhon removed one Outsider, and the Puzzlemaster became the Boomdandy during the first night.
+{{< example >}}
+The Fearmonger neighbors the Boomdandy, who neighbors the Lord of Typhon, who neighbors the Poisoner, who neighbors the Mastermind. There are 15 players, but zero Outsiders in play, since the Lord of Typhon removed one Outsider, and the Puzzlemaster became the Boomdandy during the first night.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -28,6 +28,10 @@ When four players have died and become Travellers, players die as normal.
 
 ##  Examples
 
-				Julian is a Princess. He is executed and becomes the Gangster.
+{{< example >}}
+Julian is a Princess. He is executed and becomes the Gangster.
+{{< /example >}}
 
-				Lachlan is the Sweetheart. He dies and becomes the Cacklejack. Nobody is drunk because the Sweetheart is no longer in play. Evin is the Engineer. He dies and becomes the Judge. That night, the Po kills Marianna, Abdallah, and Lewis. Marianna becomes the Gnome and Abdallah becomes the Harlot.
+{{< example >}}
+Lachlan is the Sweetheart. He dies and becomes the Cacklejack. Nobody is drunk because the Sweetheart is no longer in play. Evin is the Engineer. He dies and becomes the Judge. That night, the Po kills Marianna, Abdallah, and Lewis. Marianna becomes the Gnome and Abdallah becomes the Harlot.
+{{< /example >}}

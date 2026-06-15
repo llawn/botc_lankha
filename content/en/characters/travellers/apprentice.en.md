@@ -26,9 +26,13 @@ You will almost certainly want to choose a not-in-play character ability, becaus
 
 ##  Examples
 
-				The evil Apprentice gains the Assassin ability. That night, they kill the Fool.
+{{< example >}}
+The evil Apprentice gains the Assassin ability. That night, they kill the Fool.
+{{< /example >}}
 
-				The good Apprentice gains the Chambermaid ability. From now on, they learn who wakes at night. Later, the Gambler guesses that the Apprentice is the Tea Lady. The Gambler dies, because the Apprentice is not the Tea Lady, but the Apprentice.
+{{< example >}}
+The good Apprentice gains the Chambermaid ability. From now on, they learn who wakes at night. Later, the Gambler guesses that the Apprentice is the Tea Lady. The Gambler dies, because the Apprentice is not the Tea Lady, but the Apprentice.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

@@ -29,11 +29,17 @@ Pay attention to which character each evil player is bluffing as. If they are ex
 
 ##  Examples
 
-				The Clockmaker is executed and dies. That night, the Cannibal learns a “2” because the Demon and Minion are two steps apart.
+{{< example >}}
+The Clockmaker is executed and dies. That night, the Cannibal learns a “2” because the Demon and Minion are two steps apart.
+{{< /example >}}
 
-				It is the third night and the Widow was executed today. Because the Widow was bluffing as the Fortune Teller, the Cannibal is prompted to choose 2 players, but they learn a “no” after choosing the Demon because they don’t actually have the Fortune Teller's (or Widow’s) ability, because they are poisoned.
+{{< example >}}
+It is the third night and the Widow was executed today. Because the Widow was bluffing as the Fortune Teller, the Cannibal is prompted to choose 2 players, but they learn a “no” after choosing the Demon because they don’t actually have the Fortune Teller's (or Widow’s) ability, because they are poisoned.
+{{< /example >}}
 
-				It is the fourth night and the Mutant was executed today. The Cannibal doesn’t learn anything tonight, because a real Mutant would not wake.
+{{< example >}}
+It is the fourth night and the Mutant was executed today. The Cannibal doesn’t learn anything tonight, because a real Mutant would not wake.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -27,11 +27,17 @@ A Demon chosen by the Exorcist will not wake to use their Demon ability, but wil
 
 ##  Examples
 
-				The Exorcist chooses the Shabaloth. The Shabaloth does not kill tonight. At dawn, the Storyteller declares that nobody died that night.
+{{< example >}}
+The Exorcist chooses the Shabaloth. The Shabaloth does not kill tonight. At dawn, the Storyteller declares that nobody died that night.
+{{< /example >}}
 
-				The Exorcist chooses the Pukka. The Pukka does not wake to attack tonight, but a player still dies because of the Pukka’s attack during the previous night.
+{{< example >}}
+The Exorcist chooses the Pukka. The Pukka does not wake to attack tonight, but a player still dies because of the Pukka’s attack during the previous night.
+{{< /example >}}
 
-				The Po chooses to attack no one. The next night, the Exorcist chooses the Po. The Po does not wake to act tonight. The next night, the Exorcist chooses the Assassin. The Assassin can still attack tonight, and the Po chooses three players to attack, because the Po's last choice was no one.
+{{< example >}}
+The Po chooses to attack no one. The next night, the Exorcist chooses the Po. The Po does not wake to act tonight. The next night, the Exorcist chooses the Assassin. The Assassin can still attack tonight, and the Po chooses three players to attack, because the Po's last choice was no one.
+{{< /example >}}
 
 ##  Tips & Tricks
 

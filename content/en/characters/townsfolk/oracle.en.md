@@ -23,9 +23,13 @@ Each night except the first, wake the Oracle. Show fingers (*0, 1, 2, etc.*) equ
 
 ##  Examples
 
-				During the first day, the Flowergirl is executed. That night, the Demon kills the Juggler. The Oracle wakes and learns a "0,” because all dead players are good.
+{{< example >}}
+During the first day, the Flowergirl is executed. That night, the Demon kills the Juggler. The Oracle wakes and learns a "0,” because all dead players are good.
+{{< /example >}}
 
-				Halfway through the game, seven players are dead. Five of them are good and two of them are evil. During the day, an evil Traveller is Exiled. That night, the Demon kills one of it's Minions. The Oracle wakes and learns a "4,” because four dead players are evil.
+{{< example >}}
+Halfway through the game, seven players are dead. Five of them are good and two of them are evil. During the day, an evil Traveller is Exiled. That night, the Demon kills one of it's Minions. The Oracle wakes and learns a "4,” because four dead players are evil.
+{{< /example >}}
 
 ##  Tips & Tricks
 

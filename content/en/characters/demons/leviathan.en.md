@@ -30,9 +30,13 @@ For new players, it is helpful to declare that the Leviathan is in play each day
 
 ##  Examples
 
-				On the first day, the Monk nominates the Virgin, and is executed. On the second day, the Courtier is executed. Evil wins.
+{{< example >}}
+On the first day, the Monk nominates the Virgin, and is executed. On the second day, the Courtier is executed. Evil wins.
+{{< /example >}}
 
-				On the second day, the Scarlet Woman is executed. On the third day, the Poisoner is executed. On the fifth day, the Soldier is executed. Evil wins.
+{{< example >}}
+On the second day, the Scarlet Woman is executed. On the third day, the Poisoner is executed. On the fifth day, the Soldier is executed. Evil wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

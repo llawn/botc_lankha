@@ -27,9 +27,13 @@ If the Farmer died tonight, wake an alive good player. Show them the **YOU ARE**
 
 ##  Examples
 
-				Julian is the Farmer. The Demon kills him at night. Evin is the Fearmonger, and Sarah is the Alchemist. Sarah becomes the Farmer that night. Evin could not become the Farmer, because he is evil.
+{{< example >}}
+Julian is the Farmer. The Demon kills him at night. Evin is the Fearmonger, and Sarah is the Alchemist. Sarah becomes the Farmer that night. Evin could not become the Farmer, because he is evil.
+{{< /example >}}
 
-				On the 2nd night, the Farmer dies. The Choirboy becomes the Farmer. On the 3rd night, the new Farmer dies, and the Heretic becomes a Farmer. There is now no Heretic and no Choirboy in play, and there are three Farmers in play, two of which are dead.
+{{< example >}}
+On the 2nd night, the Farmer dies. The Choirboy becomes the Farmer. On the 3rd night, the new Farmer dies, and the Heretic becomes a Farmer. There is now no Heretic and no Choirboy in play, and there are three Farmers in play, two of which are dead.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -24,10 +24,14 @@ During the first night, wake the Steward. Point to the player marked **KNOW**. P
 
 ##  Examples
 
-				The Steward learns that Alex is good. Alex is the Undertaker.
+{{< example >}}
+The Steward learns that Alex is good. Alex is the Undertaker.
+{{< /example >}}
 
+{{< example >}}
 The Pit-Hag turns the Poppy Grower into the Steward.
 That night, the Steward learns that Abdallah is good. Abdallah is the Spy, and is registering as good.
+{{< /example >}}
 
 ##  Tips & Tricks
 

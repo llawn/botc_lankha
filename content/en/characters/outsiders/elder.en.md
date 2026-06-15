@@ -25,9 +25,13 @@ If the Elder would die (by execution or by the Werewolf), announce that they sur
 
 ##  Examples
 
-				The Elder is nominated and executed. The Storyteller announces that the Elder survives. The Elder learns their ability is spent.
+{{< example >}}
+The Elder is nominated and executed. The Storyteller announces that the Elder survives. The Elder learns their ability is spent.
+{{< /example >}}
 
-				The Werewolf kills the Elder on night three. The Elder survives. On night four, the Werewolf kills the Elder again. This time, the Elder dies.
+{{< example >}}
+The Werewolf kills the Elder on night three. The Elder survives. On night four, the Werewolf kills the Elder again. This time, the Elder dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

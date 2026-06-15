@@ -23,11 +23,17 @@ During votes for execution, only dead players and the Voudon may raise their han
 
 ##  Examples
 
-				There are 12 players alive, and three dead. An alive Innkeeper nominates the Moonchild. Of the four players that can vote, three do. All other nominations today get fewer than three votes, so the Moonchild dies.
+{{< example >}}
+There are 12 players alive, and three dead. An alive Innkeeper nominates the Moonchild. Of the four players that can vote, three do. All other nominations today get fewer than three votes, so the Moonchild dies.
+{{< /example >}}
 
-				It is the first day. Only the Voudon can vote, but does not. The players call for the Voudon to be exiled. Five players support the exile, and seven oppose. The Voudon lives.
+{{< example >}}
+It is the first day. Only the Voudon can vote, but does not. The players call for the Voudon to be exiled. Five players support the exile, and seven oppose. The Voudon lives.
+{{< /example >}}
 
-				Two dead players vote for the Mastermind to be executed. Then, the Voudon, the dead Fool and the apparently dead Zombuul all vote for the Gossip. The Gossip is executed.
+{{< example >}}
+Two dead players vote for the Mastermind to be executed. Then, the Voudon, the dead Fool and the apparently dead Zombuul all vote for the Gossip. The Gossip is executed.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

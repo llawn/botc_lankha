@@ -27,13 +27,21 @@ The next dusk, the player that the Goon made drunk becomes **sober**—remove th
 
 ##  Examples
 
-				The Courtier chooses the Goon. The Goon turns good, and the Courtier becomes drunk.
+{{< example >}}
+The Courtier chooses the Goon. The Goon turns good, and the Courtier becomes drunk.
+{{< /example >}}
 
-				The Shabaloth attacks the Goon, then the Gossip. Since the Shabaloth became drunk as soon as they chose the Goon, neither player dies tonight, and the Goon turns evil. The next night, the Shabaloth attacks the Gambler then the Goon. The Gambler dies, then the Shabaloth becomes drunk again. The Goon is still alive and still evil.
+{{< example >}}
+The Shabaloth attacks the Goon, then the Gossip. Since the Shabaloth became drunk as soon as they chose the Goon, neither player dies tonight, and the Goon turns evil. The next night, the Shabaloth attacks the Gambler then the Goon. The Gambler dies, then the Shabaloth becomes drunk again. The Goon is still alive and still evil.
+{{< /example >}}
 
-				The Chambermaid chooses the Goon and the Minstrel, and learns a "1" because the Chambermaid is drunk.
+{{< example >}}
+The Chambermaid chooses the Goon and the Minstrel, and learns a "1" because the Chambermaid is drunk.
+{{< /example >}}
 
-				The Tea Lady neighbours the good Goon and the Tinker. The Tinker is executed, but does not die. The next day, the Goon is evil. The Tinker is executed again and dies.
+{{< example >}}
+The Tea Lady neighbours the good Goon and the Tinker. The Tinker is executed, but does not die. The next day, the Goon is evil. The Tinker is executed again and dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

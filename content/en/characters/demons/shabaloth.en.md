@@ -27,11 +27,17 @@ Since the Shabaloth cannot regurgitate themself—they have no ability when dead
 
 ##  Examples
 
-				The Shabaloth attacks the Gossip, then the Gambler. The Gossip dies, but the Gambler, who was protected by the Innkeeper, remains alive.
+{{< example >}}
+The Shabaloth attacks the Gossip, then the Gambler. The Gossip dies, but the Gambler, who was protected by the Innkeeper, remains alive.
+{{< /example >}}
 
-				The Shabaloth attacks the alive Courtier and the dead Exorcist. The Courtier dies. The next night, the Storyteller decides that the Exorcist becomes alive again. The Exorcist doesn't act tonight--they normally act before the Shabaloth.
+{{< example >}}
+The Shabaloth attacks the alive Courtier and the dead Exorcist. The Courtier dies. The next night, the Storyteller decides that the Exorcist becomes alive again. The Exorcist doesn't act tonight--they normally act before the Shabaloth.
+{{< /example >}}
 
-				The Shabaloth attacks the Tea Lady’s neighbour, then the Tea Lady. The Tea Lady’s neighbour, who is protected by the Tea Lady, doesn’t die, but then the Tea Lady dies.
+{{< example >}}
+The Shabaloth attacks the Tea Lady’s neighbour, then the Tea Lady. The Tea Lady’s neighbour, who is protected by the Tea Lady, doesn’t die, but then the Tea Lady dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

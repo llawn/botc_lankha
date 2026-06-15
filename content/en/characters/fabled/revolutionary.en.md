@@ -31,9 +31,13 @@ The Revolutionary should only be in play if both players want it to be. Ask for 
 
 ##  Examples
 
-				Mathew is deaf. He teams up with Davo, via the Revolutionary. Mathew draws the Poisoner, and Davo draws the Imp. They can scheme in private, using sign language, so that Mathew can still participate.
+{{< example >}}
+Mathew is deaf. He teams up with Davo, via the Revolutionary. Mathew draws the Poisoner, and Davo draws the Imp. They can scheme in private, using sign language, so that Mathew can still participate.
+{{< /example >}}
 
-				Hannah is 12 years old. She is keen to play, but does not understand many of the intricacies of how the characters work. She gets the Ravenkeeper and teams up with her father, who is the Fortune Teller.
+{{< example >}}
+Hannah is 12 years old. She is keen to play, but does not understand many of the intricacies of how the characters work. She gets the Ravenkeeper and teams up with her father, who is the Fortune Teller.
+{{< /example >}}
 
 ##  Explanation
 

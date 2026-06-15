@@ -26,13 +26,21 @@ happens, go to the night phase. (*There is a maximum of one execution per day.*)
 
 ##  Examples
 
-				Ten seconds into the first day, the Mutant says to the group that they’re the Mutant. The Storyteller declares that the Mutant is executed immediately. There is no nomination for an execution today, since there can be a maximum of one execution per day.
+{{< example >}}
+Ten seconds into the first day, the Mutant says to the group that they’re the Mutant. The Storyteller declares that the Mutant is executed immediately. There is no nomination for an execution today, since there can be a maximum of one execution per day.
+{{< /example >}}
 
-				A Witch privately talks to the Storyteller and says that Evin, who is playing the Mutant, told them they are the Klutz. The Storyteller chooses to execute the Mutant immediately.
+{{< example >}}
+A Witch privately talks to the Storyteller and says that Evin, who is playing the Mutant, told them they are the Klutz. The Storyteller chooses to execute the Mutant immediately.
+{{< /example >}}
 
-				The Mutant tells the group that they are a Townsfolk, but does not say which one. When questioned if they are the Mutant, they stay silent. After a minute or so of silence, the Storyteller executes the Mutant.
+{{< example >}}
+The Mutant tells the group that they are a Townsfolk, but does not say which one. When questioned if they are the Mutant, they stay silent. After a minute or so of silence, the Storyteller executes the Mutant.
+{{< /example >}}
 
-				The Mutant says they are the Oracle, gives some bogus Oracle information, then says "By the way, I am definitely not the Mutant" while giving a subtle wink. The Storyteller chooses to execute the Mutant immediately.
+{{< example >}}
+The Mutant says they are the Oracle, gives some bogus Oracle information, then says "By the way, I am definitely not the Mutant" while giving a subtle wink. The Storyteller chooses to execute the Mutant immediately.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -27,9 +27,13 @@ If this player is nominated, but before you have started the voting process, if 
 
 ##  Examples
 
-				The Gnome starts the game at the same time as the rest of the players, and is good. Amy is the Alsaahir. Before the first night, the Storyteller announces that the Gnome is the same alignment as Amy. The Engineer nominates Amy on day 3. The Gnome does not use their ability.
+{{< example >}}
+The Gnome starts the game at the same time as the rest of the players, and is good. Amy is the Alsaahir. Before the first night, the Storyteller announces that the Gnome is the same alignment as Amy. The Engineer nominates Amy on day 3. The Gnome does not use their ability.
+{{< /example >}}
 
-				The Gnome enters the game on the 2nd day, and is evil. Lewis is the Demon. At this time, the Storyteller announces that the Gnome is the same alignment as Lewis. On the 2nd day, the Boffin nominates Lewis, and is killed by the Gnome. On the 3rd day, the Zealot nominates Lewis, and is killed by the Gnome. On the 4th day, the Village Idiot nominates Lewis, and the Gnome does not use their ability.
+{{< example >}}
+The Gnome enters the game on the 2nd day, and is evil. Lewis is the Demon. At this time, the Storyteller announces that the Gnome is the same alignment as Lewis. On the 2nd day, the Boffin nominates Lewis, and is killed by the Gnome. On the 3rd day, the Zealot nominates Lewis, and is killed by the Gnome. On the 4th day, the Village Idiot nominates Lewis, and the Gnome does not use their ability.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 * Get as many players as possible to nominate your amigo. This gives you more opportunities to use your ability to target evil players, and gives you opportunities to learn more about which players are comfortable or hesitant to die to your ability.

@@ -26,11 +26,17 @@ If the Professor chose a dead Townsfolk, the chosen player becomes **alive** aga
 
 ##  Examples
 
-				The Professor chooses a dead player who is claiming to be the Tea Lady. The player is actually the Lunatic. Nobody is resurrected.
+{{< example >}}
+The Professor chooses a dead player who is claiming to be the Tea Lady. The player is actually the Lunatic. Nobody is resurrected.
+{{< /example >}}
 
-				The Professor resurrects the Grandmother, who learns a good player’s character. At dawn, all players learn the Grandmother player is alive, but not that the player is the Grandmother.
+{{< example >}}
+The Professor resurrects the Grandmother, who learns a good player’s character. At dawn, all players learn the Grandmother player is alive, but not that the player is the Grandmother.
+{{< /example >}}
 
-				The drunk Professor chooses to resurrect the Minstrel. Unbeknownst to the Professor, the Minstrel was regurgitated by the Shabaloth and is now alive. The Storyteller shakes their head no, because the Professor must choose a dead player. The Professor chooses the dead Fool instead. Nothing happens because the Professor is drunk, and the Professor cannot use their ability again.
+{{< example >}}
+The drunk Professor chooses to resurrect the Minstrel. Unbeknownst to the Professor, the Minstrel was regurgitated by the Shabaloth and is now alive. The Storyteller shakes their head no, because the Professor must choose a dead player. The Professor chooses the dead Fool instead. Nothing happens because the Professor is drunk, and the Professor cannot use their ability again.
+{{< /example >}}
 
 ##  Tips & Tricks
 

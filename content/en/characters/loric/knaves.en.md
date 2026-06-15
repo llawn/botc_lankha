@@ -27,6 +27,10 @@ Once per game, at dusk, if both Storytellers agree, the truth-telling Storytelle
 
 ##  Examples
 
-				There are two Storytellers, Ben and Lachlan. The Chef wakes and chooses Lachlan, who is the lying Storyteller. The Chef learns a "3", even though there are only 2 pairs of evil players.
+{{< example >}}
+There are two Storytellers, Ben and Lachlan. The Chef wakes and chooses Lachlan, who is the lying Storyteller. The Chef learns a "3", even though there are only 2 pairs of evil players.
+{{< /example >}}
 
-				Later that game, the Storytellers switch. The Savant visits Ben and Lachlan and chooses Lachlan. The Savant learns 2 pieces of true information.
+{{< example >}}
+Later that game, the Storytellers switch. The Savant visits Ben and Lachlan and chooses Lachlan. The Savant learns 2 pieces of true information.
+{{< /example >}}

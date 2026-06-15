@@ -29,7 +29,9 @@ Optional rule: Once per game, a player that is mad that you are the Wraith, dies
 
 ##  Examples
 
-				During the first night the Wraith peeks at other players, and notices which good players wake and which do not. During the second night, the Wraith opens their eyes more fully and notices that Doug was woken and pointed to two players tonight. During the 3rd night, when both the Wraith and the Demon wake together, the Wraith uses body language and points to the character sheet to communicate to the Demon to kill Doug, whom the Wraith believes is the Fortune Teller.
+{{< example >}}
+During the first night the Wraith peeks at other players, and notices which good players wake and which do not. During the second night, the Wraith opens their eyes more fully and notices that Doug was woken and pointed to two players tonight. During the 3rd night, when both the Wraith and the Demon wake together, the Wraith uses body language and points to the character sheet to communicate to the Demon to kill Doug, whom the Wraith believes is the Fortune Teller.
+{{< /example >}}
 
 ##  Tips & Tricks
 * Look at everything! You’re far more powerful than a Spy or Widow, because you can learn how good players are using their abilities. Wake up with the Fortune Teller and see who they pick, or wake up with the Nightwatchman to find out who’s confirming them. But be careful - if you get caught, the good team might want to execute you as soon as they can.

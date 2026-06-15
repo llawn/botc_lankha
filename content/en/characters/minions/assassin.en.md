@@ -24,13 +24,21 @@ If the Assassin chose a player, that player **dies**— mark them with the **DEA
 
 ##  Examples
 
-				For the first three nights the Assassin wakes, but chooses not to act. During the fourth night, they choose to kill the Fool. Even though the Fool still has their ability, the Fool dies and stays dead.
+{{< example >}}
+For the first three nights the Assassin wakes, but chooses not to act. During the fourth night, they choose to kill the Fool. Even though the Fool still has their ability, the Fool dies and stays dead.
+{{< /example >}}
 
-				The Tea Lady neighbours two good players. The Assassin chooses to kill one of the Tea Lady’s neighbours, who dies even though they were protected by the Tea Lady.
+{{< example >}}
+The Tea Lady neighbours two good players. The Assassin chooses to kill one of the Tea Lady’s neighbours, who dies even though they were protected by the Tea Lady.
+{{< /example >}}
 
-				The Minstrel is in play. The Mastermind dies by execution. That night, the Assassin chooses to kill the Moonchild, but they do not die, because the Assassin is drunk due to the Minstrel.
+{{< example >}}
+The Minstrel is in play. The Mastermind dies by execution. That night, the Assassin chooses to kill the Moonchild, but they do not die, because the Assassin is drunk due to the Minstrel.
+{{< /example >}}
 
-				The Assassin, who was drunk due to the Courtier, chooses to kill the Goon. The Assassin has no ability, so the Goon remains alive but turns evil.
+{{< example >}}
+The Assassin, who was drunk due to the Courtier, chooses to kill the Goon. The Assassin has no ability, so the Goon remains alive but turns evil.
+{{< /example >}}
 
 ##  Tips & Tricks
 

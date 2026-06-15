@@ -29,7 +29,9 @@ Do this instead of the normal Minion Info and Demon Info steps.
 
 ##  Examples
 
-				The Minions wake to learn that either the Leviathan player or the Magician player is the Demon. The Leviathan player learns that the Fearmonger player, the Assassin player, and the Magician player are the Minions.
+{{< example >}}
+The Minions wake to learn that either the Leviathan player or the Magician player is the Demon. The Leviathan player learns that the Fearmonger player, the Assassin player, and the Magician player are the Minions.
+{{< /example >}}
 
 ##  Tips & Tricks
 

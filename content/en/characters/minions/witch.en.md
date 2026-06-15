@@ -24,15 +24,25 @@ The next day, if the player marked **CURSED** makes a nomination, immediately de
 
 ##  Examples
 
-				At night, the Witch curses the Sage. During the next day, the Sage nominates the Dreamer. The Storyteller immediately declares that the player of the Sage dies. The players still vote to execute the Dreamer, who dies too.
+{{< example >}}
+At night, the Witch curses the Sage. During the next day, the Sage nominates the Dreamer. The Storyteller immediately declares that the player of the Sage dies. The players still vote to execute the Dreamer, who dies too.
+{{< /example >}}
 
-				The Witch curses themself. During the next day, the Witch nominates the Demon, and dies. The players do not vote to execute the Demon, and nominations continue.
+{{< example >}}
+The Witch curses themself. During the next day, the Witch nominates the Demon, and dies. The players do not vote to execute the Demon, and nominations continue.
+{{< /example >}}
 
-				The Witch curses the Klutz. The Fang Gu attacks the Klutz, so the Klutz becomes the Fang Gu. The new Fang Gu is now cursed by the Witch, and they nominate. The new Fang Gu dies, and good wins.
+{{< example >}}
+The Witch curses the Klutz. The Fang Gu attacks the Klutz, so the Klutz becomes the Fang Gu. The new Fang Gu is now cursed by the Witch, and they nominate. The new Fang Gu dies, and good wins.
+{{< /example >}}
 
-				The Witch curses the Savant. Later that night, after the Demon kills a player, only three players are alive, so the curse is removed. The Savant may nominate safely.
+{{< example >}}
+The Witch curses the Savant. Later that night, after the Demon kills a player, only three players are alive, so the curse is removed. The Savant may nominate safely.
+{{< /example >}}
 
-				The Witch curses the Juggler. During the next day, the Juggler calls for the exile of a Traveller. The Juggler lives, and may nominate again, because abilities do not affect exiles.
+{{< example >}}
+The Witch curses the Juggler. During the next day, the Juggler calls for the exile of a Traveller. The Juggler lives, and may nominate again, because abilities do not affect exiles.
+{{< /example >}}
 
 ##  Tips & Tricks
 

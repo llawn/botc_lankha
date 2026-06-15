@@ -28,9 +28,13 @@ If the Imp attacks a dead player at night, let them do so. Whenever a character'
 
 ##  Examples
 
-				It is the first night. The Imp learns that Evin and Sarah are the Minions. The Imp also learns that the Monk, Chef, and Librarian are not in play. The Imp bluffs as the Chef, then bluffs as Mayor halfway through the game. Eventually, the Imp is executed and good wins.
+{{< example >}}
+It is the first night. The Imp learns that Evin and Sarah are the Minions. The Imp also learns that the Monk, Chef, and Librarian are not in play. The Imp bluffs as the Chef, then bluffs as Mayor halfway through the game. Eventually, the Imp is executed and good wins.
+{{< /example >}}
 
-				During the night, the Imp wakes and chooses a player, who dies. The next night, the Imp chooses themselves to die. The Imp dies, and the Poisoner becomes the Imp.
+{{< example >}}
+During the night, the Imp wakes and chooses a player, who dies. The next night, the Imp chooses themselves to die. The Imp dies, and the Poisoner becomes the Imp.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -26,9 +26,13 @@ Each night except the first, if the Demon kills the King, put the Demon to sleep
 
 ##  Examples
 
-				The Imp attacks the Empath. The Empath dies. The next night, the Imp attacks the King, who is protected by the Monk. The King lives. The next night, the Imp attacks the King, who is no longer protected by the Monk. The King dies. The Choirboy is woken by the Storyteller and learns which player is the Imp.
+{{< example >}}
+The Imp attacks the Empath. The Empath dies. The next night, the Imp attacks the King, who is protected by the Monk. The King lives. The next night, the Imp attacks the King, who is no longer protected by the Monk. The King dies. The Choirboy is woken by the Storyteller and learns which player is the Imp.
+{{< /example >}}
 
-				The Shabaloth kills the King. The drunk Choirboy wakes and wrongly learns that the General is the Demon.
+{{< example >}}
+The Shabaloth kills the King. The drunk Choirboy wakes and wrongly learns that the General is the Demon.
+{{< /example >}}
 
 ##  Tips & Tricks
 

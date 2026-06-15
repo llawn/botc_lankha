@@ -23,11 +23,17 @@ If the Sage dies early, you will probably want to show the Sage two alive player
 
 ##  Examples
 
-				During the second night, the Demon kills the Sage. The Storyteller points at two players, one of whom is the Demon.
+{{< example >}}
+During the second night, the Demon kills the Sage. The Storyteller points at two players, one of whom is the Demon.
+{{< /example >}}
 
-				During the final night, the Demon kills the Sage, who is drunk because of the Sweetheart. The Storyteller points at a dead player and one of the remaining three alive players. This information is incorrect.
+{{< example >}}
+During the final night, the Demon kills the Sage, who is drunk because of the Sweetheart. The Storyteller points at a dead player and one of the remaining three alive players. This information is incorrect.
+{{< /example >}}
 
-				The Pit-Hag creates a Demon. Because the Pit-Hag ability says that "all deaths tonight are arbitrary,” the Storyteller decides that the old Demon dies, and the Sage dies. Because the Sage died due to the Pit-Hag, not the Demon, the Sage does not wake to learn anything tonight
+{{< example >}}
+The Pit-Hag creates a Demon. Because the Pit-Hag ability says that "all deaths tonight are arbitrary,” the Storyteller decides that the old Demon dies, and the Sage dies. Because the Sage died due to the Pit-Hag, not the Demon, the Sage does not wake to learn anything tonight
+{{< /example >}}
 
 ##  Tips & Tricks
 

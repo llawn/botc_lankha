@@ -33,13 +33,21 @@ If a good player becomes a Minion or Demon, or an evil player becomes a Townsfol
 
 ##  Examples
 
-				The Barber dies. The Demon considers swapping the Clockmaker and the Juggler, but then does nothing.
+{{< example >}}
+The Barber dies. The Demon considers swapping the Clockmaker and the Juggler, but then does nothing.
+{{< /example >}}
 
-				The Barber dies. The Demon swaps the alive Snake Charmer with the dead Barber. Now, there is an alive Barber and a dead Snake Charmer.
+{{< example >}}
+The Barber dies. The Demon swaps the alive Snake Charmer with the dead Barber. Now, there is an alive Barber and a dead Snake Charmer.
+{{< /example >}}
 
-				The Barber dies. The Vortox swaps themself with an alive Witch.
+{{< example >}}
+The Barber dies. The Vortox swaps themself with an alive Witch.
+{{< /example >}}
 
-				The Barber dies. The Vigormortis swaps themself with a dead Sweetheart. The old Vigormortis is now the evil Sweetheart. Because the Pit-Hag created a good Demon during the previous night, the game continues.
+{{< example >}}
+The Barber dies. The Vigormortis swaps themself with a dead Sweetheart. The old Vigormortis is now the evil Sweetheart. Because the Pit-Hag created a good Demon during the previous night, the game continues.
+{{< /example >}}
 
 ##  Tips & Tricks
 

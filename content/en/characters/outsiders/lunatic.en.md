@@ -31,9 +31,13 @@ You can make the Lunatic think they are a different Demon than the in-play Demon
 
 ##  Examples
 
-				The Lunatic, thinking they are the Shabaloth, wakes each night to choose two players. The chosen players do not die.
+{{< example >}}
+The Lunatic, thinking they are the Shabaloth, wakes each night to choose two players. The chosen players do not die.
+{{< /example >}}
 
-				The Lunatic, thinking they are the Zombuul, does not wake often at night. The real Zombuul, who is pretending to be the Lunatic's Minion, often attacks the same players the Lunatic chooses, to keep up the illusion that the Lunatic is the Demon.
+{{< example >}}
+The Lunatic, thinking they are the Zombuul, does not wake often at night. The real Zombuul, who is pretending to be the Lunatic's Minion, often attacks the same players the Lunatic chooses, to keep up the illusion that the Lunatic is the Demon.
+{{< /example >}}
 
 ##  Tips & Tricks
 

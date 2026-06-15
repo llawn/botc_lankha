@@ -31,11 +31,17 @@ If the Qutler accidentally votes illegally, tally the Qutler's vote anyway. If y
 
 ##  Examples
 
-				The Qutler chooses Filip to be their Master. Tomorrow, if Filip raises his hand to vote on an execution, then the Qutler may too. If not, then the Qutler may not raise their hand.
+{{< example >}}
+The Qutler chooses Filip to be their Master. Tomorrow, if Filip raises his hand to vote on an execution, then the Qutler may too. If not, then the Qutler may not raise their hand.
+{{< /example >}}
 
-				A nomination is in progress. The Qutler and their Master both have their hands raised to vote. As the Storyteller is counting votes, the Master lowers their hand at the last second. The Qutler must lower their hand immediately.
+{{< example >}}
+A nomination is in progress. The Qutler and their Master both have their hands raised to vote. As the Storyteller is counting votes, the Master lowers their hand at the last second. The Qutler must lower their hand immediately.
+{{< /example >}}
 
-				The Qutler is dead. Because dead players have no ability, the Qutler may vote with their vote token at any time.
+{{< example >}}
+The Qutler is dead. Because dead players have no ability, the Qutler may vote with their vote token at any time.
+{{< /example >}}
 
 ##  Tips & Tricks
 

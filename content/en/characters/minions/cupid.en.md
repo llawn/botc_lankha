@@ -26,9 +26,13 @@ Each night, wake Cupid. They point to two players (they may point to themselves)
 
 ##  Examples
 
-				Cupid makes Marie and Pierre lovers on night one. Pierre is executed. Marie dies too.
+{{< example >}}
+Cupid makes Marie and Pierre lovers on night one. Pierre is executed. Marie dies too.
+{{< /example >}}
 
-				Cupid makes themselves and Claire lovers. Claire is killed by the Werewolf. Cupid dies. The Werewolf now has one fewer Minion.
+{{< example >}}
+Cupid makes themselves and Claire lovers. Claire is killed by the Werewolf. Cupid dies. The Werewolf now has one fewer Minion.
+{{< /example >}}
 
 ##  Tips & Tricks
 

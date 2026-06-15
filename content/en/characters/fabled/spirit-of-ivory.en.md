@@ -26,7 +26,9 @@ If a player would become evil and the Spirit of Ivory is marked **NO MORE EVIL**
 
 ##  Examples
 
-				The Fang Gu attacks an Outsider and creates an evil player. The Devil's Advocate chooses the Goon at night. Normally, the Goon would turn evil, but the Goon remains good because there is already 1 more evil character than normal in play.
+{{< example >}}
+The Fang Gu attacks an Outsider and creates an evil player. The Devil's Advocate chooses the Goon at night. Normally, the Goon would turn evil, but the Goon remains good because there is already 1 more evil character than normal in play.
+{{< /example >}}
 
 ##  Explanation
 

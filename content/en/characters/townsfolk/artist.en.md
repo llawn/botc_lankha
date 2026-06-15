@@ -24,13 +24,21 @@ Like the Savant, evil players bluffing as the Artist may request a private chat 
 
 ##  Examples
 
-				The Artist asks, "Is the Demon sitting in a brown chair?" The Storyteller answers, "No,” because the Demon is in a black chair.
+{{< example >}}
+The Artist asks, "Is the Demon sitting in a brown chair?" The Storyteller answers, "No,” because the Demon is in a black chair.
+{{< /example >}}
 
-				The Artist asks, "Is David the Evil Twin?” and the Storyteller answers, "Yes,” because David is.
+{{< example >}}
+The Artist asks, "Is David the Evil Twin?” and the Storyteller answers, "Yes,” because David is.
+{{< /example >}}
 
-				The Artist asks, "How many Minions are alive?” and the Storyteller says, "Please ask another question. I cannot answer that with a yes, no, or I don't know."
+{{< example >}}
+The Artist asks, "How many Minions are alive?” and the Storyteller says, "Please ask another question. I cannot answer that with a yes, no, or I don't know."
+{{< /example >}}
 
-				The Artist asks, "Are we winning?” and the Storyteller answers, "I don't know,” because even though all the Minions are dead, many good players trust the Demon.
+{{< example >}}
+The Artist asks, "Are we winning?” and the Storyteller answers, "I don't know,” because even though all the Minions are dead, many good players trust the Demon.
+{{< /example >}}
 
 ##  Tips & Tricks
 

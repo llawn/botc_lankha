@@ -25,13 +25,21 @@ In smaller games, making the Fortune Teller their own Red Herring is sometimes a
 
 ##  Examples
 
-				The Fortune Teller chooses the Monk and the Undertaker and learns a 'no'.
+{{< example >}}
+The Fortune Teller chooses the Monk and the Undertaker and learns a 'no'.
+{{< /example >}}
 
-				The Fortune Teller chooses the Imp and the Empath, and learns a 'yes'.
+{{< example >}}
+The Fortune Teller chooses the Imp and the Empath, and learns a 'yes'.
+{{< /example >}}
 
-				The Fortune Teller chooses an alive Butler and a dead Imp, and learns a 'yes'.
+{{< example >}}
+The Fortune Teller chooses an alive Butler and a dead Imp, and learns a 'yes'.
+{{< /example >}}
 
-				The Fortune Teller chooses themselves and a Saint. The Saint is the Red Herring. The Fortune Teller learns a 'yes'.
+{{< example >}}
+The Fortune Teller chooses themselves and a Saint. The Saint is the Red Herring. The Fortune Teller learns a 'yes'.
+{{< /example >}}
 
 ##  Tips & Tricks
 

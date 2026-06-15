@@ -24,13 +24,21 @@ If they pointed at a dead player, **the chosen player regains their ability**—
 
 ##  Examples
 
-				The Bone Collector gives the dead Flowergirl her ability back. That night, the Flowergirl learns that the Demon did indeed vote today. The following night, the Flowergirl once again has no ability.
+{{< example >}}
+The Bone Collector gives the dead Flowergirl her ability back. That night, the Flowergirl learns that the Demon did indeed vote today. The following night, the Flowergirl once again has no ability.
+{{< /example >}}
 
-				The Bone Collector chooses the dead Witch. The Witch wakes and curses the Clockmaker. The Clockmaker nominates the following day, and dies.
+{{< example >}}
+The Bone Collector chooses the dead Witch. The Witch wakes and curses the Clockmaker. The Clockmaker nominates the following day, and dies.
+{{< /example >}}
 
-				At night, the Bone Collector chooses the dead Butcher. The following day, after an execution has occurred, the Storyteller prompts the Butcher to nominate again.
+{{< example >}}
+At night, the Bone Collector chooses the dead Butcher. The following day, after an execution has occurred, the Storyteller prompts the Butcher to nominate again.
+{{< /example >}}
 
-				During the day, the dead Juggler guesses five players’ characters. That night, the Bone Collector gives the Juggler their ability back. The Juggler learns a "3".
+{{< example >}}
+During the day, the dead Juggler guesses five players’ characters. That night, the Bone Collector gives the Juggler their ability back. The Juggler learns a "3".
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

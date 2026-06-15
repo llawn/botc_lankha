@@ -26,9 +26,13 @@ Usually, you’ll want to nominate about three to five players each day, with at
 
 ##  Examples
 
-				The Bishop is good. On the first day, the Storyteller nominates the Demon, a Minion, and two Townsfolk. On the second day, the Storyteller nominates a Minion and Outsider.
+{{< example >}}
+The Bishop is good. On the first day, the Storyteller nominates the Demon, a Minion, and two Townsfolk. On the second day, the Storyteller nominates a Minion and Outsider.
+{{< /example >}}
 
-				The Bishop is evil. The Storyteller has nominated nobody. However, the Storyteller must nominate at least one good player today, so they choose the Minstrel. The next day, the Storyteller nominates four good players and the Demon. The Bishop is exiled that day, and now the players may continue the nomination process normally.
+{{< example >}}
+The Bishop is evil. The Storyteller has nominated nobody. However, the Storyteller must nominate at least one good player today, so they choose the Minstrel. The next day, the Storyteller nominates four good players and the Demon. The Bishop is exiled that day, and now the players may continue the nomination process normally.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

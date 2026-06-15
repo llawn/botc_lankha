@@ -25,6 +25,10 @@ At the start of the game, if there are homebrew characters on the character shee
 
 ##  Examples
 
-				The character sheet contains the homebrew character the . The Storyteller announces that the Bootlegger is in play and then explains how the  works.
+{{< example >}}
+The character sheet contains the homebrew character the . The Storyteller announces that the Bootlegger is in play and then explains how the  works.
+{{< /example >}}
 
-				The Storyteller has a homebrew or house rule. The Storyteller announces that the Bootlegger is in play and explains what the homebrew rule is and how it will affect the game.
+{{< example >}}
+The Storyteller has a homebrew or house rule. The Storyteller announces that the Bootlegger is in play and explains what the homebrew rule is and how it will affect the game.
+{{< /example >}}

@@ -25,11 +25,17 @@ During the first night, wake the Noble. Point to all three players marked **KNOW
 
 ##  Examples
 
-				The Noble is shown Marianna, Alex, and Abdallah. Marianna and Abdallah are good, and Alex is evil.
+{{< example >}}
+The Noble is shown Marianna, Alex, and Abdallah. Marianna and Abdallah are good, and Alex is evil.
+{{< /example >}}
 
-				The Noble learns Doug, Lachlan and Ben. Doug is the Chambermaid. Lachlan is the Barber. Ben is the Recluse, who has registered as evil to the Noble.
+{{< example >}}
+The Noble learns Doug, Lachlan and Ben. Doug is the Chambermaid. Lachlan is the Barber. Ben is the Recluse, who has registered as evil to the Noble.
+{{< /example >}}
 
-				On the third night, the Pit-Hag turns Amy into the Noble. Amy learns that 1 of Evin, Sarah, or Julian is evil. However, Sarah is the evil Spy and has registered as good, and Julian is the Po, who is also evil.
+{{< example >}}
+On the third night, the Pit-Hag turns Amy into the Noble. Amy learns that 1 of Evin, Sarah, or Julian is evil. However, Sarah is the evil Spy and has registered as good, and Julian is the Po, who is also evil.
+{{< /example >}}
 
 ##  Tips & Tricks
 

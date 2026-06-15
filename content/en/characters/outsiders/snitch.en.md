@@ -23,11 +23,17 @@ During the first night, wake a Minion. Show the **THESE CHARACTERS ARE NOT IN PL
 
 ##  Examples
 
-				On the first night, the Demon and its two Minions all learn that the Sage, Innkeeper, and Golem are not in play.
+{{< example >}}
+On the first night, the Demon and its two Minions all learn that the Sage, Innkeeper, and Golem are not in play.
+{{< /example >}}
 
-				On the first night, the Demon learns that the Fool, Monk, and Saint are not in play. The Mastermind learns that the Fool, Monk, and Saint are not in play. The Witch learns that the Fool, Flowergirl, and Barber are not in play. The Fearmonger learns that the Noble, Amnesiac, and Heretic are not in play.
+{{< example >}}
+On the first night, the Demon learns that the Fool, Monk, and Saint are not in play. The Mastermind learns that the Fool, Monk, and Saint are not in play. The Witch learns that the Fool, Flowergirl, and Barber are not in play. The Fearmonger learns that the Noble, Amnesiac, and Heretic are not in play.
+{{< /example >}}
 
-				On the fourth night, the Pit-Hag creates a Snitch. All Minions learn three not-in-play characters.
+{{< example >}}
+On the fourth night, the Pit-Hag creates a Snitch. All Minions learn three not-in-play characters.
+{{< /example >}}
 
 ##  Tips & Tricks
 

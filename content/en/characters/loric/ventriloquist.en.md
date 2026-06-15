@@ -27,8 +27,14 @@ If an execution occurs, and the executee is marked **MAD** due to the Ventriloqu
 
 ##  Examples
 
-				Abdallah is the Gambler. On the 1st day, he is mad that he is the Gambler. When nominated, he is mad that he is the Hatter. Later that day, Abdallah is executed and does not die.
+{{< example >}}
+Abdallah is the Gambler. On the 1st day, he is mad that he is the Gambler. When nominated, he is mad that he is the Hatter. Later that day, Abdallah is executed and does not die.
+{{< /example >}}
 
-				Marianna is the Professor. She has been claiming to be the Empath all game. When nominated, she claims to be the Huntsman. When executed, Marianna does not die.
+{{< example >}}
+Marianna is the Professor. She has been claiming to be the Empath all game. When nominated, she claims to be the Huntsman. When executed, Marianna does not die.
+{{< /example >}}
 
-				Julian is the Hermit. Julian is quiet for 3 days. When nominated, Julian is mad as the Knight, and says that Evin and Alex are not the Demon. When executed, Julian dies, because he was not mad as a fresh character.
+{{< example >}}
+Julian is the Hermit. Julian is quiet for 3 days. When nominated, Julian is mad as the Knight, and says that Evin and Alex are not the Demon. When executed, Julian dies, because he was not mad as a fresh character.
+{{< /example >}}

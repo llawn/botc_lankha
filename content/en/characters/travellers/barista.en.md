@@ -32,9 +32,13 @@ The Barista ensures players get true information even if an ability causes false
 
 ##  Examples
 
-				The Barista makes the Sage sober and healthy.
+{{< example >}}
+The Barista makes the Sage sober and healthy.
+{{< /example >}}
 
-				The Klutz acts twice. They die and must choose two players. If either is evil, evil wins. The next night, the Barista makes the Witch act twice. Two players are cursed.
+{{< example >}}
+The Klutz acts twice. They die and must choose two players. If either is evil, evil wins. The next night, the Barista makes the Witch act twice. Two players are cursed.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

@@ -26,13 +26,21 @@ In Trouble Brewing, there can only be one execution per day, and every execution
 
 ##  Examples
 
-				The Mayor is executed today. That night, the Undertaker is shown the Mayor token.
+{{< example >}}
+The Mayor is executed today. That night, the Undertaker is shown the Mayor token.
+{{< /example >}}
 
-				The Drunk, who thinks they are the Virgin, is executed today. At night, the Undertaker is shown the Drunk token, because the Undertaker learns a player's true character, as opposed to the one they believe they are.
+{{< example >}}
+The Drunk, who thinks they are the Virgin, is executed today. At night, the Undertaker is shown the Drunk token, because the Undertaker learns a player's true character, as opposed to the one they believe they are.
+{{< /example >}}
 
-				The Spy is executed. Two Travellers are exiled. That night, the Undertaker is shown the Butler token, because the Spy is registering as the Butler, and because the exiles are not executions.
+{{< example >}}
+The Spy is executed. Two Travellers are exiled. That night, the Undertaker is shown the Butler token, because the Spy is registering as the Butler, and because the exiles are not executions.
+{{< /example >}}
 
-				Nobody was executed today. That night, the Undertaker does not wake.
+{{< example >}}
+Nobody was executed today. That night, the Undertaker does not wake.
+{{< /example >}}
 
 ##  Tips & Tricks
 

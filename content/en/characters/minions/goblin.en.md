@@ -28,11 +28,17 @@ If a non-Goblin player claims to be the Goblin when nominated, act as if they ar
 
 ##  Examples
 
-				Abdallah is the Goblin. Alex nominates Abdallah, and Abdallah claims to be the Goblin. Votes are counted, and Abdallah is about to die. Other nominations occur later today, but Abdallah has the most votes and is executed. Evil wins.
+{{< example >}}
+Abdallah is the Goblin. Alex nominates Abdallah, and Abdallah claims to be the Goblin. Votes are counted, and Abdallah is about to die. Other nominations occur later today, but Abdallah has the most votes and is executed. Evil wins.
+{{< /example >}}
 
-				Lewis is the Artist, and claims to be the Goblin when nominated. He is executed, and the game continues.
+{{< example >}}
+Lewis is the Artist, and claims to be the Goblin when nominated. He is executed, and the game continues.
+{{< /example >}}
 
-				Doug is the Goblin. He claimed to be the Goblin yesterday and the day before, but not today. He is executed. The game continues.
+{{< example >}}
+Doug is the Goblin. He claimed to be the Goblin yesterday and the day before, but not today. He is executed. The game continues.
+{{< /example >}}
 
 ##  Tips & Tricks
 

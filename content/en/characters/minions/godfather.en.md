@@ -28,9 +28,13 @@ If an Outsider dies during the day, mark them with the **DIED TODAY** reminder. 
 
 ##  Examples
 
-				The Godfather learns that the Lunatic and the Moonchild are in play, so the Godfather bluffs as the Tinker. During the third day, the Lunatic dies by execution. That night, the Demon kills the Minstrel, and the Godfather kills the Pacifist.
+{{< example >}}
+The Godfather learns that the Lunatic and the Moonchild are in play, so the Godfather bluffs as the Tinker. During the third day, the Lunatic dies by execution. That night, the Demon kills the Minstrel, and the Godfather kills the Pacifist.
+{{< /example >}}
 
-				The Tinker is executed but remains alive, because they were protected by the Devil's Advocate. The Godfather does not act that night. The next day, the Tinker dies due to their own ability. That night, the Demon kills a player, and the Godfather kills themself to appear like a good player.
+{{< example >}}
+The Tinker is executed but remains alive, because they were protected by the Devil's Advocate. The Godfather does not act that night. The next day, the Tinker dies due to their own ability. That night, the Demon kills a player, and the Godfather kills themself to appear like a good player.
+{{< /example >}}
 
 ##  Tips & Tricks
 

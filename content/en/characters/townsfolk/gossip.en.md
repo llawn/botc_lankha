@@ -27,11 +27,17 @@ When choosing a player to die due to the Gossip ability, we recommend that you c
 
 ##  Examples
 
-				During the day, the Gossip says, "I am the Gossip. My public statement is: The Demon is wearing a hat." The Demon is not wearing a hat. That night, nobody dies due to the Gossip’s ability.
+{{< example >}}
+During the day, the Gossip says, "I am the Gossip. My public statement is: The Demon is wearing a hat." The Demon is not wearing a hat. That night, nobody dies due to the Gossip’s ability.
+{{< /example >}}
 
-				The Gossip neighbours a good Traveller and the Pacifist. During the day, the drunk Gossip says, "Both my neighbours are good." At dusk, the drunk Gossip becomes sober. That night, the Chambermaid dies.
+{{< example >}}
+The Gossip neighbours a good Traveller and the Pacifist. During the day, the drunk Gossip says, "Both my neighbours are good." At dusk, the drunk Gossip becomes sober. That night, the Chambermaid dies.
+{{< /example >}}
 
-				During the day, the Gossip makes a true statement. That night, the Gossip is killed by the Demon. They lose their ability, so their statement does not kill anyone tonight.
+{{< example >}}
+During the day, the Gossip makes a true statement. That night, the Gossip is killed by the Demon. They lose their ability, so their statement does not kill anyone tonight.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -28,9 +28,13 @@ This is only recommended for games of 15 players or more, so that there are not 
 
 ##  Examples
 
-				On the first night, the Ogre chooses the Summoner. The Ogre becomes evil, and stays evil for the rest of the game.
+{{< example >}}
+On the first night, the Ogre chooses the Summoner. The Ogre becomes evil, and stays evil for the rest of the game.
+{{< /example >}}
 
-				On the first night, the Ogre chooses the Banshee. The Ogre stays good. On the third night, the Mezepheles turns the Banshee evil. The Ogre remains good.
+{{< example >}}
+On the first night, the Ogre chooses the Banshee. The Ogre stays good. On the third night, the Mezepheles turns the Banshee evil. The Ogre remains good.
+{{< /example >}}
 
 ##  Tips & Tricks
 * The Ogre is in an interesting position compared to other players, as you do not learn your starting alignment, but you do know whose team you’re playing for. It is to your advantage to tell your friend that you’ve picked them early, and be honest with them, so they believe you. If you’re having this conversation publicly, your aim is to convince the group that you are aligned with your friend; if you’re having this conversation privately, your aim is to scheme together and come up with a game plan.

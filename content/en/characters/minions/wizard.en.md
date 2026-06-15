@@ -39,15 +39,25 @@ Overall, the wish should tip the scales in favour of the Wizard, but still allow
 
 ##  Examples
 
-				The Wizard wishes to see the Grimoire. The Storyteller grants this wish, and there is no price and no clue.
+{{< example >}}
+The Wizard wishes to see the Grimoire. The Storyteller grants this wish, and there is no price and no clue.
+{{< /example >}}
 
-				The Wizard wishes that all good players are drunk. The Storyteller grants the wish. Later, they declare that the Wizard has made a wish and that “Things are wrong” but provide no further context. For the rest of the game, the Storyteller makes all information false.
+{{< example >}}
+The Wizard wishes that all good players are drunk. The Storyteller grants the wish. Later, they declare that the Wizard has made a wish and that “Things are wrong” but provide no further context. For the rest of the game, the Storyteller makes all information false.
+{{< /example >}}
 
-				The Wizard wishes that they become a Demon. The Storyteller grants the wish. Later, they declare that the Wizard has made a wish, and that “The student has become the master.” The Storyteller kills the Lord of Typhon and turns the Wizard into the Ojo.
+{{< example >}}
+The Wizard wishes that they become a Demon. The Storyteller grants the wish. Later, they declare that the Wizard has made a wish, and that “The student has become the master.” The Storyteller kills the Lord of Typhon and turns the Wizard into the Ojo.
+{{< /example >}}
 
-				The Wizard wishes to win the game. The Storyteller grants the wish, and tells the Wizard that the evil team will win the game at the end of the day. The Storyteller declares that the Wizard has made a wish, and that either Ben, Amy, or Lewis is the Demon. The group executes Ben, who is the Demon, and good wins.
+{{< example >}}
+The Wizard wishes to win the game. The Storyteller grants the wish, and tells the Wizard that the evil team will win the game at the end of the day. The Storyteller declares that the Wizard has made a wish, and that either Ben, Amy, or Lewis is the Demon. The group executes Ben, who is the Demon, and good wins.
+{{< /example >}}
 
-				The Wizard wishes that all players have 5 lives, and all reminder tokens for the script are added to characters. The Storyteller judges that this wish is too awkward, confusing and boring, declines the wish, and asks the Wizard to wish again.
+{{< example >}}
+The Wizard wishes that all players have 5 lives, and all reminder tokens for the script are added to characters. The Storyteller judges that this wish is too awkward, confusing and boring, declines the wish, and asks the Wizard to wish again.
+{{< /example >}}
 
 ##  Tips & Tricks
 * Make your wish immediately! The sooner you wish, the quicker your wish can take effect and start wreaking whatever havoc you’ve wished upon the town.

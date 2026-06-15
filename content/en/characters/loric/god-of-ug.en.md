@@ -28,6 +28,10 @@ Optional rule: If wearing the Ug hat becomes unfunny, limit it to the nomination
 
 ##  Examples
 
-				Amy is wearing the Ug hat. When nominated, she says, “It not me. I think Ben has been the talk with the bad guy. He bad.” Amy keeps the Ug hat.
+{{< example >}}
+Amy is wearing the Ug hat. When nominated, she says, “It not me. I think Ben has been the talk with the bad guy. He bad.” Amy keeps the Ug hat.
+{{< /example >}}
 
-				Lewis has the Ug hat. In a private conversation with Julian and Alex, Lewis says, “I think that you are both good. I am the bird thing that can see one guy when I die. I want the Demon to kill me so that I get the guy and know things to tell you in the day that is next.” The Storyteller gives Abdallah the Ug hat, because “Demon” is a multisyllabic word.
+{{< example >}}
+Lewis has the Ug hat. In a private conversation with Julian and Alex, Lewis says, “I think that you are both good. I am the bird thing that can see one guy when I die. I want the Demon to kill me so that I get the guy and know things to tell you in the day that is next.” The Storyteller gives Abdallah the Ug hat, because “Demon” is a multisyllabic word.
+{{< /example >}}

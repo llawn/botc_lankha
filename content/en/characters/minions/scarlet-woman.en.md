@@ -27,11 +27,17 @@ In Trouble Brewing, there is only one Demon—the Imp. In other editions, there 
 
 ##  Examples
 
-				There are seven players alive: the Imp, the Scarlet Woman, two Townsfolk, and three Travellers. The Imp is executed, so the game ends and good wins because Travellers do not add to the player count for the Scarlet Woman's ability.
+{{< example >}}
+There are seven players alive: the Imp, the Scarlet Woman, two Townsfolk, and three Travellers. The Imp is executed, so the game ends and good wins because Travellers do not add to the player count for the Scarlet Woman's ability.
+{{< /example >}}
 
-				There are five players alive: the Imp, the Scarlet Woman, the Baron, and two Townsfolk. The Imp is executed. The Scarlet Woman becomes the Imp, and the game continues.
+{{< example >}}
+There are five players alive: the Imp, the Scarlet Woman, the Baron, and two Townsfolk. The Imp is executed. The Scarlet Woman becomes the Imp, and the game continues.
+{{< /example >}}
 
-				Brianna is the Scarlet Woman. The Fortune Teller chooses Brianna and Alex, and learns a "no.” Later, the Imp dies, so Brianna becomes the Imp. The Fortune Teller chooses Brianna and Alex again, and learns a "yes."
+{{< example >}}
+Brianna is the Scarlet Woman. The Fortune Teller chooses Brianna and Alex, and learns a "no.” Later, the Imp dies, so Brianna becomes the Imp. The Fortune Teller chooses Brianna and Alex again, and learns a "yes."
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -29,8 +29,14 @@ During the night, if the Summoner has a **NIGHT 3** reminder, wake the Summoner.
 
 ##  Examples
 
+{{< example >}}
 On the third night, the Summoner chooses the Snitch player, and the Lleech. The Snitch becomes the evil Lleech, and chooses a player to poison, and a player to kill.
+{{< /example >}}
 
+{{< example >}}
 On the first day, the Summoner is executed. Good wins.
+{{< /example >}}
 
+{{< example >}}
 On the third night, the Summoner turns the Alchemist into the Leviathan. At dawn, all players learn that Leviathan is in play, and that it is day three of five.
+{{< /example >}}

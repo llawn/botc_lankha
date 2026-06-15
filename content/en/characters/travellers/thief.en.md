@@ -25,9 +25,13 @@ Each time you tally the vote of a player marked **NEGATIVE VOTE**, count it as s
 
 ##  Examples
 
-				The Thief chooses Marianna. The next day, while tallying the first vote, the Storyteller counts "1... 2... 3... 2... 3... 4... 5.” The nominated player now has five votes for their execution, and the nomination process continues.
+{{< example >}}
+The Thief chooses Marianna. The next day, while tallying the first vote, the Storyteller counts "1... 2... 3... 2... 3... 4... 5.” The nominated player now has five votes for their execution, and the nomination process continues.
+{{< /example >}}
 
-				The Thief chooses Abdallah. Abdallah votes for an execution, and instead of the tally being six, it is four. Since 10 players are alive, the nominee is not executed today. Later that day, the players are voting to exile the Gunslinger. Abdallah votes to exile, and his vote counts as positive.
+{{< example >}}
+The Thief chooses Abdallah. Abdallah votes for an execution, and instead of the tally being six, it is four. Since 10 players are alive, the nominee is not executed today. Later that day, the players are voting to exile the Gunslinger. Abdallah votes to exile, and his vote counts as positive.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

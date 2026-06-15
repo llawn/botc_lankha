@@ -25,9 +25,13 @@ If the character marked with the Storm Catcher’s **SAFE** reminder is executed
 
 ##  Examples
 
-				The Storyteller has built a script based on the General, so says that “the Storm Catcher favours the General”. The General is in play. At night, the Imp and the Godfather both attack the General, who does not die. After 5 days of information and discussion, the town decides to execute the General. They die.
+{{< example >}}
+The Storyteller has built a script based on the General, so says that “the Storm Catcher favours the General”. The General is in play. At night, the Imp and the Godfather both attack the General, who does not die. After 5 days of information and discussion, the town decides to execute the General. They die.
+{{< /example >}}
 
-				The Storyteller wants a game based around the Empath’s information, so declares that “The Storm Catcher favours the Empath”. There is no Empath in play. Because the evil players learn this, the Poisoner chooses to bluff as the Empath.
+{{< example >}}
+The Storyteller wants a game based around the Empath’s information, so declares that “The Storm Catcher favours the Empath”. There is no Empath in play. Because the evil players learn this, the Poisoner chooses to bluff as the Empath.
+{{< /example >}}
 
 ##  Explanation
 

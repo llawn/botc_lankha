@@ -29,11 +29,17 @@ Remember that the night order is just a guide. The Cacklejack may act at any poi
 
 ##  Examples
 
-				During the day, the Cacklejack chooses Evin. That night, Amy changes from the Acrobat into the Clockmaker. Amy learns a 2.
+{{< example >}}
+During the day, the Cacklejack chooses Evin. That night, Amy changes from the Acrobat into the Clockmaker. Amy learns a 2.
+{{< /example >}}
 
-				During the day, the Cacklejack chooses Abdallah. That night, Julian changes from the Drunk into the Flowergirl. Julian does not learn that he is now sober.
+{{< example >}}
+During the day, the Cacklejack chooses Abdallah. That night, Julian changes from the Drunk into the Flowergirl. Julian does not learn that he is now sober.
+{{< /example >}}
 
-				During the day, the Cacklejack chooses Alex. That night, Lachlan changes from the Leviathan into the Shabaloth. Lachlan has fun.
+{{< example >}}
+During the day, the Cacklejack chooses Alex. That night, Lachlan changes from the Leviathan into the Shabaloth. Lachlan has fun.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 * Talk to everyone! Figure out which players have abilities they’d like to keep, like a powerful Fortune Teller or a curious Amnesiac, and choose one of those players with your ability each day.

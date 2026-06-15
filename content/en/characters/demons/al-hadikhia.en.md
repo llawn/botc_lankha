@@ -28,9 +28,13 @@ You may need to remind all players to be silent as the Al-Hadikhia acts. This in
 
 ##  Examples
 
-				The Al-Hadikhia chooses Evin, Lachlan, and Sarah. Evin chooses to die. Lachlan chooses to die. Sarah chooses to live. In the morning, Evin and Lachlan are dead, and Sarah is alive.
+{{< example >}}
+The Al-Hadikhia chooses Evin, Lachlan, and Sarah. Evin chooses to die. Lachlan chooses to die. Sarah chooses to live. In the morning, Evin and Lachlan are dead, and Sarah is alive.
+{{< /example >}}
 
-				The Al-Hadikhia chooses Alex, Lewis, and Doug, who is dead. Alex chooses life. Lewis chooses life. Doug chooses life, so is now alive. Since all players are now alive, all three players die.
+{{< example >}}
+The Al-Hadikhia chooses Alex, Lewis, and Doug, who is dead. Alex chooses life. Lewis chooses life. Doug chooses life, so is now alive. Since all players are now alive, all three players die.
+{{< /example >}}
 
 ##  Tips & Tricks
 

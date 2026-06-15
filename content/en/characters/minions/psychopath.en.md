@@ -28,9 +28,13 @@ If the Psychopath is executed due to a self-nomination, then the Psychopath play
 
 ##  Examples
 
-				The Psychopath chooses to kill the Sailor. The Sailor is sober, so does not die. The Psychopath may not use their ability again today.
+{{< example >}}
+The Psychopath chooses to kill the Sailor. The Sailor is sober, so does not die. The Psychopath may not use their ability again today.
+{{< /example >}}
 
-				The Psychopath has been nominated by the Barber, and is executed. In Roshambo, the Barber has rock and the Psychopath has rock, so the Psychopath lives. The next day, the Saint nominates and executes the Psychopath. The Saint has paper and the Psychopath has scissors, so the Psychopath lives. The next day, the Barber nominates and executes the Psychopath again. The Barber has rock and the Psychopath has scissors, so the Psychopath dies.
+{{< example >}}
+The Psychopath has been nominated by the Barber, and is executed. In Roshambo, the Barber has rock and the Psychopath has rock, so the Psychopath lives. The next day, the Saint nominates and executes the Psychopath. The Saint has paper and the Psychopath has scissors, so the Psychopath lives. The next day, the Barber nominates and executes the Psychopath again. The Barber has rock and the Psychopath has scissors, so the Psychopath dies.
+{{< /example >}}
 
 ##  Tips & Tricks
 

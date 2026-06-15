@@ -32,7 +32,9 @@ Monsta’s ability. On the final day, it would be unfair for the good team to ha
 
 ##  Examples
 
-				The Poisoner and the Widow wake. They point at each other, then point at themselves, then eventually both point at the Widow, who receives Lil’ Monsta’s token. The next night, they both choose that the Poisoner babysits Lil’ Monsta instead.
+{{< example >}}
+The Poisoner and the Widow wake. They point at each other, then point at themselves, then eventually both point at the Widow, who receives Lil’ Monsta’s token. The next night, they both choose that the Poisoner babysits Lil’ Monsta instead.
+{{< /example >}}
 
 ##  Tips & Tricks
 

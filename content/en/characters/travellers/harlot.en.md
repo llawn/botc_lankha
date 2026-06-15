@@ -28,9 +28,13 @@ When choosing whether to kill players, do what you feel is the most interesting 
 
 ##  Examples
 
-				The good Harlot wakes and chooses the Philosopher, who chooses to reveal. The next night, the Harlot chooses the No Dashii, who chooses not to reveal. The next night, the Harlot chooses the Mutant, who chooses to reveal. The Storyteller decides that the Harlot and Mutant die tonight.
+{{< example >}}
+The good Harlot wakes and chooses the Philosopher, who chooses to reveal. The next night, the Harlot chooses the No Dashii, who chooses not to reveal. The next night, the Harlot chooses the Mutant, who chooses to reveal. The Storyteller decides that the Harlot and Mutant die tonight.
+{{< /example >}}
 
-				The evil Harlot chooses the Sage, who reveals. The next day, the Harlot says the Sage is actually the Witch.
+{{< example >}}
+The evil Harlot chooses the Sage, who reveals. The next day, the Harlot says the Sage is actually the Witch.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

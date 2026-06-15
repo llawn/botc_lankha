@@ -28,9 +28,13 @@ If the player would prefer, you may determine different criteria for whether the
 
 ##  Examples
 
-				The evil Deviant cracks a few jokes, and gets a few laughs, but the players nevertheless decide to exile them. Even though there are enough votes, the Storyteller decides to keep the Deviant alive.
+{{< example >}}
+The evil Deviant cracks a few jokes, and gets a few laughs, but the players nevertheless decide to exile them. Even though there are enough votes, the Storyteller decides to keep the Deviant alive.
+{{< /example >}}
 
-				On the third day, the Deviant was slightly funny, and cannot be exiled. On the fourth day, the Deviant was not very funny, and is successfully exiled.
+{{< example >}}
+On the third day, the Deviant was slightly funny, and cannot be exiled. On the fourth day, the Deviant was not very funny, and is successfully exiled.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

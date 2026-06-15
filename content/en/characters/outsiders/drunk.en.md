@@ -25,13 +25,21 @@ During the game, act as if the Drunk is actually this Townsfolk character. (If t
 
 ##  Examples
 
-				The Drunk, who thinks they are the Soldier, is attacked by the Imp. The Drunk dies.
+{{< example >}}
+The Drunk, who thinks they are the Soldier, is attacked by the Imp. The Drunk dies.
+{{< /example >}}
 
-				The Drunk, who thinks they are the Empath, wakes and learns a "0,” even though they are sitting next to one evil player. The next night, they learn a "1.".
+{{< example >}}
+The Drunk, who thinks they are the Empath, wakes and learns a "0,” even though they are sitting next to one evil player. The next night, they learn a "1.".
+{{< /example >}}
 
-				The Drunk, who thinks they are the Ravenkeeper, is killed at night. They choose the Saint, but learn that this player is the Poisoner.
+{{< example >}}
+The Drunk, who thinks they are the Ravenkeeper, is killed at night. They choose the Saint, but learn that this player is the Poisoner.
+{{< /example >}}
 
-				The Fortune Teller is executed. That night, the Drunk, who thinks they are Undertaker, learns that the Drunk died today.
+{{< example >}}
+The Fortune Teller is executed. That night, the Drunk, who thinks they are Undertaker, learns that the Drunk died today.
+{{< /example >}}
 
 ##  Tips & Tricks
 

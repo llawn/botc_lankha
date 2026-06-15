@@ -31,11 +31,17 @@ If you forget whether the Demon voted or not, wake the Demon at night and ask by
 
 ##  Examples
 
-				There was one nomination today. Lots of players voted, the player was executed, but the Demon did not vote. That night, the Flowergirl learns that the Demon did not vote today.
+{{< example >}}
+There was one nomination today. Lots of players voted, the player was executed, but the Demon did not vote. That night, the Flowergirl learns that the Demon did not vote today.
+{{< /example >}}
 
-				There were three nominations today. The Demon voted during the second nomination. Nobody was executed. That night, the Flowergirl learns that the Demon voted today.
+{{< example >}}
+There were three nominations today. The Demon voted during the second nomination. Nobody was executed. That night, the Flowergirl learns that the Demon voted today.
+{{< /example >}}
 
-				There were no nominations today. A Traveller was exiled, and all players raised their hand to support the exile. That night, the Flowergirl learns that the Demon did not vote today. (Exiles are never affected by abilities.)
+{{< example >}}
+There were no nominations today. A Traveller was exiled, and all players raised their hand to support the exile. That night, the Flowergirl learns that the Demon did not vote today. (Exiles are never affected by abilities.)
+{{< /example >}}
 
 ##  Tips & Tricks
 

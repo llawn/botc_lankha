@@ -33,13 +33,21 @@ It is rarely a good idea to choose a Traveller to be a Twin.
 
 ##  Examples
 
-				Both twins are claiming to be the Oracle. The Evil Twin is executed. The game continues.
+{{< example >}}
+Both twins are claiming to be the Oracle. The Evil Twin is executed. The game continues.
+{{< /example >}}
 
-				The Pit-Hag turns the good Sage, who is also the Good Twin, into the Mutant. Both twins try to convince the group that they are the Mutant. The Storyteller immediately executes the Mutant, who is also the Good Twin. The game ends and evil wins.
+{{< example >}}
+The Pit-Hag turns the good Sage, who is also the Good Twin, into the Mutant. Both twins try to convince the group that they are the Mutant. The Storyteller immediately executes the Mutant, who is also the Good Twin. The game ends and evil wins.
+{{< /example >}}
 
-				The Good Twin and the Evil Twin are both loudly claiming to be the Artist. Both players approach the Storyteller to ask a question in private. The good players, confused, execute the Demon. The game continues, with no death during the night from now on.
+{{< example >}}
+The Good Twin and the Evil Twin are both loudly claiming to be the Artist. Both players approach the Storyteller to ask a question in private. The good players, confused, execute the Demon. The game continues, with no death during the night from now on.
+{{< /example >}}
 
-				The Pit-Hag turns a good player into the Evil Twin, who remains good. The group executes the good-aligned Evil Twin. Evil wins.
+{{< example >}}
+The Pit-Hag turns a good player into the Evil Twin, who remains good. The group executes the good-aligned Evil Twin. Evil wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

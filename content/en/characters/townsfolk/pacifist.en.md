@@ -25,11 +25,17 @@ Triggering the Pacifist ability once per game is usually about right. You can tr
 
 ##  Examples
 
-				The Innkeeper is executed, but remains alive because of the Pacifist.
+{{< example >}}
+The Innkeeper is executed, but remains alive because of the Pacifist.
+{{< /example >}}
 
-				The Pacifist is in play. Good is winning. Even after 7 days, and 5 good players executed, the Pacifist ability has not saved anybody.
+{{< example >}}
+The Pacifist is in play. Good is winning. Even after 7 days, and 5 good players executed, the Pacifist ability has not saved anybody.
+{{< /example >}}
 
-				The Pacifist is in play. Evil is winning. The Lunatic is executed, but remains alive. The next day, the Professor is executed and dies, because the Pacifist is drunk. The next day, a good Bishop is exiled and dies, because the Pacifist saves people from execution, not exile. The next day, the Pacifist is executed but remains alive because of the Pacifist.
+{{< example >}}
+The Pacifist is in play. Evil is winning. The Lunatic is executed, but remains alive. The next day, the Professor is executed and dies, because the Pacifist is drunk. The next day, a good Bishop is exiled and dies, because the Pacifist saves people from execution, not exile. The next day, the Pacifist is executed but remains alive because of the Pacifist.
+{{< /example >}}
 
 ##  Tips & Tricks
 

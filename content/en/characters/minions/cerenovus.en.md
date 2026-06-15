@@ -25,11 +25,17 @@ During the next day or night, if you feel that the mad player has not done their
 
 ##  Examples
 
-				The Cerenovus makes the Barber mad about being the Savant. Tomorrow, the Barber claims to be the Savant, talks to the Storyteller, and tells the group two facts that they made up. When asked whether they are mad, the Barber says "no" emphatically, so avoids being executed.
+{{< example >}}
+The Cerenovus makes the Barber mad about being the Savant. Tomorrow, the Barber claims to be the Savant, talks to the Storyteller, and tells the group two facts that they made up. When asked whether they are mad, the Barber says "no" emphatically, so avoids being executed.
+{{< /example >}}
 
-				The dead Artist is made mad about being the Sage. The next day, they say nothing about being the Sage. The Artist is executed.
+{{< example >}}
+The dead Artist is made mad about being the Sage. The next day, they say nothing about being the Sage. The Artist is executed.
+{{< /example >}}
 
-				The Cerenovus makes the Flowergirl mad about being the Clockmaker. The Flowergirl says to the group that they are the Clockmaker and learned a "2,” but hints privately to other players that they are mad. The Storyteller overhears this and executes the Flowergirl.
+{{< example >}}
+The Cerenovus makes the Flowergirl mad about being the Clockmaker. The Flowergirl says to the group that they are the Clockmaker and learned a "2,” but hints privately to other players that they are mad. The Storyteller overhears this and executes the Flowergirl.
+{{< /example >}}
 
 ##  Tips & Tricks
 

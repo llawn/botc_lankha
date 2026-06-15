@@ -34,7 +34,9 @@ Depending on the script, adding more than one Outsider can put the good team at 
 
 ##  Examples
 
+{{< example >}}
 There are 15 players and no Minions in play yet. The Kazali wakes and chooses that Doug becomes the evil Organ Grinder, that Amy becomes the evil Vizier, and that Lewis becomes the evil Goblin.
+{{< /example >}}
 
 ##  Tips & Tricks
 

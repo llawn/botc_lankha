@@ -27,11 +27,17 @@ In other editions, Demons may have abilities other than killing. The Monk's prot
 
 ##  Examples
 
-				The Monk protects the Fortune Teller. The Imp attacks the Fortune Teller. No deaths occur tonight.
+{{< example >}}
+The Monk protects the Fortune Teller. The Imp attacks the Fortune Teller. No deaths occur tonight.
+{{< /example >}}
 
-				The Monk protects the Mayor, and the Imp attacks the Mayor. The Mayor's "another player dies" ability does not trigger, because the Mayor is safe from the Imp. Nobody dies tonight.
+{{< example >}}
+The Monk protects the Mayor, and the Imp attacks the Mayor. The Mayor's "another player dies" ability does not trigger, because the Mayor is safe from the Imp. Nobody dies tonight.
+{{< /example >}}
 
-				The Monk protects the Imp . The Imp chooses to kill themself tonight, but nothing happens. The Imp stays alive and a new Imp is not created.
+{{< example >}}
+The Monk protects the Imp . The Imp chooses to kill themself tonight, but nothing happens. The Imp stays alive and a new Imp is not created.
+{{< /example >}}
 
 ##  Tips & Tricks
 

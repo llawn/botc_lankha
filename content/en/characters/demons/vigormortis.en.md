@@ -28,11 +28,17 @@ If the chosen player is a Minion, that player **dies** - mark them with a **DEAD
 
 ##  Examples
 
-				The Vigormortis kills the Witch. The player that the Witch cursed tonight remains cursed. The next day, when the cursed player nominates, they die.
+{{< example >}}
+The Vigormortis kills the Witch. The player that the Witch cursed tonight remains cursed. The next day, when the cursed player nominates, they die.
+{{< /example >}}
 
-				The Vigormortis kills the Evil Twin. The Evil Twin neighbours a Klutz and a Flowergirl. The Sage is the next neighbour to the Klutz. The Storyteller chooses that the Sage is poisoned.
+{{< example >}}
+The Vigormortis kills the Evil Twin. The Evil Twin neighbours a Klutz and a Flowergirl. The Sage is the next neighbour to the Klutz. The Storyteller chooses that the Sage is poisoned.
+{{< /example >}}
 
-				The Vigormortis kills the Pit-Hag. The Pit-Hag changes a Savant into a Witch. The Vigormortis kills the Witch, who curses and kills a player. The Pit-Hag turns the dead Witch into the Oracle, who now has no ability. The Pit-Hag turns the Vigormortis into a Vortox. The Pit-Hag now has no ability.
+{{< example >}}
+The Vigormortis kills the Pit-Hag. The Pit-Hag changes a Savant into a Witch. The Vigormortis kills the Witch, who curses and kills a player. The Pit-Hag turns the dead Witch into the Oracle, who now has no ability. The Pit-Hag turns the Vigormortis into a Vortox. The Pit-Hag now has no ability.
+{{< /example >}}
 
 ##  Tips & Tricks
 

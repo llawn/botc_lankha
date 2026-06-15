@@ -29,9 +29,13 @@ During the day, a dead player can declare that they give their vote token to the
 
 ##  Examples
 
-				The Beggar cannot vote. On the fourth day, the Monk gives her vote token to the Beggar. The Beggar may now vote (once), and learns that the player is good. The Beggar is evil and tells the group that the Monk player is evil.
+{{< example >}}
+The Beggar cannot vote. On the fourth day, the Monk gives her vote token to the Beggar. The Beggar may now vote (once), and learns that the player is good. The Beggar is evil and tells the group that the Monk player is evil.
+{{< /example >}}
 
-				The good Beggar has three vote tokens. The Recluse gives the Beggar their vote token, and the Beggar learns that they are evil. That day, the Beggar dies, and loses all their vote tokens except for one.
+{{< example >}}
+The good Beggar has three vote tokens. The Recluse gives the Beggar their vote token, and the Beggar learns that they are evil. That day, the Beggar dies, and loses all their vote tokens except for one.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

@@ -27,15 +27,25 @@ Each dusk, if no player was executed today, the game ends and the evil team wins
 
 ##  Examples
 
-				The Vortox kills the Sage. The Sage learns two players, both of which are not Demons.
+{{< example >}}
+The Vortox kills the Sage. The Sage learns two players, both of which are not Demons.
+{{< /example >}}
 
-				Nobody voted or nominated today, but the Mutant is executed. That night, both the Flowergirl and the Town Crier learn a "yes.”
+{{< example >}}
+Nobody voted or nominated today, but the Mutant is executed. That night, both the Flowergirl and the Town Crier learn a "yes.”
+{{< /example >}}
 
-				The Savant is in play, and learns two pieces of information each day. Both are false. That night, the Dreamer chooses a player who is the Savant, and learns that player is either the Philosopher or the No Dashii.
+{{< example >}}
+The Savant is in play, and learns two pieces of information each day. Both are false. That night, the Dreamer chooses a player who is the Savant, and learns that player is either the Philosopher or the No Dashii.
+{{< /example >}}
 
-				The Pit-Hag turns the Juggler into the Witch. The Juggler learns that they are now the good Witch, because this information comes from the Pit-Hag's ability, not a Townsfolk's ability.
+{{< example >}}
+The Pit-Hag turns the Juggler into the Witch. The Juggler learns that they are now the good Witch, because this information comes from the Pit-Hag's ability, not a Townsfolk's ability.
+{{< /example >}}
 
-				Today, a player died from the Witch, two Travellers were exiled, 5 nominations happened, but nobody was executed. Evil wins.
+{{< example >}}
+Today, a player died from the Witch, two Travellers were exiled, 5 nominations happened, but nobody was executed. Evil wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

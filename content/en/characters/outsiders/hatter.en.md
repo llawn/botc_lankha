@@ -29,11 +29,17 @@ During that night, wake the Minions and Demon. Show them the **THIS CHARACTER SE
 
 ##  Examples
 
+{{< example >}}
 The Hatter dies. The Ojo chooses to become the No Dashii and the Devil's Advocate chooses to become the Scarlet Woman.
+{{< /example >}}
 
+{{< example >}}
 The Vigormortis has killed their Pit-Hag, then later kills the Hatter. Both players choose to stay the same characters, so that they don't lose the effects of the Vigormortis.
+{{< /example >}}
 
+{{< example >}}
 The Assassin kills a player. The Hatter is executed. That night, the Assassin becomes the Mastermind and the Mastermind shakes their head no to stay the Mastermind. The Storyteller shakes their head no because the Mastermind character has been chosen already, and gestures for the Mastermind player to choose again, so they choose Assassin. The new Assassin then uses their new ability to kill a player.
+{{< /example >}}
 
 ##  Tips & Tricks
 *  Don’t die! As soon as you die, the evil team gets to power up to become the exact combination they think will be most effective, regardless of the prior game balance. And that could be overpowering if the evil team can do it with impunity when they want to.

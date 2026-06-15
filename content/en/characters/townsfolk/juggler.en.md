@@ -31,9 +31,13 @@ If an evil player is bluffing as the Juggler, it can help their bluff if you pre
 
 ##  Examples
 
-				During the first day, the Juggler guesses that Alex is the Town Crier, Mia is the No Dashii, and Julian is the Sage. That night, the Juggler learns a "2," meaning two of those guesses were correct.
+{{< example >}}
+During the first day, the Juggler guesses that Alex is the Town Crier, Mia is the No Dashii, and Julian is the Sage. That night, the Juggler learns a "2," meaning two of those guesses were correct.
+{{< /example >}}
 
-				During the fourth night, the Savant gets turned into the Juggler. The next day, the new Juggler guesses that Benjamin is the Pit-Hag, that Benjamin is the Witch, and that Amy is the Pit-Hag. That night, the Juggler learns a "1.”
+{{< example >}}
+During the fourth night, the Savant gets turned into the Juggler. The next day, the new Juggler guesses that Benjamin is the Pit-Hag, that Benjamin is the Witch, and that Amy is the Pit-Hag. That night, the Juggler learns a "1.”
+{{< /example >}}
 
 ##  Tips & Tricks
 

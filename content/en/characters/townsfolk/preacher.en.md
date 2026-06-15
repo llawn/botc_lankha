@@ -26,11 +26,17 @@ All Minions marked **NO ABILITY** have no ability while the Preacher is alive.
 
 ##  Examples
 
-				The Preacher points to Alex, who is the Engineer. Nothing happens.
+{{< example >}}
+The Preacher points to Alex, who is the Engineer. Nothing happens.
+{{< /example >}}
 
-				The Preacher points to Lachlan, who is the Cerenovus. Lachlan wakes to learn that he has been preached, and is not woken to use his ability.
+{{< example >}}
+The Preacher points to Lachlan, who is the Cerenovus. Lachlan wakes to learn that he has been preached, and is not woken to use his ability.
+{{< /example >}}
 
-				Doug is the Preacher. He points to Marianna, who is the Pit-Hag. Marianna wakes to learn that she has been preached, and is not woken to use her ability. The following night, the Poisoner points to Doug. Because Doug is now poisoned, Marianna wakes to use her ability.
+{{< example >}}
+Doug is the Preacher. He points to Marianna, who is the Pit-Hag. Marianna wakes to learn that she has been preached, and is not woken to use her ability. The following night, the Poisoner points to Doug. Because Doug is now poisoned, Marianna wakes to use her ability.
+{{< /example >}}
 
 ##  Tips & Tricks
 

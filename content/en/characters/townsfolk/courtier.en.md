@@ -30,11 +30,17 @@ In other editions, there can be multiple copies of the same character in play. T
 
 ##  Examples
 
-				For four nights, the Courtier wakes but does not use their ability. During the fifth night, they make the Shabaloth drunk. For the next three nights, the Shabaloth acts but cannot kill anybody.
+{{< example >}}
+For four nights, the Courtier wakes but does not use their ability. During the fifth night, they make the Shabaloth drunk. For the next three nights, the Shabaloth acts but cannot kill anybody.
+{{< /example >}}
 
-				The Courtier uses their ability while drunk. Nothing happens, but they are not woken again.
+{{< example >}}
+The Courtier uses their ability while drunk. Nothing happens, but they are not woken again.
+{{< /example >}}
 
-				The Courtier makes the Mastermind drunk. The Po is executed while the Mastermind still lives. The game ends and good wins.
+{{< example >}}
+The Courtier makes the Mastermind drunk. The Po is executed while the Mastermind still lives. The game ends and good wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

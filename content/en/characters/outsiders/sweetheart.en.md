@@ -24,11 +24,17 @@ You will almost always want to make a Townsfolk drunk, which will hurt the good 
 
 ##  Examples
 
-				The Sweetheart dies. The Mathematician is now drunk, and may get false information at night.
+{{< example >}}
+The Sweetheart dies. The Mathematician is now drunk, and may get false information at night.
+{{< /example >}}
 
-				The Sweetheart dies. The Mutant is now drunk. The Mutant may safely come out as the Mutant, but they do not know this.
+{{< example >}}
+The Sweetheart dies. The Mutant is now drunk. The Mutant may safely come out as the Mutant, but they do not know this.
+{{< /example >}}
 
-				The Sweetheart dies. The Demon is now drunk, so their attack at night won’t kill anyone.
+{{< example >}}
+The Sweetheart dies. The Demon is now drunk, so their attack at night won’t kill anyone.
+{{< /example >}}
 
 ##  Tips & Tricks
 

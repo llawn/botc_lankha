@@ -23,11 +23,17 @@ The Saint's ability has the strange phrase "your team loses." In Trouble Brewing
 
 ##  Examples
 
-				There are seven players alive and nominations are in progress. The Saint gets four votes and is about to die. Then, the Baron is nominated but only gets three votes. No more nominations occur today. The Saint is executed, and evil wins.
+{{< example >}}
+There are seven players alive and nominations are in progress. The Saint gets four votes and is about to die. Then, the Baron is nominated but only gets three votes. No more nominations occur today. The Saint is executed, and evil wins.
+{{< /example >}}
 
-				The Imp is nominated, and the players vote. The Gunslinger kills the Saint. The Saint dies, and the game continues.
+{{< example >}}
+The Imp is nominated, and the players vote. The Gunslinger kills the Saint. The Saint dies, and the game continues.
+{{< /example >}}
 
-				The Saint is executed. However, the  Scapegoat's ability is triggered, so the Scapegoat dies instead. The game continues, because the Saint did not die.
+{{< example >}}
+The Saint is executed. However, the  Scapegoat's ability is triggered, so the Scapegoat dies instead. The game continues, because the Saint did not die.
+{{< /example >}}
 
 ##  Tips & Tricks
 

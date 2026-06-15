@@ -24,13 +24,21 @@ Tomorrow, if a good player is executed, declare that the game ends and evil wins
 
 ##  Examples
 
-				The Shabaloth dies. The next day, the Professor is executed and dies. Evil wins.
+{{< example >}}
+The Shabaloth dies. The next day, the Professor is executed and dies. Evil wins.
+{{< /example >}}
 
-				The Po dies. The next day, the Godfather is executed, but remains alive because they were protected by the Devil's Advocate. However, since an evil player was executed, good wins.
+{{< example >}}
+The Po dies. The next day, the Godfather is executed, but remains alive because they were protected by the Devil's Advocate. However, since an evil player was executed, good wins.
+{{< /example >}}
 
-				The Zombuul is executed and appears to die. The Mastermind’s ability does not trigger yet, because the Zombuul's execution did not make the game end. When the Zombuul is executed a second time and dies for real, the Mastermind’s ability triggers, and the game continues for one more day.
+{{< example >}}
+The Zombuul is executed and appears to die. The Mastermind’s ability does not trigger yet, because the Zombuul's execution did not make the game end. When the Zombuul is executed a second time and dies for real, the Mastermind’s ability triggers, and the game continues for one more day.
+{{< /example >}}
 
-				There are three players alive. The Demon dies. The following day, with just two players alive, good decides not to execute. When night falls, just two players are left alive but the Demon is dead, so good wins.
+{{< example >}}
+There are three players alive. The Demon dies. The following day, with just two players alive, good decides not to execute. When night falls, just two players are left alive but the Demon is dead, so good wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

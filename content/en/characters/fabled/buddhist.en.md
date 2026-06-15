@@ -31,9 +31,13 @@ Like the Angel and the Revolutionary, you’ll want to ask for a player’s cons
 
 ##  Examples
 
-				Lachlan and Lewis are veterans in a game of mostly new players. To encourage the new players to talk, the Storyteller puts the Buddhist in play. Lachlan and Lewis may not talk for the first two minutes each day, after which, they may talk freely.
+{{< example >}}
+Lachlan and Lewis are veterans in a game of mostly new players. To encourage the new players to talk, the Storyteller puts the Buddhist in play. Lachlan and Lewis may not talk for the first two minutes each day, after which, they may talk freely.
+{{< /example >}}
 
-				Evin is affected by the Buddhist. He is a Minion and simply listens to what people are saying for the first two minutes, allowing him to bluff as a not-in-play character later on.
+{{< example >}}
+Evin is affected by the Buddhist. He is a Minion and simply listens to what people are saying for the first two minutes, allowing him to bluff as a not-in-play character later on.
+{{< /example >}}
 
 ##  Explanation
 

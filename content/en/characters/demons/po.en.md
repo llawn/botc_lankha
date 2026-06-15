@@ -28,11 +28,17 @@ If the Po wakes to act while marked **3 ATTACKS**, they point at any three playe
 
 ##  Examples
 
-				On the second night, the Po attacks one player. On the third night, the Po chooses to attack nobody. On the fourth night, the Po attacks three players.
+{{< example >}}
+On the second night, the Po attacks one player. On the third night, the Po chooses to attack nobody. On the fourth night, the Po attacks three players.
+{{< /example >}}
 
-				The Po chooses to attack nobody, but is drunk. The next night, the Po is poisoned. They choose three players, but none of them die. The following night, the Po is sober and healthy and attacks a player, who dies.
+{{< example >}}
+The Po chooses to attack nobody, but is drunk. The next night, the Po is poisoned. They choose three players, but none of them die. The following night, the Po is sober and healthy and attacks a player, who dies.
+{{< /example >}}
 
-				The Po attacks the Moonchild, then the Goon, then the Grandmother. Only the Moonchild dies, because the Po became drunk when they attacked the Goon.
+{{< example >}}
+The Po attacks the Moonchild, then the Goon, then the Grandmother. Only the Moonchild dies, because the Po became drunk when they attacked the Goon.
+{{< /example >}}
 
 ##  Tips & Tricks
 

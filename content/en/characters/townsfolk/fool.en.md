@@ -24,11 +24,17 @@ Either way, **the Fool loses their ability**—mark them with the **NO ABILITY**
 
 ##  Examples
 
-				On the first day, the Fool is executed but remains alive. On the fourth day, the Fool is executed again. This time, they die.
+{{< example >}}
+On the first day, the Fool is executed but remains alive. On the fourth day, the Fool is executed again. This time, they die.
+{{< /example >}}
 
-				The Demon attacks the Fool, who remains alive. Nobody dies that night. The next day, the Fool is executed by the Judge, and dies.
+{{< example >}}
+The Demon attacks the Fool, who remains alive. Nobody dies that night. The next day, the Fool is executed by the Judge, and dies.
+{{< /example >}}
 
-				The Demon attacks the Fool, who is protected by the Tea Lady. The Fool remains alive and keeps their ability. Later, after the Tea Lady has died, the Demon attacks the Fool, who is now protected by the Innkeeper. The Fool remains alive and keeps their ability. Later, after the Innkeeper has died, the Demon attacks the Fool, who remains alive again but uses their ability, so next time they will die.
+{{< example >}}
+The Demon attacks the Fool, who is protected by the Tea Lady. The Fool remains alive and keeps their ability. Later, after the Tea Lady has died, the Demon attacks the Fool, who is now protected by the Innkeeper. The Fool remains alive and keeps their ability. Later, after the Innkeeper has died, the Demon attacks the Fool, who remains alive again but uses their ability, so next time they will die.
+{{< /example >}}
 
 ##  Tips & Tricks
 

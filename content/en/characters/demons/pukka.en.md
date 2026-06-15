@@ -29,13 +29,21 @@ Players that the Pukka kills are still poisoned at their time of death. If you a
 
 ##  Examples
 
-				The Pukka poisons the Chambermaid. The Chambermaid gets false information. The next night, the Chambermaid dies.
+{{< example >}}
+The Pukka poisons the Chambermaid. The Chambermaid gets false information. The next night, the Chambermaid dies.
+{{< /example >}}
 
-				The Pukka poisons the Fool. The next day, the Fool is executed and dies because they have no ability. The next night, nobody dies and the Pukka poisons the Gossip. The next night, the Pukka is drunk and tries to poison the Tinker, but does not. The next night, the Gossip dies because the Pukka is sober.
+{{< example >}}
+The Pukka poisons the Fool. The next day, the Fool is executed and dies because they have no ability. The next night, nobody dies and the Pukka poisons the Gossip. The next night, the Pukka is drunk and tries to poison the Tinker, but does not. The next night, the Gossip dies because the Pukka is sober.
+{{< /example >}}
 
-				The Pukka poisons the Pacifist. The next night, the Exorcist chooses the Pukka to not wake tonight. The Pacifist dies, but the Pukka does not wake to attack tonight.
+{{< example >}}
+The Pukka poisons the Pacifist. The next night, the Exorcist chooses the Pukka to not wake tonight. The Pacifist dies, but the Pukka does not wake to attack tonight.
+{{< /example >}}
 
-				The Moonchild is executed, dies, and chooses the Courtier. That night, the Pukka chooses the Moonchild. The Courtier does not die because the Moonchild is poisoned.
+{{< example >}}
+The Moonchild is executed, dies, and chooses the Courtier. That night, the Pukka chooses the Moonchild. The Courtier does not die because the Moonchild is poisoned.
+{{< /example >}}
 
 ##  Tips & Tricks
 

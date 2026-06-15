@@ -30,9 +30,13 @@ At any time during the game, if a Minion publicly guesses which player is the Da
 
 ##  Examples
 
-				Marianna is the Damsel. She is bluffing as the Lycanthrope. The Witch guesses that Marianna is the Damsel. Evil wins.
+{{< example >}}
+Marianna is the Damsel. She is bluffing as the Lycanthrope. The Witch guesses that Marianna is the Damsel. Evil wins.
+{{< /example >}}
 
-				Doug is the Damsel. The Boomdandy guesses that Julian is the Damsel. Nothing happens, and the game continues. The Goblin guesses that Doug is the Damsel. Nothing happens, and the game continues.
+{{< example >}}
+Doug is the Damsel. The Boomdandy guesses that Julian is the Damsel. Nothing happens, and the game continues. The Goblin guesses that Doug is the Damsel. Nothing happens, and the game continues.
+{{< /example >}}
 
 ##  Tips & Tricks
 

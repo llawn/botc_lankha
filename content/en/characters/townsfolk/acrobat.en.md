@@ -28,8 +28,14 @@ If the player the Acrobat pointed to is drunk or poisoned, or becomes drunk or p
 
 ##  Examples
 
-				The Sailor chooses the Assassin, and the Storyteller makes the Sailor drunk. The Acrobat chooses the Sailor, and dies because the Sailor is drunk.
+{{< example >}}
+The Sailor chooses the Assassin, and the Storyteller makes the Sailor drunk. The Acrobat chooses the Sailor, and dies because the Sailor is drunk.
+{{< /example >}}
 
-				The Acrobat chooses the Tinker, who is sober and healthy. Nothing happens.
+{{< example >}}
+The Acrobat chooses the Tinker, who is sober and healthy. Nothing happens.
+{{< /example >}}
 
-				The Acrobat chooses the Preacher. Later that night, the Pukka poisons the Preacher. The Acrobat dies, because the Preacher is no longer healthy.
+{{< example >}}
+The Acrobat chooses the Preacher. Later that night, the Pukka poisons the Preacher. The Acrobat dies, because the Preacher is no longer healthy.
+{{< /example >}}

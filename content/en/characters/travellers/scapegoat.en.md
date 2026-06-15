@@ -24,11 +24,17 @@ It is best to use the Scapegoat’s ability before the final day, because a Scap
 
 ##  Examples
 
-				The Fortune Teller is about to be executed, but the Storyteller chooses to execute the good Scapegoat instead. The Fortune Teller lives and the Scapegoat dies. That night, the Undertaker learns that a Scapegoat was executed today.
+{{< example >}}
+The Fortune Teller is about to be executed, but the Storyteller chooses to execute the good Scapegoat instead. The Fortune Teller lives and the Scapegoat dies. That night, the Undertaker learns that a Scapegoat was executed today.
+{{< /example >}}
 
-				The Poisoner is about to be executed, but the Storyteller chooses to execute the evil Scapegoat instead. The Storyteller could have let the Poisoner die as normal, but chose not to.
+{{< example >}}
+The Poisoner is about to be executed, but the Storyteller chooses to execute the evil Scapegoat instead. The Storyteller could have let the Poisoner die as normal, but chose not to.
+{{< /example >}}
 
-				The Spy is about to be executed. The good Scapegoat dies instead.
+{{< example >}}
+The Spy is about to be executed. The good Scapegoat dies instead.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

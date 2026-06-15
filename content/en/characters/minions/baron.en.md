@@ -20,9 +20,13 @@ While setting up the game, remove any two Townsfolk character tokens and add any
 
 ##  Examples
 
-				The game is being set up for seven players, with five Townsfolk, one Minion, and one Demon. Because the Minion is the Baron, the Storyteller removes two Townsfolk tokens and adds a Saint and a Butler token. In total, three Townsfolk, two Outsider, one Minion, and one Demon tokens go in the bag for the players to draw from.
+{{< example >}}
+The game is being set up for seven players, with five Townsfolk, one Minion, and one Demon. Because the Minion is the Baron, the Storyteller removes two Townsfolk tokens and adds a Saint and a Butler token. In total, three Townsfolk, two Outsider, one Minion, and one Demon tokens go in the bag for the players to draw from.
+{{< /example >}}
 
-				The game is being set up for fifteen players, with nine Townsfolk, two Outsiders, three Minions, and one Demon. Because the Baron is in play, the Storyteller must add a Drunk and a Recluse. So, they remove the Monk token and add a Recluse token. Then, instead of adding the Drunk character token, they add the Drunk's “Is the Drunk” reminder token to the Grimoire... because this game, one player isn’t a Townsfolk—they are an Outsider: the Drunk. All these character tokens go into the bag for the players to draw from.
+{{< example >}}
+The game is being set up for fifteen players, with nine Townsfolk, two Outsiders, three Minions, and one Demon. Because the Baron is in play, the Storyteller must add a Drunk and a Recluse. So, they remove the Monk token and add a Recluse token. Then, instead of adding the Drunk character token, they add the Drunk's “Is the Drunk” reminder token to the Grimoire... because this game, one player isn’t a Townsfolk—they are an Outsider: the Drunk. All these character tokens go into the bag for the players to draw from.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -20,13 +20,21 @@ During the first night, wake the Chef. Show the Chef fingers (0, 1, 2, etc.) equ
 
 ##  Examples
 
-				No evil players are sitting next to each other. The Chef learns a '0'.
+{{< example >}}
+No evil players are sitting next to each other. The Chef learns a '0'.
+{{< /example >}}
 
-				The Imp is sitting next to the Baron. Across the circle, the Poisoner is sitting next to the Scarlet Woman. The Chef learns a '2'.
+{{< example >}}
+The Imp is sitting next to the Baron. Across the circle, the Poisoner is sitting next to the Scarlet Woman. The Chef learns a '2'.
+{{< /example >}}
 
-				An evil Scapegoat is sitting between the Imp and a Minion. Across the circle, two other Minions are sitting next to each other. The Chef learns a '3'.
+{{< example >}}
+An evil Scapegoat is sitting between the Imp and a Minion. Across the circle, two other Minions are sitting next to each other. The Chef learns a '3'.
+{{< /example >}}
 
-				The Recluse is sitting between the Imp and the Poisoner. The Chef learns a '1'. Here, the Recluse is registering as evil for the Imp-Recluse pair, but as good for the Poisoner-Recluse pair.
+{{< example >}}
+The Recluse is sitting between the Imp and the Poisoner. The Chef learns a '1'. Here, the Recluse is registering as evil for the Imp-Recluse pair, but as good for the Poisoner-Recluse pair.
+{{< /example >}}
 
 ##  Tips & Tricks
 

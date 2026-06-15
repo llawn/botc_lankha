@@ -25,11 +25,17 @@ Each time you tally the vote of a player marked **3 VOTES**, count it as three v
 
 ##  Examples
 
-				The Bureaucrat chooses Evin. The next day, when the first vote is being tallied, the Storyteller counts "1... 2... 3... 4-5-6... 7.” The nominated player now has seven votes for their execution, and the nomination process continues.
+{{< example >}}
+The Bureaucrat chooses Evin. The next day, when the first vote is being tallied, the Storyteller counts "1... 2... 3... 4-5-6... 7.” The nominated player now has seven votes for their execution, and the nomination process continues.
+{{< /example >}}
 
-				The Bureaucrat chooses Filip. The next day, Filip has a triple vote, which he uses during four nominations.
+{{< example >}}
+The Bureaucrat chooses Filip. The next day, Filip has a triple vote, which he uses during four nominations.
+{{< /example >}}
 
-				The Bureaucrat chooses Douglas, who is dead. The next day, Douglas uses his vote token to vote, and his vote counts as triple.
+{{< example >}}
+The Bureaucrat chooses Douglas, who is dead. The next day, Douglas uses his vote token to vote, and his vote counts as triple.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

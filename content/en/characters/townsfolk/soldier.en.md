@@ -23,11 +23,17 @@ In other editions, Demons may have abilities other than killing. The Soldier is 
 
 ##  Examples
 
-				The Imp attacks the Soldier. The Soldier does not die, so nobody dies that night.
+{{< example >}}
+The Imp attacks the Soldier. The Soldier does not die, so nobody dies that night.
+{{< /example >}}
 
-				The Poisoner poisons the Soldier, then the Imp attacks the Soldier. The Soldier dies, since they have no ability.
+{{< example >}}
+The Poisoner poisons the Soldier, then the Imp attacks the Soldier. The Soldier dies, since they have no ability.
+{{< /example >}}
 
-				The Imp attacks the Soldier. The Soldier dies, because they are actually the Drunk.
+{{< example >}}
+The Imp attacks the Soldier. The Soldier dies, because they are actually the Drunk.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -21,11 +21,17 @@ Each night, wake the Empath. Show them fingers (0, 1, or 2) equaling the number 
 
 ##  Examples
 
-				The Empath neighbours two good players—a Soldier and a Monk . The Empath learns a '0'.
+{{< example >}}
+The Empath neighbours two good players—a Soldier and a Monk . The Empath learns a '0'.
+{{< /example >}}
 
-				The next day, the Soldier is executed. That night, the Monk is killed by the Imp. The Empath now detects the players sitting next to the Soldier and the Monk, which are a Librarian and an evil Gunslinger. The Empath now learns a '1'.
+{{< example >}}
+The next day, the Soldier is executed. That night, the Monk is killed by the Imp. The Empath now detects the players sitting next to the Soldier and the Monk, which are a Librarian and an evil Gunslinger. The Empath now learns a '1'.
+{{< /example >}}
 
-				There are only three players left alive: the Empath, the Imp, and the Baron. No matter who is seated where, the Empath learns a '2'.
+{{< example >}}
+There are only three players left alive: the Empath, the Imp, and the Baron. No matter who is seated where, the Empath learns a '2'.
+{{< /example >}}
 
 ##  Tips & Tricks
 

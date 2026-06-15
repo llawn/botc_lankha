@@ -27,9 +27,13 @@ If the Golem accidentally nominates when they shouldn’t, you can either accept
 
 ##  Examples
 
-				The Golem nominates the Poppy Grower. The Poppy Grower dies. The Golem may not nominate again this game.
+{{< example >}}
+The Golem nominates the Poppy Grower. The Poppy Grower dies. The Golem may not nominate again this game.
+{{< /example >}}
 
-				The Golem nominates the Recluse. The Recluse registers as the Demon. Nothing happens, and the Storyteller begins counting votes for the Recluse to be executed. The Golem may not nominate again this game.
+{{< example >}}
+The Golem nominates the Recluse. The Recluse registers as the Demon. Nothing happens, and the Storyteller begins counting votes for the Recluse to be executed. The Golem may not nominate again this game.
+{{< /example >}}
 
 ##  Tips & Tricks
 

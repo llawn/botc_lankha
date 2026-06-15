@@ -26,13 +26,21 @@ Keep the information you give helpful and related to the game. Avoid saying who 
 
 ##  Examples
 
-				The Savant learns that "All players wearing glasses are good" and that "One player sitting on the black couch is a Minion."
+{{< example >}}
+The Savant learns that "All players wearing glasses are good" and that "One player sitting on the black couch is a Minion."
+{{< /example >}}
 
-				The Savant learns that "A Snake Charmer is in play" and "Everybody got true information last night."
+{{< example >}}
+The Savant learns that "A Snake Charmer is in play" and "Everybody got true information last night."
+{{< /example >}}
 
-				The Savant learns that "The Demon is a woman" and "Benjamin is evil."
+{{< example >}}
+The Savant learns that "The Demon is a woman" and "Benjamin is evil."
+{{< /example >}}
 
-				The Savant learns that "Evin and Amy are the same alignment" and "There is one Outsider in play."
+{{< example >}}
+The Savant learns that "Evin and Amy are the same alignment" and "There is one Outsider in play."
+{{< /example >}}
 
 ##  Tips & Tricks
 

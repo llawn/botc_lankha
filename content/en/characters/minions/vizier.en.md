@@ -26,11 +26,17 @@ If a vote has just been tallied, and one or more good players voted, and the Viz
 
 ##  Examples
 
-				The King has been nominated. Five people vote, but the Vizier does not use their ability. The Boomdandy is nominated and eight people vote. The Vizier uses their ability and the Boomdandy is executed immediately.
+{{< example >}}
+The King has been nominated. Five people vote, but the Vizier does not use their ability. The Boomdandy is nominated and eight people vote. The Vizier uses their ability and the Boomdandy is executed immediately.
+{{< /example >}}
 
-				The Demon has seven votes against them, and is “about to die”. The Vizier nominates Bill, the Barber. Two evil players and one good player vote. The Vizier declares that Bill is executed. The Demon survives today.
+{{< example >}}
+The Demon has seven votes against them, and is “about to die”. The Vizier nominates Bill, the Barber. Two evil players and one good player vote. The Vizier declares that Bill is executed. The Demon survives today.
+{{< /example >}}
 
-				The town nominates and executes the Vizier. The Vizier does not die. That night, The Demon kills the Vizier.
+{{< example >}}
+The town nominates and executes the Vizier. The Vizier does not die. That night, The Demon kills the Vizier.
+{{< /example >}}
 
 ##  Tips & Tricks
 * To state the obvious – execute people! At the end of the day your ability is to execute whoever you feel like executing, so there’s no point not using it. Execute with abandon, execute with joy, execute with whimsy!

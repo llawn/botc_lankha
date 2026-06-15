@@ -36,9 +36,13 @@ You can make the Amnesiac’s ability slightly better than a normal Townsfolk’
 
 ##  Examples
 
-				Each night, the Amnesiac wakes and is prompted to point at two players. The Storyteller shakes their head on the first night, and nods on the second. The Amnesiac guesses “Am I learning if both players are Minions?” The Storyteller says “Hot” because their ability is that they detect if either of the two players are a Minion.
+{{< example >}}
+Each night, the Amnesiac wakes and is prompted to point at two players. The Storyteller shakes their head on the first night, and nods on the second. The Amnesiac guesses “Am I learning if both players are Minions?” The Storyteller says “Hot” because their ability is that they detect if either of the two players are a Minion.
+{{< /example >}}
 
-				Each night, the Amnesiac learns a number. The Amnesiac is learning how many of their living neighbours are Townsfolk.
+{{< example >}}
+Each night, the Amnesiac learns a number. The Amnesiac is learning how many of their living neighbours are Townsfolk.
+{{< /example >}}
 
 ##  Tips & Tricks
 

@@ -22,11 +22,17 @@ During the first night, wake the Clockmaker. Show fingers (*1, 2, etc.*) equalin
 
 ##  Examples
 
-				The Fang Gu is sitting next to the Pit-Hag. During the first night, the Clockmaker learns a "1".
+{{< example >}}
+The Fang Gu is sitting next to the Pit-Hag. During the first night, the Clockmaker learns a "1".
+{{< /example >}}
 
-				Clockwise from the No Dashii sits the Dreamer, the Snake Charmer, then the Evil Twin. Counterclockwise from the No Dashii sits the Mutant, the Sweetheart, the Philosopher, the Sage, then the Witch. Because the Witch is five steps away from the Demon, and the Evil Twin is three steps away from the Demon, the Clockmaker learns a "3" during the first night.
+{{< example >}}
+Clockwise from the No Dashii sits the Dreamer, the Snake Charmer, then the Evil Twin. Counterclockwise from the No Dashii sits the Mutant, the Sweetheart, the Philosopher, the Sage, then the Witch. Because the Witch is five steps away from the Demon, and the Evil Twin is three steps away from the Demon, the Clockmaker learns a "3" during the first night.
+{{< /example >}}
 
-				The Fang Gu neighbours two Travellers, one good and one evil. Neighboring one of these Travellers is a Cerenovus. During the first night, the Clockmaker learns a "2", because evil Travellers are not Minions.
+{{< example >}}
+The Fang Gu neighbours two Travellers, one good and one evil. Neighboring one of these Travellers is a Cerenovus. During the first night, the Clockmaker learns a "2", because evil Travellers are not Minions.
+{{< /example >}}
 
 ##  Tips & Tricks
 

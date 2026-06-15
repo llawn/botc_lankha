@@ -27,9 +27,13 @@ When the Gunslinger wants to use their ability, you may need to ask all players 
 
 ##  Examples
 
-				The Imp has been nominated. There are 10 players alive, and five votes for the Imp, so the Imp is about to die. The Gunslinger chooses a voting player to die. They die, and the nomination continues, with the Imp still about to die.
+{{< example >}}
+The Imp has been nominated. There are 10 players alive, and five votes for the Imp, so the Imp is about to die. The Gunslinger chooses a voting player to die. They die, and the nomination continues, with the Imp still about to die.
+{{< /example >}}
 
-				The players exile the Thief. Then, the Butler is nominated for execution and gets one vote. This is the first nomination for execution, since the Thief’s exile does not count. The Gunslinger  chooses to kill the single voting player. Later that day, the Saint is nominated and six players vote. The Gunslinger  cannot use their ability now because this is not the first vote for execution today.
+{{< example >}}
+The players exile the Thief. Then, the Butler is nominated for execution and gets one vote. This is the first nomination for execution, since the Thief’s exile does not count. The Gunslinger  chooses to kill the single voting player. Later that day, the Saint is nominated and six players vote. The Gunslinger  cannot use their ability now because this is not the first vote for execution today.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

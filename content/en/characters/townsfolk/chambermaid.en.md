@@ -27,11 +27,17 @@ Do not wake the Chambermaid if there are not two players alive to be chosen (*du
 
 ##  Examples
 
-				The Chambermaid chooses the Exorcist and the Innkeeper, and learns a "2." The next night, the Exorcist chooses the Shabaloth, which will wake the Shabaloth. Later, Chambermaid chooses the Shabaloth and the Fool. Since the Shabaloth only woke due to the Exorcist ability, the Chambermaid learns a "0".
+{{< example >}}
+The Chambermaid chooses the Exorcist and the Innkeeper, and learns a "2." The next night, the Exorcist chooses the Shabaloth, which will wake the Shabaloth. Later, Chambermaid chooses the Shabaloth and the Fool. Since the Shabaloth only woke due to the Exorcist ability, the Chambermaid learns a "0".
+{{< /example >}}
 
-				It is the second night. The Chambermaid chooses the Grandmother and the evil Goon, and learns a "2." Only the Goon will wake tonight, but the Chambermaid is drunk.
+{{< example >}}
+It is the second night. The Chambermaid chooses the Grandmother and the evil Goon, and learns a "2." Only the Goon will wake tonight, but the Chambermaid is drunk.
+{{< /example >}}
 
-				It is the first night. The Chambermaid chooses the Assassin and the Moonchild, and learns a "0" because the Assassin does not wake to use their ability on the first night. The next night, they choose the Assassin and the Gossip. The Assassin woke but did not use their ability. The Gossip ability is used, but the Gossip does not wake to use it. The Chambermaid learns a "1".
+{{< example >}}
+It is the first night. The Chambermaid chooses the Assassin and the Moonchild, and learns a "0" because the Assassin does not wake to use their ability on the first night. The next night, they choose the Assassin and the Gossip. The Assassin woke but did not use their ability. The Gossip ability is used, but the Gossip does not wake to use it. The Chambermaid learns a "1".
+{{< /example >}}
 
 ##  Tips & Tricks
 

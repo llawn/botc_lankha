@@ -30,13 +30,21 @@ If they point to a Demon or Minions on their character sheet, put them to sleep.
 
 ##  Examples
 
-				On the second night, the Engineer chooses that the Demon is a Lleech. Lewis, who was the Imp, is now the Lleech.
+{{< example >}}
+On the second night, the Engineer chooses that the Demon is a Lleech. Lewis, who was the Imp, is now the Lleech.
+{{< /example >}}
 
-				On the first night, the Engineer changes the Baron into the Boomdandy. There are still an extra two Outsiders in play.
+{{< example >}}
+On the first night, the Engineer changes the Baron into the Boomdandy. There are still an extra two Outsiders in play.
+{{< /example >}}
 
-				The Fearmonger and the Psychopath are in play, and causing havoc. The Engineer chooses that the Mezepheles and the Spy are in play. The Storyteller chooses to change the Fearmonger into the Mezepheles and the Psychopath into the Spy.
+{{< example >}}
+The Fearmonger and the Psychopath are in play, and causing havoc. The Engineer chooses that the Mezepheles and the Spy are in play. The Storyteller chooses to change the Fearmonger into the Mezepheles and the Psychopath into the Spy.
+{{< /example >}}
 
-				The Spy, Assassin, and Witch are in play. The Engineer chooses that the Spy, Assassin and Mezepheles are in play. The Witch turns into the Mezepheles.
+{{< example >}}
+The Spy, Assassin, and Witch are in play. The Engineer chooses that the Spy, Assassin and Mezepheles are in play. The Witch turns into the Mezepheles.
+{{< /example >}}
 
 ##  Tips & Tricks
 

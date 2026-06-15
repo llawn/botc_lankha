@@ -26,11 +26,17 @@ If they point at two players, either nod your head yes (*to indicate these playe
 
 ##  Examples
 
-				During the first night, the Seamstress chooses two players, who are the Barber and the Clockmaker. Because they are both good, the Seamstress learns a "yes.”
+{{< example >}}
+During the first night, the Seamstress chooses two players, who are the Barber and the Clockmaker. Because they are both good, the Seamstress learns a "yes.”
+{{< /example >}}
 
-				During the first three nights, the Seamstress chooses not to use their ability. During the fourth night, they choose two players, who are the Fang Gu and the Sweetheart. The Seamstress learns a "no.”
+{{< example >}}
+During the first three nights, the Seamstress chooses not to use their ability. During the fourth night, they choose two players, who are the Fang Gu and the Sweetheart. The Seamstress learns a "no.”
+{{< /example >}}
 
-				The Pit-Hag turns the Mathematician into the Witch, who remains good. Later that night, the Seamstress chooses the two players, the Witch and the Town Crier. The Seamstress learns a "yes" because they are both good.
+{{< example >}}
+The Pit-Hag turns the Mathematician into the Witch, who remains good. Later that night, the Seamstress chooses the two players, the Witch and the Town Crier. The Seamstress learns a "yes" because they are both good.
+{{< /example >}}
 
 ##  Tips & Tricks
 

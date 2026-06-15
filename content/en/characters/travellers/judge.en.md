@@ -22,9 +22,13 @@ At any time during a nomination for execution—from the moment that the nominat
 
 ##  Examples
 
-				The Slayer was about to die, but the Po is nominated and every alive player votes, so now the Po is about to die. The evil Judge decides that the Po’s execution fails. So, as before, the Slayer is about to die, and the nomination process continues.
+{{< example >}}
+The Slayer was about to die, but the Po is nominated and every alive player votes, so now the Po is about to die. The evil Judge decides that the Po’s execution fails. So, as before, the Slayer is about to die, and the nomination process continues.
+{{< /example >}}
 
-				The good Judge nominates the Professor. Nobody votes, but the Judge may not use their ability. A Traveller's exile is voted on. Once again, the Judge may not use their ability. The Grandmother nominates the Goon. Even though the Goon got only one vote, the Judge decides that the Goon is executed immediately.
+{{< example >}}
+The good Judge nominates the Professor. Nobody votes, but the Judge may not use their ability. A Traveller's exile is voted on. Once again, the Judge may not use their ability. The Grandmother nominates the Goon. Even though the Goon got only one vote, the Judge decides that the Goon is executed immediately.
+{{< /example >}}
 
 ##  Tips & Tricks (if you are good)
 

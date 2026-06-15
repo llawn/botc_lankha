@@ -28,13 +28,21 @@ If the Fearmonger nominates the player marked **FEAR**, and that nomination resu
 
 ##  Examples
 
-				On the first night, the Fearmonger chooses the Butler. All players learn the Fearmonger has chosen a new player. During the day, the Fearmonger nominates the Butler, and the Butler is executed. Evil wins.
+{{< example >}}
+On the first night, the Fearmonger chooses the Butler. All players learn the Fearmonger has chosen a new player. During the day, the Fearmonger nominates the Butler, and the Butler is executed. Evil wins.
+{{< /example >}}
 
-				At night, the Fearmonger chooses the Juggler. The Flowergirl nominates the Juggler, and the Juggler is executed. The game continues.
+{{< example >}}
+At night, the Fearmonger chooses the Juggler. The Flowergirl nominates the Juggler, and the Juggler is executed. The game continues.
+{{< /example >}}
 
-				The Fearmonger chooses the Empath. The next night, the Fearmonger chooses the Soldier. The Fearmonger nominates and executes the Empath. The game continues because the Fearmonger has selected the Soldier, not the Empath.
+{{< example >}}
+The Fearmonger chooses the Empath. The next night, the Fearmonger chooses the Soldier. The Fearmonger nominates and executes the Empath. The game continues because the Fearmonger has selected the Soldier, not the Empath.
+{{< /example >}}
 
-				The Fearmonger accidentally chooses the Baron, due to the Poppy Grower being in play. The Fearmonger nominates and executes the Baron. Good wins.
+{{< example >}}
+The Fearmonger accidentally chooses the Baron, due to the Poppy Grower being in play. The Fearmonger nominates and executes the Baron. Good wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

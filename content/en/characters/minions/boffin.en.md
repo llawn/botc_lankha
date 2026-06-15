@@ -34,11 +34,17 @@ Good abilities that would drunk/poison themselves, such as the Sailor, only drun
 
 ##  Examples
 
+{{< example >}}
 The Imp has the Virgin ability. The Alsaahir nominates the Imp, and is immediately executed.
+{{< /example >}}
 
+{{< example >}}
 The Lord of Typhon has the Chambermaid ability. Each night, the Lord of Typhon wakes, chooses two players, and learns how many woke tonight. On the 4th night, the Boffin is drunk, so the Demon has no Chambermaid ability, so does not wake.
+{{< /example >}}
 
+{{< example >}}
 The Kazali has the Banshee ability. The Kazali dies at night, and the Scarlet Woman becomes the Kazali. The dead Kazali may nominate and vote twice per day.
+{{< /example >}}
 
 ##  Tips & Tricks
 

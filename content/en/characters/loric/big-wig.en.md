@@ -24,6 +24,10 @@ Each time a player is nominated, ask them to choose a player. Declare that this 
 
 ##  Examples
 
-				Alex is claiming to be the Sailor, and is nominated. Alex chooses Evin to speak on his behalf. Evin makes a convincing argument that Alex actually is the Sailor, and that Julian should be executed instead. Evin lives.
+{{< example >}}
+Alex is claiming to be the Sailor, and is nominated. Alex chooses Evin to speak on his behalf. Evin makes a convincing argument that Alex actually is the Sailor, and that Julian should be executed instead. Evin lives.
+{{< /example >}}
 
-				Marianna is the Hermit, but has not told many people that she is the Hermit. When nominated, she chooses Alex to defend her. Alex says that Marianna is probably a Minion and that it doesn’t matter if Marianna dies or not. Alex dies due to the Big Wig ability.
+{{< example >}}
+Marianna is the Hermit, but has not told many people that she is the Hermit. When nominated, she chooses Alex to defend her. Alex says that Marianna is probably a Minion and that it doesn’t matter if Marianna dies or not. Alex dies due to the Big Wig ability.
+{{< /example >}}

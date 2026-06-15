@@ -26,9 +26,13 @@ Follow the Djinn instructions as listed on the Script Tool printout.
 
 ##  Examples
 
-				The Pit-Hag and the Heretic are Jinxed. At the start of the game, the Storyteller reads out the Djinn's special rule: “A Pit-Hag cannot create a Heretic.” Later in the game, the Pit-Hag tries to create a Heretic. The Storyteller shakes their head, and the Pit-Hag must choose another character to create.
+{{< example >}}
+The Pit-Hag and the Heretic are Jinxed. At the start of the game, the Storyteller reads out the Djinn's special rule: “A Pit-Hag cannot create a Heretic.” Later in the game, the Pit-Hag tries to create a Heretic. The Storyteller shakes their head, and the Pit-Hag must choose another character to create.
+{{< /example >}}
 
-				The Spy and the Magician are Jinxed. At the start of the game, the Storyteller reads out the Djinn's special rule: "When the Spy sees the grimoire, the Demon and the Magician's character tokens are removed." There is no Spy and no Magician in play, but the Storyteller reads this aloud anyway so that the good team doesn't know which Minion is in play.
+{{< example >}}
+The Spy and the Magician are Jinxed. At the start of the game, the Storyteller reads out the Djinn's special rule: "When the Spy sees the grimoire, the Demon and the Magician's character tokens are removed." There is no Spy and no Magician in play, but the Storyteller reads this aloud anyway so that the good team doesn't know which Minion is in play.
+{{< /example >}}
 
 ##  Explanation
 

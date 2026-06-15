@@ -27,11 +27,17 @@ If the sober Sailor would die, the Sailor remains alive. If the sober Sailor is 
 
 ##  Examples
 
-				The Sailor chooses the Exorcist, and the Storyteller decides that the Exorcist is drunk. That night, the Sailor is attacked by the Shabaloth. The Sailor remains alive. The next day, the Sailor is executed but remains alive.
+{{< example >}}
+The Sailor chooses the Exorcist, and the Storyteller decides that the Exorcist is drunk. That night, the Sailor is attacked by the Shabaloth. The Sailor remains alive. The next day, the Sailor is executed but remains alive.
+{{< /example >}}
 
-				During the day, the Gossip made a public statement they thought was false, but was actually true. That night, the Gossip ability kills a player. The Sailor has made themself drunk, and the Storyteller decides that the Sailor dies.
+{{< example >}}
+During the day, the Gossip made a public statement they thought was false, but was actually true. That night, the Gossip ability kills a player. The Sailor has made themself drunk, and the Storyteller decides that the Sailor dies.
+{{< /example >}}
 
-				The Sailor chooses the Mastermind, but the Storyteller decides that the Sailor is drunk. The next day, the Sailor asks to be executed to “prove they are the Sailor,” but dies because they're drunk.
+{{< example >}}
+The Sailor chooses the Mastermind, but the Storyteller decides that the Sailor is drunk. The next day, the Sailor asks to be executed to “prove they are the Sailor,” but dies because they're drunk.
+{{< /example >}}
 
 ##  Tips & Tricks
 

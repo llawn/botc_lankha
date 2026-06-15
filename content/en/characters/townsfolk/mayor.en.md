@@ -34,11 +34,17 @@ In TROUBLE BREWING, the Mayor’s phrase “your team wins” will always mean �
 
 ##  Examples
 
-				The Imp attacks the Mayor. The Storyteller chooses that the Ravenkeeper dies instead.
+{{< example >}}
+The Imp attacks the Mayor. The Storyteller chooses that the Ravenkeeper dies instead.
+{{< /example >}}
 
-				There are three players alive. There are no nominations for execution today. Good wins.
+{{< example >}}
+There are three players alive. There are no nominations for execution today. Good wins.
+{{< /example >}}
 
-				There are five players alive, including two Travellers. Both Travellers are exiled, and the vote is tied between the remaining players. Because a tied vote means neither player is executed, good wins.
+{{< example >}}
+There are five players alive, including two Travellers. Both Travellers are exiled, and the vote is tied between the remaining players. Because a tied vote means neither player is executed, good wins.
+{{< /example >}}
 
 ##  Tips & Tricks
 

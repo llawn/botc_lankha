@@ -30,6 +30,10 @@ If the Alchemist makes a choice using their ability, you may ask them to choose 
 
 ##  Examples
 
-				The Alchemist has the Baron ability. There are 2 extra Outsiders in play.
+{{< example >}}
+The Alchemist has the Baron ability. There are 2 extra Outsiders in play.
+{{< /example >}}
 
-				The Alchemist has the Poisoner's ability. On the first night, they wake and poison the Wizard. On the second night, they wake and poison the Alsaahir. On the third night, they wake and try to poison the Lord of Typhon, but the Storyteller prompts them to choose differently. They poison the King instead. The Lord of Typhon is not poisoned.
+{{< example >}}
+The Alchemist has the Poisoner's ability. On the first night, they wake and poison the Wizard. On the second night, they wake and poison the Alsaahir. On the third night, they wake and try to poison the Lord of Typhon, but the Storyteller prompts them to choose differently. They poison the King instead. The Lord of Typhon is not poisoned.
+{{< /example >}}

@@ -25,7 +25,9 @@ If the Ojo is on a script with a Demon that kills multiple times per night, such
 
 ##  Examples
 
-				The Ojo chooses the Plague Doctor. The Plague Doctor dies. The next night, the Ojo chooses the Poppy Grower. The Poppy Grower dies. The next night, the Ojo chooses the Empath. There is no Empath in play, so the Storyteller chooses that the  Shugenja dies instead.
+{{< example >}}
+The Ojo chooses the Plague Doctor. The Plague Doctor dies. The next night, the Ojo chooses the Poppy Grower. The Poppy Grower dies. The next night, the Ojo chooses the Empath. There is no Empath in play, so the Storyteller chooses that the  Shugenja dies instead.
+{{< /example >}}
 
 ##  Tips & Tricks
 
