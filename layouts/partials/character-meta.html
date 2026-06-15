@@ -1,5 +1,6 @@
 {{ $charType := .Params.charType }}
 {{ $edition := .Params.edition }}
+{{ $editions := .Params.editions }}
 {{ $experimental := .Params.experimental }}
 {{ $homemade := .Params.homemade }}
 {{ $category := "" }}
@@ -25,22 +26,34 @@
 {{ if compare.Eq $charType "solo" }}{{ $catBg = "#37474f" }}{{ $catBorder = "#78909c" }}{{ end }}
 {{ if compare.Eq $charType "werewolf" }}{{ $catBg = "#1b5e20" }}{{ $catBorder = "#4caf50" }}{{ end }}
 {{ if compare.Eq $charType "vampire" }}{{ $catBg = "#4a148c" }}{{ $catBorder = "#ab47bc" }}{{ end }}
-{{ $editionName := "" }}
-{{ if compare.Eq $edition "trouble-brewing" }}{{ $editionName = "Trouble Brewing" }}{{ end }}
-{{ if compare.Eq $edition "bad-moon-rising" }}{{ $editionName = "Bad Moon Rising" }}{{ end }}
-{{ if compare.Eq $edition "sects-and-violets" }}{{ $editionName = "Sects & Violets" }}{{ end }}
-{{ if compare.Eq $edition "loup-garou" }}{{ $editionName = "Loup Garou" }}{{ end }}
-{{ if or $category $editionName }}
+{{ $editionMeta := dict
+  "trouble-brewing"   (dict "label" "Trouble Brewing"  "bg" "#c0392b" "border" "#e74c3c")
+  "bad-moon-rising"   (dict "label" "Bad Moon Rising"  "bg" "#e67e22" "border" "#f39c12")
+  "sects-and-violets" (dict "label" "Sects & Violets"  "bg" "#8e44ad" "border" "#9b59b6")
+  "loup-garou"        (dict "label" "Loup Garou"       "bg" "#333333" "border" "#555555")
+  "lg-nouvelle-lune"  (dict "label" "Nouvelle Lune"    "bg" "#666666" "border" "#888888")
+  "lg-le-village"     (dict "label" "Le Village"       "bg" "#8B4513" "border" "#a0522d")
+  "lg-personnages"    (dict "label" "Personnages"      "bg" "#2d5016" "border" "#388e3c")
+  "lg-pour-une-nuit"  (dict "label" "LG pour 1 nuit"   "bg" "#1a237e" "border" "#3949ab")
+  "lg-pour-un-crepuscule" (dict "label" "Crépuscule"   "bg" "#e67e22" "border" "#f39c12")
+  "vampire-pour-une-nuit" (dict "label" "Vampire"      "bg" "#8b0000" "border" "#b71c1c")
+}}
+{{ $editionList := slice }}
+{{ if $editions }}{{ $editionList = $editions }}{{ else if $edition }}{{ $editionList = slice $edition }}{{ end }}
+{{ if or $category (len $editionList) }}
 <div class="character-meta mv3">
   {{ with $category }}
     <a href="{{ printf "/en/characters/%s/" $charType | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:{{ $catBg }};border-color:{{ $catBorder }};color:#fff;">
       {{ . }}
     </a>
   {{ end }}
-  {{ with $editionName }}
-    <a href="{{ printf "/en/scenarios/%s/" $edition | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#01579b;border-color:#42a5f5;color:#fff;">
-      {{ . }}
-    </a>
+  {{ range $editionList }}
+    {{ $editionKey := . }}
+    {{ with index $editionMeta $editionKey }}
+      <a href="{{ printf "/en/scenarios/%s/" $editionKey | relURL }}" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:{{ .bg }};border-color:{{ .border }};color:#fff;">
+        {{ .label }}
+      </a>
+    {{ end }}
   {{ end }}
   {{ if compare.Eq $experimental true }}
     <span class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline" style="background:#e65100;border-color:#ff9800;color:#fff;">

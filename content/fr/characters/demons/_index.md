@@ -2,26 +2,5 @@
 title: "Démons"
 weight: 5
 section: characters
-type: category
-characters:
-  - "Al-Hadikhia"
-  - "Fang Gu"
-  - "Imp"
-  - "Kazali"
-  - "Legion"
-  - "Leviathan"
-  - "Lil' Monsta"
-  - "Lleech"
-  - "Lord of Typhon"
-  - "No Dashii"
-  - "Ojo"
-  - "Po"
-  - "Pukka"
-  - "Riot"
-  - "Shabaloth"
-  - "Vigormortis"
-  - "Vortox"
-  - "Yaggababble"
-  - "Zombuul"
 toc: true
 ---
