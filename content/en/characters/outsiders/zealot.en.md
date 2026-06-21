@@ -3,7 +3,6 @@ title: "Zealot"
 weight: 1020
 charType: "outsiders"
 summary: "\"If there are 5 or more players alive, you must vote for every nomination.\"\n\nThe Zealot votes.\n* If there are 5 or more players alive, the Zealot must vote for every nomination. If there are 4 or fewer players alive, the Zealot can choose whether they vote or not.\n* Travellers count as alive players.\n* The Zealot can vote like a normal dead player when dead.\n* The Zealot does not need to vote for exiles.\n* A Zealot must vote even if they think they might be drunk or poisoned.\n* It is not the Storyteller's responsibility to monitor the Zealot. They're responsible for their own voting. Deliberately not voting when they should is considered cheating."
-flavour: "\"I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane.\""
 experimental: true
 section: "characters"
 toc: true
@@ -35,30 +34,3 @@ There are 7 players alive. The Zealot votes for the Alsaahir, the Summoner, Ogre
 There are 9 players alive. The Zealot is dead. The Zealot doesn't vote for 3 days, and uses their vote token when just 3 players are alive to vote for the Farmer.
 {{< /example >}}
 
-##  Tips & Tricks
-
-* VOTE!!!!
-
-* Actively take part in conversations about who should be nominated. While you must vote on every nomination, you can gain agency over executions by convincing other players to nominate people you'd prefer to vote on.
-
-* Pretend to be a character that benefits from other players' executions, like the Undertaker or the Cannibal. This might help create confusion amongst players - are you voting all the time because you're the Zealot, or do you just really want to see someone executed?
-
-* Tell everyone you are the Zealot. If other players are aware that you will be voting on every nomination, that will help them decide who they want to vote for.
-
-* Be aware that people might find you suspicious because you are voting on everything.
-
-* If a Traveller is joining the game, encourage them to play as the Bureaucrat or the Thief!
-
-* Work with your team to get the game to a day where fewer than 5 players live, so you can vote how you like.
-
-* If you are alive towards the end of the game, make the most of the final day! It's likely the first time in the game that you will have agency over your own votes.
-
-* If there is a Zealot on the script, watch votes very carefully to figure out if there is a Zealot in play.
-
-* If you are a character who wants to die in the night, vote on everything to convince the evil team that you are the Zealot.
-
-##  Bluffing as the Zealot
-
-* VOTE!!!!
-
-* If there is a Zealot on the script, watch good players' votes very carefully to figure out if there is a Zealot in play. If a good player is voting on everything, they might be the Zealot, and you likely know where one Outsider is. If no good player votes on every nomination, Zealot is probably out-of-play and therefore a great bluff for Minions.

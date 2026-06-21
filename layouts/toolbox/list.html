@@ -28,6 +28,12 @@
             <option value="bad-moon-rising">Bad Moon Rising</option>
             <option value="sects-and-violets">Sects & Violets</option>
             <option value="loup-garou">Loup Garou</option>
+            <option value="lg-nouvelle-lune">LG: Nouvelle Lune</option>
+            <option value="lg-le-village">LG: Le Village</option>
+            <option value="lg-personnages">LG: Personnages</option>
+            <option value="lg-pour-une-nuit">LG pour 1 nuit</option>
+            <option value="lg-pour-un-crepuscule">LG: Crépuscule</option>
+            <option value="vampire-pour-une-nuit">Vampire</option>
           </select>
         </div>
         <button class="tool-btn" id="btn-reset-game">New Game</button>
@@ -50,7 +56,18 @@
         <span class="legend-item"><span class="legend-swatch swatch-travellers"></span>Traveller</span>
         <span class="legend-item"><span class="legend-swatch swatch-fabled"></span>Fabled</span>
         <span class="legend-item"><span class="legend-swatch swatch-loric"></span>Loric</span>
+        <span class="legend-item"><span class="legend-swatch swatch-solo"></span>Solo</span>
+        <span class="legend-item"><span class="legend-swatch swatch-werewolf"></span>Werewolf</span>
+        <span class="legend-item"><span class="legend-swatch swatch-vampire"></span>Vampire</span>
       </div>
+    </div>
+
+    <div class="modificator-bar">
+      <div class="modificator-header">
+        <h3 class="modificator-title">Modificators</h3>
+        <button class="tool-btn" id="btn-add-modificator">+ Add Fabled / Loric</button>
+      </div>
+      <div class="modificator-list" id="modificator-list"></div>
     </div>
 
     <div class="book-page right-page" id="page-notebook">
@@ -87,8 +104,9 @@
           <option value="minions">Minion</option>
           <option value="demons">Demon</option>
           <option value="travellers">Traveller</option>
-          <option value="fabled">Fabled</option>
-          <option value="loric">Loric</option>
+          <option value="solo">Solo</option>
+          <option value="werewolf">Werewolf</option>
+          <option value="vampire">Vampire</option>
         </select>
       </div>
       <button id="btn-close-modal" class="modal-close">&times;</button>

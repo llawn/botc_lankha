@@ -2,15 +2,13 @@
 title: "Washerwoman"
 weight: 780
 charType: "townsfolk"
-summary: "**You start knowing that 1 of 2 players is a particular Townsfolk.**"
+summary: "- [x] Done\n\n**You start knowing that 1 of 2 players is a particular Townsfolk.**"
 edition: "trouble-brewing"
 section: "characters"
 toc: true
 ---
 
-- [x] Done
-
-##  Summaryhttps://wiki.bloodontheclocktower.com/Washerwoman
+##  Summary
 
 **You start knowing that 1 of 2 players is a particular Townsfolk.**
 
@@ -51,7 +49,8 @@ The Washerwoman learns that either Julian or Alex is the [Virgin](/en/characters
 {{< example >}}
 Marianna is the [Spy](/en/characters/minions/spy), and Sarah is the [Scarlet Woman](/en/characters/minions/scarlet-woman).
 The Washerwoman learns that one of them is the [Ravenkeeper](/en/characters/townsfolk/ravenkeeper).
-Here, the [Spy](/en/characters/minions/spy) is registering as a Townsfolk—in this case, the [Ravenkeeper](/en/characters/townsfolk/ravenkeeper).
+Here, the [Spy](/en/characters/minions/spy) is registering as a Townsfolk
+* in this case, the [Ravenkeeper](/en/characters/townsfolk/ravenkeeper).
 {{< /example >}}
 
 ---

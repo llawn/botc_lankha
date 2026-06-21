@@ -171,32 +171,100 @@ const CHARACTERS = [
   {name:"Scapegoat",type:"travellers"},
   {name:"Thief",type:"travellers"},
   {name:"Voudon",type:"travellers"},
-  {name:"Angel",type:"fabled"},
-  {name:"Buddhist",type:"fabled"},
-  {name:"Deus ex Fiasco",type:"fabled"},
-  {name:"Djinn",type:"fabled"},
-  {name:"Doomsayer",type:"fabled"},
-  {name:"Duchess",type:"fabled"},
-  {name:"Ferryman",type:"fabled"},
-  {name:"Fibbin",type:"fabled"},
-  {name:"Fiddler",type:"fabled"},
-  {name:"Hell's Librarian",type:"fabled"},
-  {name:"Revolutionary",type:"fabled"},
-  {name:"Sentinel",type:"fabled"},
-  {name:"Spirit of Ivory",type:"fabled"},
-  {name:"Toymaker",type:"fabled"},
-  {name:"Big Wig",type:"loric"},
-  {name:"Bootlegger",type:"loric"},
-  {name:"Gardener",type:"loric"},
-  {name:"God of Ug",type:"loric"},
-  {name:"God of Ug (Ug Mode)",type:"loric"},
-  {name:"Hindu",type:"loric"},
-  {name:"Knaves",type:"loric"},
-  {name:"Pope",type:"loric"},
-  {name:"Storm Catcher",type:"loric"},
-  {name:"Tor",type:"loric"},
-  {name:"Ventriloquist",type:"loric"},
-  {name:"Zenomancer",type:"loric"}
+  {name:"Angel",type:"fabled",summary:"Something bad might happen to whoever is most responsible for the death of a new player."},
+  {name:"Buddhist",type:"fabled",summary:"For the first 2 minutes of each day, veteran players may not talk."},
+  {name:"Deus ex Fiasco",type:"fabled",summary:"At least once per game, the Storyteller will make a mistake, correct it, and publicly admit to it."},
+  {name:"Djinn",type:"fabled",summary:"Use the Djinn's special rule. All players know what it is."},
+  {name:"Doomsayer",type:"fabled",summary:"If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."},
+  {name:"Duchess",type:"fabled",summary:"Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."},
+  {name:"Ferryman",type:"fabled",summary:"On the final day, all dead players regain their vote token."},
+  {name:"Fibbin",type:"fabled",summary:"Once per game, 1 good player might get incorrect information."},
+  {name:"Fiddler",type:"fabled",summary:"Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win."},
+  {name:"Hell's Librarian",type:"fabled",summary:"Something bad might happen to whoever talks when the Storyteller has asked for silence."},
+  {name:"Revolutionary",type:"fabled",summary:"2 neighboring players are known to be the same alignment. Once per game, 1 of them registers falsely."},
+  {name:"Sentinel",type:"fabled",summary:"There might be 1 extra or 1 fewer Outsider in play."},
+  {name:"Spirit of Ivory",type:"fabled",summary:"There can't be more than 1 extra evil player."},
+  {name:"Toymaker",type:"fabled",summary:"The Demon may choose not to attack & must do this at least once per game."},
+  {name:"Big Wig",type:"loric",summary:"Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die."},
+  {name:"Bootlegger",type:"loric",summary:"This script has homebrew characters or rules."},
+  {name:"Gardener",type:"loric",summary:"The Storyteller assigns all players' characters."},
+  {name:"God of Ug",type:"loric",summary:"One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice."},
+  {name:"God of Ug (Ug Mode)",type:"loric",summary:""},
+  {name:"Hindu",type:"loric",summary:"The first 4 players to die are immediately reincarnated as Travellers of the same alignment."},
+  {name:"Knaves",type:"loric",summary:"There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch."},
+  {name:"Pope",type:"loric",summary:"There are duplicate good characters in play. They might also be bluffs."},
+  {name:"Storm Catcher",type:"loric",summary:"Name a good character. If in play, they can only die by execution, but evil players learn which player it is."},
+  {name:"Tor",type:"loric",summary:"Players don't know their character or alignment. They learn them when they die."},
+  {name:"Ventriloquist",type:"loric",summary:"If a player is mad as a fresh character during their nomination, they might not die if executed today."},
+  {name:"Zenomancer",type:"loric",summary:"One or more players each have a goal. When achieved, that player learns a piece of true info."},
+  // LG - Personnages
+  {name:"Abominable Sectaire",type:"minion",edition:"lg-personnages"},
+  {name:"Ange",type:"solo",edition:"lg-personnages"},
+  {name:"Chevalier à l'épée rouillée",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Chien-Loup",type:"werewolf",edition:"lg-personnages"},
+  {name:"Comédien",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Deux Sœurs",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Enfant Sauvage",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Grand Méchant Loup",type:"werewolf",edition:"lg-personnages"},
+  {name:"Infect Père des Loups",type:"werewolf",edition:"lg-personnages"},
+  {name:"Juge Bègue",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Loup-Garou Alpha",type:"werewolf",edition:"lg-personnages"},
+  {name:"Magicien",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Montreur d'Ours",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Renard",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Servante Dévouée",type:"townsfolk",edition:"lg-personnages"},
+  {name:"Trois Frères",type:"townsfolk",edition:"lg-personnages"},
+  // LG - Le Village
+  {name:"Barbier",type:"townsfolk",edition:"lg-le-village"},
+  {name:"Bavard",type:"townsfolk",edition:"lg-le-village"},
+  {name:"Bouffon",type:"outsider",edition:"lg-le-village"},
+  {name:"Boulanger",type:"townsfolk",edition:"lg-le-village"},
+  {name:"Châtelain",type:"townsfolk",edition:"lg-le-village"},
+  {name:"Corbeau",type:"townsfolk",edition:"lg-le-village"},
+  {name:"Institutrice",type:"townsfolk",edition:"lg-le-village"},
+  {name:"Loup-Garou Blanc",type:"werewolf",edition:"lg-le-village"},
+  {name:"Pyromane",type:"minion",edition:"lg-le-village"},
+  {name:"Rebouteux",type:"townsfolk",edition:"lg-le-village"},
+  // LG - Nouvelle Lune
+  {name:"Bouc Émissaire",type:"solo",edition:"lg-nouvelle-lune"},
+  {name:"Idiot du Village",type:"solo",edition:"lg-nouvelle-lune"},
+  {name:"Joueur de Flûte",type:"solo",edition:"lg-nouvelle-lune"},
+  {name:"Salvateur",type:"townsfolk",edition:"lg-nouvelle-lune"},
+  // LG - Pour une nuit
+  {name:"Apprentie Voyante",type:"townsfolk",edition:"lg-pour-une-nuit"},
+  {name:"Doppelgänger",type:"outsider",edition:"lg-pour-une-nuit"},
+  {name:"Insomniaque",type:"townsfolk",edition:"lg-pour-une-nuit"},
+  {name:"Maçon",type:"townsfolk",edition:"lg-pour-une-nuit"},
+  {name:"Noiseuse",type:"outsider",edition:"lg-pour-une-nuit"},
+  {name:"Saoul",type:"outsider",edition:"lg-pour-une-nuit"},
+  {name:"Sbire",type:"werewolf",edition:"lg-pour-une-nuit"},
+  {name:"Simple Villageois",type:"townsfolk",edition:"loup-garou,lg-pour-une-nuit"},
+  {name:"Tanneur",type:"outsider",edition:"lg-pour-une-nuit"},
+  // LG - Pour un crepuscule
+  {name:"Apprenti Sbire",type:"werewolf",edition:"lg-pour-un-crepuscule"},
+  {name:"Chasseur de Monstres",type:"townsfolk",edition:"lg-pour-un-crepuscule"},
+  {name:"Conservateur",type:"townsfolk",edition:"lg-pour-un-crepuscule"},
+  {name:"Enquêteur du Paranormal",type:"townsfolk",edition:"lg-pour-un-crepuscule"},
+  {name:"Idiote du Village",type:"outsider",edition:"lg-pour-un-crepuscule"},
+  {name:"Loup Mystique",type:"werewolf",edition:"lg-pour-un-crepuscule"},
+  {name:"Rêveur",type:"townsfolk",edition:"lg-pour-un-crepuscule"},
+  {name:"Sentinelle",type:"townsfolk",edition:"lg-pour-un-crepuscule"},
+  // Loup-Garou de Thiercelieux
+  {name:"Capitaine",type:"townsfolk",edition:"loup-garou"},
+  {name:"Le Couple",type:"solo",edition:"loup-garou"},
+  {name:"Petite Fille",type:"townsfolk",edition:"loup-garou"},
+  // Vampire
+  {name:"Apprenti Assassin",type:"vampire",edition:"vampire-pour-une-nuit"},
+  {name:"Chasseur de Vampires",type:"townsfolk",edition:"vampire-pour-une-nuit"},
+  {name:"Chauve-souris",type:"vampire",edition:"vampire-pour-une-nuit"},
+  {name:"Greffier",type:"townsfolk",edition:"vampire-pour-une-nuit"},
+  {name:"Le Comte",type:"vampire",edition:"vampire-pour-une-nuit"},
+  {name:"Prêtre",type:"townsfolk",edition:"vampire-pour-une-nuit"},
+  {name:"Renégat",type:"vampire",edition:"vampire-pour-une-nuit"},
+  {name:"Vampire",type:"vampire",edition:"vampire-pour-une-nuit"},
+  {name:"Victime",type:"outsider",edition:"vampire-pour-une-nuit"},
+  // Divers
+  {name:"Tavernier",type:"townsfolk",edition:""}
 ];
 
 const STATUSES = [
@@ -209,7 +277,9 @@ const STATUSES = [
   {id:"no-ability",label:"No Ability",emoji:"🚫"},
   {id:"ability-used",label:"Ability Used",emoji:"✅"},
   {id:"registered-evil",label:"Reg. as Evil",emoji:"👿"},
-  {id:"registered-good",label:"Reg. as Good",emoji:"😇"}
+  {id:"registered-good",label:"Reg. as Good",emoji:"😇"},
+  {id:"registered-as",label:"Registered as",emoji:"🏷️"},
+  {id:"believe-is",label:"Believes they are",emoji:"💭"}
 ];
 
 function getDefaultState(playerCount) {
@@ -223,8 +293,8 @@ function getDefaultState(playerCount) {
     narratorName: "",
     edition: "",
     journal: [],
-    journalCounter: 0,
-    notes: ""
+    notes: "",
+    modificators: []
   };
 }
 
@@ -264,17 +334,38 @@ function resetGame() {
 function getCharColor(type) {
   const map = {
     townsfolk:'#3498db', outsiders:'#1a237e', minions:'#8e44ad',
-    demons:'#e74c3c', travellers:'#6b5e4e', fabled:'#f39c12', loric:'#27ae60'
+    demons:'#e74c3c', travellers:'#6b5e4e', fabled:'#f39c12', loric:'#27ae60',
+    solo:'#607d8b', werewolf:'#2d5016', vampire:'#8b0000'
   };
   return map[type] || '#999';
+}
+
+function getCharSummary(name) {
+  const c = CHARACTERS.find(c => c.name === name);
+  return c ? (c.summary || '') : '';
 }
 
 function getCharTypeLabel(type) {
   const map = {
     townsfolk:'Townsfolk', outsiders:'Outsider', minions:'Minion',
-    demons:'Demon', travellers:'Traveller', fabled:'Fabled', loric:'Loric'
+    demons:'Demon', travellers:'Traveller', fabled:'Fabled', loric:'Loric',
+    solo:'Solo', werewolf:'Werewolf', vampire:'Vampire'
   };
   return map[type] || type;
+}
+
+function getStatusObj(sid) {
+  return STATUSES.find(st => st.id === (typeof sid === 'string' ? sid : sid.id));
+}
+
+function getStatusDisplay(sid) {
+  const s = getStatusObj(sid);
+  if (!s) return '';
+  if (typeof sid === 'object') {
+    if (sid.char) return `${s.emoji} ${sid.char}`;
+    if (sid.detail) return `${s.emoji} ${sid.detail}`;
+  }
+  return `${s.emoji} ${s.label}`;
 }
 
 function renderStatusToolbar() {
@@ -282,22 +373,29 @@ function renderStatusToolbar() {
   if (!container) return;
   container.innerHTML = '';
 
+  const player = selectedPlayer !== null ? state.players[selectedPlayer] : null;
+
   STATUSES.forEach(s => {
     const btn = document.createElement('button');
     btn.className = 'status-btn';
     btn.dataset.statusId = s.id;
     btn.innerHTML = `<span class="status-emoji">${s.emoji}</span> ${s.label}`;
 
-    // Show active if selected player has this status
-    if (selectedPlayer !== null && state.players[selectedPlayer]) {
-      if (state.players[selectedPlayer].statuses.includes(s.id)) {
+    // Show active + detail if selected player has this status
+    if (player) {
+      const existing = player.statuses.find(st => (typeof st === 'string' ? st : st.id) === s.id);
+      if (existing) {
         btn.classList.add('active');
+        if (typeof existing === 'object') {
+          if (existing.char) btn.innerHTML += `: ${existing.char}`;
+          if (existing.detail) btn.innerHTML += `: ${existing.detail}`;
+        }
       }
     }
 
     btn.addEventListener('click', () => {
       if (selectedPlayer === null) return;
-      toggleStatus(selectedPlayer, s.id);
+      handleStatusToggle(selectedPlayer, s.id);
       saveState();
       renderCircle();
       renderStatusToolbar();
@@ -306,11 +404,50 @@ function renderStatusToolbar() {
   });
 }
 
+function handleStatusToggle(index, statusId) {
+  const player = state.players[index];
+  if (!player.statuses) player.statuses = [];
+  const existingIdx = player.statuses.findIndex(st => (typeof st === 'string' ? st : st.id) === statusId);
+
+  if (statusId === 'registered-as' || statusId === 'believe-is') {
+    if (existingIdx >= 0) {
+      player.statuses.splice(existingIdx, 1);
+      return;
+    }
+    pendingStatusPlayer = index;
+    pendingStatusId = statusId;
+    openCharModal(-1, 'status-picker');
+    return;
+  }
+
+  if (statusId === 'mad') {
+    if (existingIdx >= 0 && typeof player.statuses[existingIdx] === 'object') {
+      player.statuses.splice(existingIdx, 1);
+      return;
+    }
+    const detail = prompt('What are they mad about / claiming?', '');
+    if (detail === null) return;
+    if (existingIdx >= 0) player.statuses.splice(existingIdx, 1);
+    if (detail.trim()) {
+      player.statuses.push({id: 'mad', detail: detail.trim()});
+    }
+    return;
+  }
+
+  // Simple toggle
+  if (existingIdx >= 0) {
+    player.statuses.splice(existingIdx, 1);
+  } else {
+    player.statuses.push(statusId);
+  }
+}
+
 // ---- Render ----
 function renderAll() {
   renderCircle();
   renderStatusToolbar();
   renderJournal();
+  renderModificators();
   document.getElementById('free-notes').value = state.notes || '';
   document.getElementById('player-count').value = state.playerCount;
 }
@@ -319,7 +456,7 @@ function renderCircle() {
   const container = document.getElementById('circle-container');
   const total = state.playerCount + 1;
   const tokenWidth = 72;
-  const tokenGap = 24;
+  const tokenGap = 36;
   const spacing = tokenWidth + tokenGap;
   const circumference = total * spacing;
   const radius = Math.max(180, circumference / (2 * Math.PI));
@@ -388,12 +525,13 @@ function createTokenEl(index) {
   statusesEl.className = 'token-statuses';
   if (player.statuses && player.statuses.length) {
     player.statuses.forEach(sid => {
-      const s = STATUSES.find(st => st.id === sid);
-      if (s) {
+      const display = getStatusDisplay(sid);
+      if (display) {
         const badge = document.createElement('span');
         badge.className = 'token-status';
-        badge.textContent = s.emoji + ' ' + s.label;
-        badge.title = s.label;
+        badge.textContent = display;
+        const s = getStatusObj(sid);
+        badge.title = s ? s.label : '';
         statusesEl.appendChild(badge);
       }
     });
@@ -500,11 +638,98 @@ function renumberPlayers() {
   renderCircle();
 }
 
+// ---- Modificators (Fabled / Loric) ----
+function renderModificators() {
+  const container = document.getElementById('modificator-list');
+  if (!container) return;
+  container.innerHTML = '';
+
+  if (!state.modificators) state.modificators = [];
+
+  let migrated = false;
+  state.modificators.forEach((mod, i) => {
+    if (!mod.charName && mod.name) {
+      mod.charName = mod.name;
+      mod.name = 'NPC ' + (i + 1);
+      mod.summary = getCharSummary(mod.charName);
+      migrated = true;
+    }
+
+    if (!mod.name) mod.name = 'NPC ' + (i + 1);
+
+    const token = document.createElement('div');
+    token.className = 'modificator-token type-' + mod.type;
+
+    const charName = mod.charName || mod.name;
+    const summary = mod.summary || getCharSummary(charName) || '';
+    const summaryEl = document.createElement('div');
+    summaryEl.className = 'modificator-summary';
+    summaryEl.textContent = summary;
+    token.appendChild(summaryEl);
+
+    const charNameEl = document.createElement('div');
+    charNameEl.className = 'modificator-char-name';
+    charNameEl.textContent = charName;
+    token.appendChild(charNameEl);
+
+    const typeLabel = document.createElement('div');
+    typeLabel.className = 'modificator-type-label';
+    typeLabel.textContent = getCharTypeLabel(mod.type);
+    token.appendChild(typeLabel);
+
+    const nameEdit = document.createElement('div');
+    nameEdit.className = 'modificator-name-edit';
+    const nameInput = document.createElement('input');
+    nameInput.type = 'text';
+    nameInput.value = mod.name || 'NPC ' + (i + 1);
+    nameInput.maxLength = 20;
+    nameInput.placeholder = 'NPC ' + (i + 1);
+    nameInput.addEventListener('input', () => {
+      mod.name = nameInput.value;
+      saveState();
+    });
+    nameInput.addEventListener('click', e => { e.stopPropagation(); });
+    nameEdit.appendChild(nameInput);
+    token.appendChild(nameEdit);
+
+    const removeBtn = document.createElement('button');
+    removeBtn.className = 'modificator-remove';
+    removeBtn.textContent = '✕';
+    removeBtn.addEventListener('click', e => {
+      e.stopPropagation();
+      removeModificator(i);
+    });
+    token.appendChild(removeBtn);
+
+    token.addEventListener('click', e => {
+      if (e.target.tagName === 'INPUT') return;
+      openCharModal(i, 'modificator');
+    });
+
+    container.appendChild(token);
+  });
+  if (migrated) saveState();
+}
+
+function addModificator() {
+  openCharModal(-1, 'modificator');
+}
+
+function removeModificator(index) {
+  state.modificators.splice(index, 1);
+  saveState();
+  renderModificators();
+}
+
 // ---- Character Modal ----
 let modalTargetIndex = -1;
+let modalMode = 'player'; // 'player' | 'modificator' | 'status-picker'
+let pendingStatusPlayer = -1;
+let pendingStatusId = '';
 
-function openCharModal(index) {
+function openCharModal(index, mode) {
   modalTargetIndex = index;
+  modalMode = mode || 'player';
   const modal = document.getElementById('char-modal');
   modal.classList.remove('hidden');
   document.getElementById('char-search').value = '';
@@ -515,29 +740,36 @@ function openCharModal(index) {
 function closeCharModal() {
   document.getElementById('char-modal').classList.add('hidden');
   modalTargetIndex = -1;
+  modalMode = 'player';
+  pendingStatusPlayer = -1;
+  pendingStatusId = '';
   renderCircle();
   renderStatusToolbar();
+  renderModificators();
 }
 
 function renderCharList() {
   const search = document.getElementById('char-search').value.toLowerCase();
   const typeFilter = document.getElementById('char-type-filter').value;
-  const editionFilter = document.getElementById('edition-filter').value;
 
   let chars = CHARACTERS;
 
+  if (modalMode === 'player') {
+    chars = chars.filter(c => c.type !== 'fabled' && c.type !== 'loric');
+  } else if (modalMode === 'modificator') {
+    chars = chars.filter(c => c.type === 'fabled' || c.type === 'loric');
+  }
+  // status-picker shows all types
+
   if (typeFilter) {
     chars = chars.filter(c => c.type === typeFilter);
-  }
-  if (editionFilter) {
-    chars = chars.filter(c => c.edition === editionFilter);
   }
   if (search) {
     chars = chars.filter(c => c.name.toLowerCase().includes(search));
   }
 
   // Sort by type, then name
-  const typeOrder = ['townsfolk','outsiders','minions','demons','travellers','fabled','loric'];
+  const typeOrder = ['townsfolk','outsiders','minions','demons','travellers','fabled','loric','solo','werewolf','vampire'];
   chars.sort((a,b) => {
     const ta = typeOrder.indexOf(a.type);
     const tb = typeOrder.indexOf(b.type);
@@ -574,10 +806,41 @@ function renderCharList() {
 }
 
 function assignCharacter(index, char) {
-  state.players[index].character = {name:char.name, type:char.type};
-  state.players[index].statuses = state.players[index].statuses || [];
+  if (modalMode === 'status-picker') {
+    const player = state.players[pendingStatusPlayer];
+    if (!player.statuses) player.statuses = [];
+    const existingIdx = player.statuses.findIndex(st => (typeof st === 'string' ? st : st.id) === pendingStatusId);
+    if (existingIdx >= 0) player.statuses.splice(existingIdx, 1);
+    player.statuses.push({id: pendingStatusId, type: char.type, char: char.name});
+    pendingStatusPlayer = -1;
+    pendingStatusId = '';
+  } else if (modalMode === 'modificator') {
+    if (index >= 0 && index < state.modificators.length) {
+      state.modificators[index].charName = char.name;
+      state.modificators[index].type = char.type;
+      state.modificators[index].summary = char.summary || '';
+    } else {
+      const npcNum = state.modificators.length + 1;
+      state.modificators.push({
+        charName: char.name,
+        type: char.type,
+        summary: char.summary || '',
+        name: 'NPC ' + npcNum
+      });
+    }
+  } else {
+    state.players[index].character = {name:char.name, type:char.type};
+    state.players[index].statuses = state.players[index].statuses || [];
+  }
   saveState();
-  renderCircle();
+  if (modalMode === 'modificator') {
+    renderModificators();
+  } else if (modalMode === 'status-picker') {
+    renderCircle();
+    renderStatusToolbar();
+  } else {
+    renderCircle();
+  }
 }
 
 // ---- Status Context Menu ----
@@ -593,15 +856,22 @@ function showStatusMenu(x, y, index) {
   STATUSES.forEach(s => {
     const item = document.createElement('div');
     item.className = 'status-item';
-    if (player.statuses.includes(s.id)) {
+    const existing = player.statuses.find(st => (typeof st === 'string' ? st : st.id) === s.id);
+    if (existing) {
       item.classList.add('active');
     }
-    item.innerHTML = `<span class="status-indicator"></span>${s.emoji} ${s.label}`;
+    let label = `${s.emoji} ${s.label}`;
+    if (typeof existing === 'object') {
+      if (existing.char) label += `: ${existing.char}`;
+      if (existing.detail) label += `: ${existing.detail}`;
+    }
+    item.innerHTML = `<span class="status-indicator"></span>${label}`;
     item.addEventListener('click', () => {
-      toggleStatus(index, s.id);
+      handleStatusToggle(index, s.id);
       saveState();
       renderCircle();
       hideStatusMenu();
+      renderStatusToolbar();
     });
     list.appendChild(item);
   });
@@ -623,21 +893,20 @@ function hideStatusMenu() {
   statusMenuIndex = -1;
 }
 
-function toggleStatus(index, statusId) {
-  const player = state.players[index];
-  const idx = player.statuses.indexOf(statusId);
-  if (idx >= 0) {
-    player.statuses.splice(idx, 1);
-  } else {
-    player.statuses.push(statusId);
+// ---- Journal ----
+function getPhaseLabel(idx) {
+  if (idx === 0) return { day: 0, isNight: true, label: 'Day 0 - Night' };
+  if (idx % 2 === 1) {
+    const day = (idx + 1) / 2;
+    return { day, isNight: false, label: `Day ${day} - Day` };
   }
+  const day = idx / 2;
+  return { day, isNight: true, label: `Day ${day} - Night` };
 }
 
-// ---- Journal ----
 function renderJournal() {
   const container = document.getElementById('journal-entries');
   container.innerHTML = '';
-
   if (!state.journal) state.journal = [];
 
   state.journal.forEach((entry, i) => {
@@ -649,10 +918,10 @@ function renderJournal() {
     label.textContent = entry.label;
     div.appendChild(label);
 
+    // Actions
     const fields = document.createElement('div');
     fields.className = 'phase-fields';
 
-    // Actions
     const actionsLabel = document.createElement('div');
     actionsLabel.className = 'field-label';
     actionsLabel.textContent = 'Actions / What happened';
@@ -660,43 +929,150 @@ function renderJournal() {
 
     const actionsArea = document.createElement('textarea');
     actionsArea.value = entry.actions || '';
-    actionsArea.rows = 2;
+    actionsArea.rows = 1;
+    const autoResize = () => {
+      actionsArea.style.height = 'auto';
+      actionsArea.style.height = actionsArea.scrollHeight + 'px';
+    };
     actionsArea.addEventListener('input', () => {
       entry.actions = actionsArea.value;
       saveState();
+      autoResize();
     });
+    autoResize();
     fields.appendChild(actionsArea);
-
-    // Deaths
-    const deathsLabel = document.createElement('div');
-    deathsLabel.className = 'field-label';
-    deathsLabel.textContent = 'Who died';
-    fields.appendChild(deathsLabel);
-
-    const deathsInput = document.createElement('input');
-    deathsInput.type = 'text';
-    deathsInput.value = entry.deaths || '';
-    deathsInput.placeholder = 'e.g. Player 3, Player 7';
-    deathsInput.addEventListener('input', () => {
-      entry.deaths = deathsInput.value;
-      saveState();
-    });
-    fields.appendChild(deathsInput);
-
     div.appendChild(fields);
+
+    // Entries (executions for day, kills for night)
+    const entriesLabel = document.createElement('div');
+    entriesLabel.className = 'field-label';
+    entriesLabel.textContent = entry.isNight ? 'Killed' : 'Executed';
+    div.appendChild(entriesLabel);
+
+    if (!entry.entries) entry.entries = [];
+
+    entry.entries.forEach((ent, ei) => {
+      const row = document.createElement('div');
+      row.className = 'journal-entry-row';
+
+      const info = document.createElement('span');
+      info.className = 'journal-entry-info';
+      info.textContent = `${ent.playerName} (${ent.role || '?'})`;
+      row.appendChild(info);
+
+      if (entry.isNight) {
+        const byText = document.createElement('span');
+        byText.textContent = ' by ';
+        row.appendChild(byText);
+        const byContainer = document.createElement('span');
+        byContainer.className = 'journal-killed-by-list';
+        if (!Array.isArray(ent.killedBy)) ent.killedBy = [];
+        ent.killedBy.forEach((kb, ki) => {
+          const tag = document.createElement('span');
+          tag.className = 'journal-killed-by-tag';
+          tag.textContent = kb.playerName || `Player ${kb.playerIdx + 1}`;
+          const tagRemove = document.createElement('button');
+          tagRemove.className = 'journal-killed-by-remove';
+          tagRemove.textContent = '✕';
+          tagRemove.addEventListener('click', e => {
+            e.stopPropagation();
+            ent.killedBy.splice(ki, 1);
+            saveState();
+            renderJournal();
+          });
+          tag.appendChild(tagRemove);
+          byContainer.appendChild(tag);
+        });
+        // Add killer button
+        const addKillerSel = document.createElement('select');
+        addKillerSel.className = 'journal-killer-add';
+        const blankK = document.createElement('option');
+        blankK.value = '';
+        blankK.textContent = ent.killedBy.length ? '+ add killer' : '+ who?';
+        addKillerSel.appendChild(blankK);
+        state.players.forEach((p, pi) => {
+          const opt = document.createElement('option');
+          opt.value = pi;
+          opt.textContent = `Player ${pi + 1}${p.name ? ' (' + p.name + ')' : ''}`;
+          addKillerSel.appendChild(opt);
+        });
+        addKillerSel.addEventListener('change', () => {
+          const pi = parseInt(addKillerSel.value);
+          if (isNaN(pi)) return;
+          ent.killedBy.push({playerIdx: pi, playerName: state.players[pi].name || `Player ${pi + 1}`});
+          addKillerSel.value = '';
+          saveState();
+          renderJournal();
+        });
+        byContainer.appendChild(addKillerSel);
+        row.appendChild(byContainer);
+      }
+
+      const removeBtn = document.createElement('button');
+      removeBtn.className = 'journal-entry-remove';
+      removeBtn.textContent = '✕';
+      removeBtn.title = 'Remove';
+      removeBtn.addEventListener('click', () => {
+        entry.entries.splice(ei, 1);
+        saveState();
+        renderJournal();
+      });
+      row.appendChild(removeBtn);
+
+      div.appendChild(row);
+    });
+
+    // Add entry row
+    const addRow = document.createElement('div');
+    addRow.className = 'journal-add-row';
+    const addSelect = document.createElement('select');
+    addSelect.className = 'journal-player-select';
+    const blankOpt = document.createElement('option');
+    blankOpt.value = '';
+    blankOpt.textContent = '+ Add player…';
+    addSelect.appendChild(blankOpt);
+    state.players.forEach((p, pi) => {
+      const opt = document.createElement('option');
+      opt.value = pi;
+      const role = p.character ? p.character.name : '?';
+      opt.textContent = `Player ${pi + 1}${p.name ? ' (' + p.name + ')' : ''} — ${role}`;
+      addSelect.appendChild(opt);
+    });
+    addSelect.addEventListener('change', () => {
+      const pi = parseInt(addSelect.value);
+      if (isNaN(pi)) return;
+      const player = state.players[pi];
+      const role = player.character ? player.character.name : '?';
+      entry.entries.push({
+        playerIdx: pi,
+        playerName: player.name || `Player ${pi + 1}`,
+        role: role,
+        killedBy: ''
+      });
+      // Auto-apply status
+      if (!player.statuses) player.statuses = [];
+      const statusId = entry.isNight ? 'dead' : 'executed';
+      if (!player.statuses.includes(statusId)) {
+        player.statuses.push(statusId);
+      }
+      addSelect.value = '';
+      saveState();
+      renderJournal();
+      renderCircle();
+      renderStatusToolbar();
+    });
+    addRow.appendChild(addSelect);
+    div.appendChild(addRow);
+
     container.appendChild(div);
   });
 }
 
 function addPhase() {
   if (!state.journal) state.journal = [];
-  const counter = state.journalCounter || 0;
-  const phaseNum = Math.floor(counter / 2) + 1;
-  const isNight = counter % 2 === 0;
-  const label = isNight ? 'Night ' + phaseNum : 'Day ' + phaseNum;
-
-  state.journal.push({label, actions:'', deaths:''});
-  state.journalCounter = counter + 1;
+  const idx = state.journal.length;
+  const { label, isNight } = getPhaseLabel(idx);
+  state.journal.push({ label, isNight, actions: '', entries: [] });
   saveState();
   renderJournal();
 }
@@ -704,7 +1080,6 @@ function addPhase() {
 function clearJournal() {
   if (!confirm('Clear the entire journal?')) return;
   state.journal = [];
-  state.journalCounter = 0;
   saveState();
   renderJournal();
 }
@@ -774,6 +1149,9 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   document.getElementById('btn-reset-game').addEventListener('click', resetGame);
+
+  const btnAddMod = document.getElementById('btn-add-modificator');
+  if (btnAddMod) btnAddMod.addEventListener('click', addModificator);
 
   document.getElementById('btn-add-phase').addEventListener('click', addPhase);
   document.getElementById('btn-clear-journal').addEventListener('click', clearJournal);

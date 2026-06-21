@@ -4,6 +4,7 @@ weight: 1590
 charType: "travellers"
 summary: "\"All players start knowing a player of your alignment. You may choose to kill anyone who nominates them.\"\n\nThe Gnome protects one player on their team.\n* The Gnome starts as the same alignment as one other player - their \"amigo\". The Storyteller publicly announces which player this is.\n* When their amigo is nominated, it is the Gnome's responsibility to speak up. The Storyteller may not prompt them to use their ability.\n* If their amigo changes alignment, the Gnome's alignment does not change.\n* The Gnome may use their ability any number of times over the course of the game, including zero. Their amigo may still only be nominated once per day.\n* When the Gnome uses their ability, and the Storyteller confirms it, the nominator dies immediately. Voting for execution still occurs.\n* Regardless of what the group wants, it is always the individual player's decision whether they wish to nominate or not, and always the Gnome player's decision on whether they wish to use their ability or not. If the Storyteller feels that a player is being pressured into nominating or using their ability when they don't want to, the Storyteller may not recognize that nomination or ability use."
 flavour: "\"Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o.\""
+experimental: true
 section: "characters"
 toc: true
 ---

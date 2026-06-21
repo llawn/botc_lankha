@@ -3,7 +3,6 @@ title: "Alchemist"
 weight: 110
 charType: "townsfolk"
 summary: "\"You have a Minion ability. When using this, the Storyteller may prompt you to choose differently.\"\n\nThe Alchemist has a Minion ability.\n* The Alchemist’s ability is usually that of a not-in-play Minion, but can duplicate an in-play Minion ability. \n* The Alchemist learns which ability this is on the first night.\n* They are still a good Townsfolk. They win when good wins, and lose when good loses. They register as good and as the Alchemist.\n* The Alchemist does not wake to learn who the other Minions are or who the Demon is, like Minions do.\n* If the Alchemist’s Minion ability adds or removes characters during setup, this still occurs during setup. \n* If the Alchemist has an ability where the player chooses something, like the Poisoner or the Vizier, the Storyteller may ask the Alchemist to choose differently. The Alchemist must do so."
-flavour: "\"Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth.\""
 experimental: true
 section: "characters"
 toc: true

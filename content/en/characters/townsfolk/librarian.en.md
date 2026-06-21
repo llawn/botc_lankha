@@ -2,13 +2,11 @@
 title: "Librarian"
 weight: 460
 charType: "townsfolk"
-summary: "**You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)**"
+summary: "- [x] Done\n\n**You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)**"
 edition: "trouble-brewing"
 section: "characters"
 toc: true
 ---
-
-- [x] Done
 
 ##  Summary
 

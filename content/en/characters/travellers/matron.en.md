@@ -4,6 +4,7 @@ weight: 1630
 charType: "travellers"
 summary: "\"Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.\"\n\nThe Matron chooses which players sit where.\n* The Matron may swap two players’ seating positions, up to three times per day. The new seating order is permanent, unless changed again by the Matron.\n* The same player may be moved multiple times.\n* Some players may find moving difficult due to a physical disability or impediment. In these cases, they are immune to the Matron’s ability and can stay put.\n* With the Matron in play, players may not talk privately except with their immediate neighbors while sitting down. Players may not leave their seat to whisper something to any player, and may not even talk about the game to each other when going to the bathroom, and so on. Players should self-police this.\n* If the Matron swaps just one or two sets of players, they may not swap another set of players later that day."
 flavour: "\"Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners.\""
+edition: "bad-moon-rising"
 section: "characters"
 toc: true
 ---

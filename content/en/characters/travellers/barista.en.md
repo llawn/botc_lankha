@@ -4,6 +4,7 @@ weight: 1500
 charType: "travellers"
 summary: "\"Each night, until dusk, 1) a player becomes sober, healthy & gets true info, or 2) their ability works twice. They learn which.\"\n\nThe Barista either makes people sober & healthy, or allows them to act twice as much as normal.\n* The Storyteller chooses which player the Barista affects each night, and which one of the two Barista abilities is in effect. The Barista does not know who or what the Storyteller chooses, but the affected player does.\n* If the affected player is acting twice, then they do so at the normal time. If they would normally wake at night, they act, go to sleep, then wake to act again. If they have already used a “once per game” ability, they may use that ability again. If they have a “once per game” ability but have not used it yet, they may use it twice before dusk.\n* If the Barista makes a player sober and healthy, their drunkenness and poisoning, if any, is removed, and they may not become drunk or poisoned until dusk. This player must get true information, even if a Vortox is in play."
 flavour: "\"A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?\""
+edition: "sects-and-violets"
 section: "characters"
 toc: true
 ---

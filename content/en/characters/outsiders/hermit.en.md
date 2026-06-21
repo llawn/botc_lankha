@@ -3,7 +3,6 @@ title: "Hermit"
 weight: 870
 charType: "outsiders"
 summary: "\"You have all Outsider abilities. [-0 or -1 Outsider]\"\n\nThe Hermit isn’t really here.\n* The Hermit has the abilities of all the other Outsiders on the Script, all at once. They do not have the abilities of Outsiders that are not on the script.\n* If a custom script has more than 4 Outsiders, the Hermit has all these Outsider abilities.\n* If one of the Outsider abilities continues after death, such as the Recluse’s, the Hermit keeps that ability when they die, but does not keep their other Outsider abilities.\n* A Hermit with the Drunk ability does not know that they are the Hermit, and their other Outsider abilities function as normal. A Hermit with the Recluse ability can register as a different character etc.\n* If an Outsider has a jinx, that jinx applies to the Hermit too.\n* The Hermit may remove the Hermit from play during setup, resulting in one less Outsider than normal. If this happens, the Hermit may still be a bluff given to the Demon."
-flavour: "\"In the lost and forgotten places of the earth, the soul’s light beckons.\""
 experimental: true
 section: "characters"
 toc: true

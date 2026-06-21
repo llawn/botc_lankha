@@ -1,9 +1,19 @@
+{{ $flags := dict "en" "🇬🇧" "fr" "🇫🇷" }}
 {{ if .IsTranslated }}
-<ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
+<div x-data="{ open: false }" class="relative dib">
+  <button @click="open = !open" @click.away="open = false" class="hover-gold botc-gold no-underline f5 f4-ns fw4 bn bg-transparent pointer" style="cursor:pointer;">
+    {{ index $flags .Site.Language.Lang | default .Site.Language.Lang }} {{ .Site.Language.Lang | upper }}
+  </button>
+  <ul x-show="open" x-transition.duration.100ms
+      class="list absolute z-999 bg-botc-dark ba b--gold pa2 mt1 right-0"
+      style="min-width:120px;">
     {{ range .Translations }}
-    <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3" "pr3" }}">
-        <a class="hover-gold botc-gold no-underline" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+    <li class="list f5 f4-ns fw4">
+      <a class="hover-gold botc-gold no-underline db pv1" href="{{ .RelPermalink }}">
+        {{ index $flags .Lang | default .Lang }} {{ .Lang | upper }}
+      </a>
     </li>
-    {{ end}}
-</ul>
+    {{ end }}
+  </ul>
+</div>
 {{ end }}

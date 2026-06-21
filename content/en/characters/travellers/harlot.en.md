@@ -4,6 +4,7 @@ weight: 1610
 charType: "travellers"
 summary: "\"Each night*, choose a living player: if they agree, you learn their character, but you both might die.\"\n\nThe Harlot learns the character of whoever agrees to reveal it, but at great risk for them both.\n* Each night, the Harlot chooses a player. That player has a decision to make: do they reveal their character to the Harlot? If they do, the Storyteller may decide that both this player and the Harlot die tonight.\n* The Harlot only learns the character of the chosen player, not that player’s alignment.\n* The Harlot may discuss during the day which character they would like to pick at night, and other players may offer to be picked, but they may go back on their word and choose differently when night comes."
 flavour: "\"Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good.\""
+edition: "sects-and-violets"
 section: "characters"
 toc: true
 ---

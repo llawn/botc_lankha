@@ -4,6 +4,7 @@ weight: 1580
 charType: "travellers"
 summary: "\"Once per day, you may choose to kill an alive neighbor, if your other alive neighbor agrees.\"\n\nThe Gangster encourages their neighbors to kill each other.\n* The Gangster may kill one of their two living neighbors. Their dead neighbors are skipped over, and do not count.\n* To use their ability, the Gangster and one of their living neighbors must agree to kill the other living neighbor. The Storyteller must hear and confirm this agreement. The Gangster cannot kill without the Storyteller present.\n* Each day, the Gangster may say whatever they want, and offer any encouraging words they want to either player. Once an agreement has been reached, then the Gangster may not use their ability again today, even if that player didn’t die due to an ability protecting them.\n* The Gangster’s two living neighbors are always one clockwise, and one counter-clockwise.\n* If both living neighbors want to kill the other, the Gangster decides who dies."
 flavour: "\"I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too.\""
+experimental: true
 section: "characters"
 toc: true
 ---

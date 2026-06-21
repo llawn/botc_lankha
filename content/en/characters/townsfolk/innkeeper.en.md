@@ -3,7 +3,6 @@ title: "Innkeeper"
 weight: 410
 charType: "townsfolk"
 summary: "\"Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk.\"\n\nThe Innkeeper protects people from death at night, but somebody gets drunk in the process.\n* The Innkeeper, like the Monk, makes players safe from being killed by the Demon. They are also safe from death caused by Outsiders, Minions, Townsfolk, and Travellers.\n* The Innkeeper only protects players at night, not the day. \n* One of the two players that the Innkeeper chooses becomes drunk for tonight and the next day. This player may be good or evil, but will almost always be good, depending how your game is going. An Innkeeper that chooses themself might become drunk, which means they have no ability and may die tonight—and the other player they chose to protect isn’t safe either."
-flavour: "\"Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight.\""
 edition: "bad-moon-rising"
 section: "characters"
 toc: true
@@ -39,28 +38,3 @@ The Innkeeper protects the Assassin and the Po. The Storyteller chooses that the
 The Innkeeper protects themself and the Pacifist. The Storyteller chooses that the Innkeeper becomes drunk. The Pacifist is attacked by the Demon tonight and dies.
 {{< /example >}}
 
-##  Tips & Tricks
-
-* Your ability is powerful and when used effectively you can stall the evil team and keep your fellow good team safe. The price of your ability is steep, however - anyone protected by you becomes unreliable as they may be drunk for the night that they survive. Coordinating with your fellow good players to find ideal targets to protect is absolutely vital - some characters (such as the Pacifist and the Exorcist) become stronger the longer they survive, and you can enable that.
-
-* Be mindful of the drunkenness your ability causes! Don't protect people who need to receive reliable information or use their ability with any sort of guarantee that night. If you know for example that a Courtier is about to use their ability, you protecting them may cause them to become drunk and waste their powerful ability!
-
-* Protect different people than who you publicly claim to be protecting. If the evil team believes what you are saying, they will not want to waste time targeting players who can't be killed. Meanwhile, you secretly protect other players that *are* potential victims, hopefully blocking the evil team from a necessary kill.
-
-* It can seem like a good idea to protect yourself using your ability, but this is generally not recommended - it is likely that the Storyteller will choose to make you drunk by your own ability, completely negating your protection and making both you and the other player vulnerable.
-
-* If you think you know at least 2 evil players, select them both! Guarding them from death isn't ideal, but it does mean that one of them will be drunk that night. If you manage to get your hands on the Demon or a potent Minion like the Assassin or the Devil's Advocate, you're cutting off evil abilities at source! If you miss, though, you can almost guarantee that whichever player is good will be drunk.
-
-##  Bluffing as the Innkeeper
-
-When bluffing as the Innkeeper, there are a few things you should keep in mind:
-
-* If you are the Demon, kill different players, not the ones you claim to protect. If you claim to have protected the Chambermaid during the night and the Chambermaid is dead in the morning, then you have some explaining to do. If you are the Demon, or if you are a Minion that can co-ordinate with the Demon, you can attack players different to the ones you claim to protect.
-
-* If your fellow evil players have bluffs that aren't working too well, claim to have protected them. This will make one or both of them look like they may be drunk, which gives them an excuse for the malfunctioning of their ability, whilst also providing an extra reason why they are still alive.
-
-* If good players are being being particularly troublesome, claim to protect them. The imagined possibility that they are drunk can throw enough doubt and confusion into the mix to effectively nullify their ability.
-
-* To gain good team's trust, whilst also being a massive pain in the ass, privately tell people that you are the Innkeeper. Good players will often want to reveal their identity to the Innkeeper so as to either gain the Innkeeper's protection (if they are a character that wants to live at all costs) or to make sure that the Innkeeper never ever picks them (because they need be sober to use their ability). Knowing which players are which characters helps you directly, because you know who to kill, but it also makes those players trust you more.
-
-* Have a backup bluff prepared in case it gets far too suspicious that you're still alive in the late game. It is rare, but not impossible for an Innkeeper to survive to the late game. Having a good reason to have been "lying", such as claiming to have been the Fool all along, can be helpful. Characters such as the Fool, Sailor, Goon, or a player sitting next to a Tea Lady all have good reasons to lie about who they are to attract a Demon's attention, and the Innkeeper is a particularly juicy target for the Demon.

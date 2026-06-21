@@ -4,6 +4,7 @@ weight: 1620
 charType: "travellers"
 summary: "\"Once per game, if another player nominated, you may choose to force the current execution to pass or fail.\"\n\nThe Judge can determine if an execution succeeds or not, regardless of who voted. \n* The Judge can decide to pardon a player that they think is innocent, to condemn a player that they think is guilty, or vice versa.\n* If the nominee is pardoned, then they are not executed today, and none of the votes for them count. If the nominee is condemned, then they are executed immediately, regardless of how many votes they received, and regardless of whether another player was about to die by execution. Then the day ends, because there can normally only be one execution per day.\n* The Judge may use their ability during or after the votes are tallied. However, once a new player has been nominated, then the Judge may only use their ability on this new nominee. The Judge may only use their ability once, and only if a different player made a nomination."
 flavour: "\"I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering.\""
+edition: "bad-moon-rising"
 section: "characters"
 toc: true
 ---

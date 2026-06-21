@@ -5,7 +5,9 @@ section: "rulebook"
 toc: true
 ---
 
-In Blood on the Clocktower, players can be lots of things - this character or that one, *drunk* or *sober*, *alive* or *dead*, *healthy* or *poisoned*.
+In Blood on the Clocktower, players can be lots of things
+
+* this character or that one, *drunk* or *sober*, *alive* or *dead*, *healthy* or *poisoned*.
 
 Of course, we don’t mean literally if **Lankha** is drunk or **Paul** appetites isn't satisfied or **Melho** looks dead.
 

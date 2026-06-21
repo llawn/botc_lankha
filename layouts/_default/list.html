@@ -9,7 +9,7 @@
         <div class="flex-ns items-center mb2">
           <input type="text" x-model="search" placeholder="Search characters..." class="filter-input" style="width:100%;">
         </div>
-        <div class="flex flex-wrap items-center gap2" x-show="search || edition || game || showExperimental || showHomemade">
+        <div class="flex flex-wrap items-center gap2">
           <select x-model="game" class="filter-select" style="width:auto;min-width:100px;margin-right:0.5em;margin-bottom:0.3em;" x-on:change="onGameChange()">
             <option value="">All Games</option>
             <option value="botc">BotC</option>

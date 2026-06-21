@@ -4,6 +4,7 @@ weight: 1570
 charType: "travellers"
 summary: "\"If you were funny today, you cannot die by exile.\"\n\nThe Deviant can avoid being Exiled - as long as the Deviant player has been amusing today.\n* The Deviant can amuse the group in any way they choose. Generally, verbal means such as jokes, funny stories, or witty remarks will suffice.\n* The Storyteller is the judge of whether the Deviant was funny or not."
 flavour: "\"Twas the lady's quip, forsooth.\""
+edition: "sects-and-violets"
 section: "characters"
 toc: true
 ---

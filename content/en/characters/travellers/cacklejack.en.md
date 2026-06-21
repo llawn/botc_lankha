@@ -4,6 +4,7 @@ weight: 1560
 charType: "travellers"
 summary: "\"Each day, choose a player: a different player changes character tonight.\"\n\nThe Cacklejack causes character-changing chaos.\n\n* The Storyteller chooses one player to change character each night. This player can be evil or good, dead or alive.\n* The Storyteller also chooses which character they become. This may be an in-play or a not-in-play character.\n* Each day, the Cacklejack chooses a player that is immune - the Storyteller must choose a different player to change character that night.\n* The Cacklejack may choose publicly or privately, but must choose during the day.\n* Each time a player’s character changes, this is treated as a new instance of that character ability. For example, if a player becomes the Chef on Night 3, they immediately learn how many pairs of evil players there are."
 flavour: "\"Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!\""
+experimental: true
 section: "characters"
 toc: true
 ---

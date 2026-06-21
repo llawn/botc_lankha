@@ -3,7 +3,6 @@ title: "Nightwatchman"
 weight: 530
 charType: "townsfolk"
 summary: "\"Once per game, at night, choose a player: they learn you are the Nightwatchman.\"\n\nThe Nightwatchman is known by one player.\n* At night, the Nightwatchman chooses a player. This player wakes, and learns which player the Nightwatchman is.\n* The Nightwatchman and their chosen player do not make eye contact. They wake separately.\n* The Nightwatchman player chooses which night to act."
-flavour: "\"The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window...\""
 experimental: true
 section: "characters"
 toc: true
@@ -36,30 +35,3 @@ Marianna is the drunk Nightwatchman. She chooses Amy. Amy does not wake, and doe
 Ben is the Nightwatchman and Vortox is in play. Ben chooses Sarah. Sarah learns that Lewis is the Nightwatchman. Even though the Nightwatchman has their ability, the information is false.
 {{< /example >}}
 
-##  Tips & Tricks
-
-* As the Nightwatchman, the two most important questions for you to ask yourself are "When should I use my ability?" and "On whom should I use my ability?"
-
-* Using your ability early in the game makes sure that you get to use your ability. Like the Seamstress or the Slayer, it would be a shame to die on the first few days or nights of the game and never get to use your ability at all. Using your ability early, even on a less-than-ideal player, means you get some benefit and will often be more than enough. If someone, anyone, knows that you are the Nightwatchman, then they won't vote for you to be executed and will probably convince others that you are the Nightwatchman too.
-
-* You can even use your ability on the first night if you want. This guarantees that you will gain some benefit, since no deaths can occur until the first day or the second night.
-
-* Using your ability late in the game is riskier, because you will need both skill and luck to stay alive to get to that point, but much more useful. In extreme cases, it can win the game. For example, if just three players are alive and you choose one of them to learn that you are the Nightwatchman (and they reveal this to the group), then the possible Demon candidates has been reduced from one in three to one in two, or this may even reveal who the Demon is specifically, if the player you chose can be confirmed as good.
-
-* When deciding which player to choose, you almost always want to choose someone who is good and who can be confirmed as good. If you choose a good player, they will later claim that you are indeed the Nightwatchman, but you claiming that they are also good may fall flat. If they have already been confirmed good, via characters such as the Empath or the Dreamer, then their claim that you are good has much more weight. When two players claim that each other are good, the good team will want to know that these two players are not Minion and Demon. Before choosing, pay attention to which players are the most trustworthy, and consider them to be the player you choose at night.
-
-* If you do choose an evil player, this is still useful. If the evil player later claims that you are indeed the Nightwatchman, then you have confirmed your own identity to the group. You may die quickly thereafter by the Demon, but knowing which team you are on this is still helpful information for the good team generally. However, if the player you chose refuses to admit to the group that they were chosen by the Nightwatchman, you can be fairly certain that they are evil, since good players have little incentive to stay silent about this, at least for the entire game.
-
-* If you are a good player that knows who the Nightwatchman is, you can reveal this information immediately the next dawn, or wait until the late game to do so. Revealing immediately means that there is one less player to consider for execution each day, which increases your odds of finding and executing the Demon. Revealing later on can be a fantastic help for the good team, even revealing after you are dead but the Nightwatchman is still alive. Waiting until there are just three, four, or five players left alive before telling the group what you know drastically increases your odds of winning.
-
-##  Bluffing as the Nightwatchman
-
-When bluffing as the Nightwatchman, there are a few things you should keep in mind:
-
-* The Nightwatchman is a difficult character to bluff as, mostly because it needs two evil players to co-ordinate extremely well to do so. Unlike the Washerwoman or Librarian, you can't simply claim to be the character, give your information about the character of your fellow evil player, and hope that they play along. The Nightwatchman works in reverse. THEY will need to claim that they know YOUR character. This will usually mean that you both need to plan to do this beforehand, which takes some conniving.
-
-* The easiest way to claim to be the Nightwatchman is to play along with a fellow evil player when they claim that you are the Nightwatchman, and not to initiate things. Real Nightwatchmen usually wait until they have used their ability before claiming their character to the group.
-
-* If you claim to be the Nightwatchman who has chosen a player, and that player is good, they will know that you are evil. Saying "I must have been drunk or poisoned" will probably be understood to be the hasty excuse that it is. Be prepared for a showdown. This player will know that you are evil, but the rest of the group will only know that one of you is evil.
-
-* Have a ready made reason as to why you used your ability early in the game or late in the game, and why you used your ability on the player that you did.

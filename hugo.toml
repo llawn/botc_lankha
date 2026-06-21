@@ -10,7 +10,33 @@ defaultContentLanguageInSubdir = true
     label = 'English'
     weight = 1
     contentDir = 'content/en'
-title = 'BotC - Lugdunum'
+    title = 'BotC - Lugdunum'
+
+    [[languages.en.menu.main]]
+      identifier = 'rulebook'
+      name = 'Rulebook'
+      url = '/en/rulebook/'
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = 'characters'
+      name = 'Characters'
+      url = '/en/characters/'
+      weight = 20
+    [[languages.en.menu.main]]
+      identifier = 'scenarios'
+      name = 'Scenarios'
+      url = '/en/scenarios/'
+      weight = 30
+    [[languages.en.menu.main]]
+      identifier = 'sheets'
+      name = 'Sheets'
+      url = '/en/sheets/'
+      weight = 40
+    [[languages.en.menu.main]]
+      identifier = 'toolbox'
+      name = 'Toolbox'
+      url = '/en/toolbox/'
+      weight = 50
 
   [languages.fr]
     locale = 'fr-fr'
@@ -19,6 +45,27 @@ title = 'BotC - Lugdunum'
     contentDir = 'content/fr'
     title = 'BotC - Lugdunum'
 
+    [[languages.fr.menu.main]]
+      identifier = 'rulebook'
+      name = 'Règles'
+      url = '/fr/rulebook/'
+      weight = 10
+    [[languages.fr.menu.main]]
+      identifier = 'characters'
+      name = 'Personnages'
+      url = '/fr/characters/'
+      weight = 20
+    [[languages.fr.menu.main]]
+      identifier = 'scenarios'
+      name = 'Scénarios'
+      url = '/fr/scenarios/'
+      weight = 30
+    [[languages.fr.menu.main]]
+      identifier = 'sheets'
+      name = 'Feuilles'
+      url = '/fr/sheets/'
+      weight = 40
+
 [params]
   description = 'BotC - Lugdunum rulebook and character reference'
   body_classes = 'avenir bg-botc-dark'
@@ -26,33 +73,6 @@ title = 'BotC - Lugdunum'
   text_color = 'botc-text'
   ananke_social = false
   ananke_home_feature = false
-
-[menu]
-  [[menu.main]]
-    identifier = 'rulebook'
-    name = 'Rulebook'
-    url = '/en/rulebook/'
-    weight = 10
-  [[menu.main]]
-    identifier = 'characters'
-    name = 'Characters'
-    url = '/en/characters/'
-    weight = 20
-  [[menu.main]]
-    identifier = 'scenarios'
-    name = 'Scenarios'
-    url = '/en/scenarios/'
-    weight = 30
-  [[menu.main]]
-    identifier = 'sheets'
-    name = 'Sheets'
-    url = '/en/sheets/'
-    weight = 40
-  [[menu.main]]
-    identifier = 'toolbox'
-    name = 'Toolbox'
-    url = '/en/toolbox/'
-    weight = 50
 
 [markup]
   [markup.goldmark]

@@ -4,6 +4,7 @@ weight: 1640
 charType: "travellers"
 summary: "\"If a player of your alignment is executed, you might be executed instead.\"\n\nThe Scapegoat is executed instead of an ally.\n* If the Scapegoat is evil, they might die instead of an evil player dying. If the Scapegoat is good, they might die instead of a good player dying. When exactly this happens is up to the Storyteller. This can only happen due to an execution, not death by other means such as a Demon or Slayer.\n* The Scapegoat being killed still counts as an execution, so no more nominations occur today.\n* As always, players do not learn the alignment of the Scapegoat when they die."
 flavour: "\"Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?\""
+edition: "trouble-brewing"
 section: "characters"
 toc: true
 ---

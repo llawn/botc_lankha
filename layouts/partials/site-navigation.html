@@ -10,7 +10,7 @@
     <div class="flex-l items-center">
       {{ partials.Include "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml4" "pl0 ml4 mr3" }}">
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3" "pr3" }}">
             <a class="hover-gold botc-gold no-underline" href="{{ .URL | relURL }}" title="{{ lang.Translate "pageTitle" . }}">
@@ -20,7 +20,9 @@
           {{ end }}
         </ul>
       {{ end }}
-      {{ partials.IncludeCached "social/follow.html" . }}
+      <a href="https://github.com/llawn/botc_lankha" target="_blank" rel="noopener" class="hover-gold botc-gold no-underline f5 f4-ns fw4 ml3" title="GitHub">
+        GitHub
+      </a>
     </div>
   </div>
 </nav>

@@ -4,6 +4,7 @@ weight: 1520
 charType: "travellers"
 summary: "\"Only the Storyteller can nominate. At least 1 opposing player must be nominated each day.\"\n\nThe Bishop prevents players from nominating at all. Instead, the Storyteller does all nominating.\n* The Storyteller makes nominations during the nomination process instead of the players, and the Storyteller may nominate as few or as many players as they wish. To make things fair, they must nominate at least one player whose alignment is opposite the Bishop’s alignment each day.\n* The Bishop does not alter who can and cannot vote. Each player may do so normally.\n* Since Travellers are exiled, not executed, any player may call for the Bishop or another Traveller to be exiled."
 flavour: "\"In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis.\""
+edition: "bad-moon-rising"
 section: "characters"
 toc: true
 ---

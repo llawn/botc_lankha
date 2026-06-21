@@ -2,80 +2,82 @@
 title: "Mayor"
 weight: 500
 charType: "townsfolk"
-summary: "\"If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.\"\n\nThe Mayor can win by peaceful means on the final day.\n* To survive, the Mayor sometimes \"accidentally\" gets someone else killed. If the Mayor is attacked and would die, the Storyteller may choose that a different player dies. Nobody learns how they died at night, just that they died.\n* If there are just three players alive at the end of the day, and no execution occurred that day, then the game ends and good wins.\n* Travellers count as players for the Mayor's victory, so must be exiled first. Remember that exiles are not executions.\n* Fabled don't count as players for the Mayor's victory, as the Storyteller isn't a player.\n* If the Demon attacks the Mayor, and the Storyteller instead chooses a dead player, the Soldier, or a player protected by the Monk, that player does not die tonight."
-flavour: "\"We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us.\""
+summary: "- [x] Done\n\n**If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.**"
 edition: "trouble-brewing"
 section: "characters"
 toc: true
 ---
 
 ##  Summary
-"If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
 
-The Mayor can win by peaceful means on the final day.
-* To survive, the Mayor sometimes "accidentally" gets someone else killed. If the Mayor is attacked and would die, the Storyteller may choose that a different player dies. Nobody learns how they died at night, just that they died.
-* If there are just three players alive at the end of the day, and no execution occurred that day, then the game ends and good wins.
-* Travellers count as players for the Mayor's victory, so must be exiled first. Remember that exiles are not executions.
-* Fabled don't count as players for the Mayor's victory, as the Storyteller isn't a player.
-* If the Demon attacks the Mayor, and the Storyteller instead chooses a dead player, the Soldier, or a player protected by the Monk, that player does not die tonight.
+**If only 3 players live & no execution occurs, your team wins.
+If you die at night, another player might die instead.**
+
+The **Mayor** can win by peaceful means on the final day.
+
+* To survive, the **Mayor** sometimes _"accidentally"_ gets someone else killed.
+  If the **Mayor** is attacked and would die,
+  the **Storyteller** may choose that a different player dies.
+  Nobody learns how they _died_ at night, just that they _died_.
+* If there are just three players alive at the end of the day,
+  and no execution occurred that day, then the game ends and good wins.
+* **Travellers** count as players for the **Mayor**'s victory, so must be exiled first.
+  Remember that exiles are not executions.
+* **Fabled** don't count as players for the **Mayor**'s victory, as the **Storyteller** isn't a player.
+* If the **Demon** attacks the **Mayor**,
+  and the **Storyteller** instead chooses a _dead_ player,
+  the [Soldier](/en/characters/townsfolk/soldier),
+  or a player protected by the [Monk](/en/characters/townsfolk/monk),
+  that player does not die tonight.
 
 ##  How to Run
-During the night, if the Mayor would die, you choose if the Mayor actually dies, or if the Mayor remains alive and another character **dies** instead—put the Demon's **DEAD** reminder token by that character token instead of the Mayor, and put a shroud on that character token instead of the Mayor.
 
-At dawn, declare that the player marked **DEAD** died at night. (Do not say how they died.)
+During the night, if the **Mayor** would _die_,
+you choose if the **Mayor** actually _dies_,
+or if the Mayor remains alive and another character **dies** instead
 
-At dusk, if exactly three players are alive and no player was executed today, declare that the game ends and good wins.
+- put the Demon's **DEAD** reminder token by that character card instead of the Mayor,
+  and put a shroud on that character card instead of the **Mayor**.
 
-We recommend you keep the Mayor alive until the final day, since it is most fun for the players that way. On rare occasions, if the group is overwhelmingly convinced early in the game that the Mayor is the Mayor, let the Mayor die so that evil has a chance to win.
+At dawn, declare that the player marked **DEAD** died at night.
+_(Do not say how they died.)_
+
+At dusk, if exactly _three players_ are alive and no player was _executed_ today,
+declare that the game ends and good wins.
+
+We recommend you keep the **Mayor** alive until the final day, since it is most fun for the players that way.
+On rare occasions, if the group is overwhelmingly convinced early in the game that the **Mayor** is the Mayor,
+let the **Mayor** die so that evil has a chance to win.
 
 ---
 
-In TROUBLE BREWING, the Mayor’s phrase “your team wins” will always mean “good wins” because the Mayor is always good. In other editions, an evil Mayor means “evil wins” instead.
+In **TROUBLE BREWING**, the **Mayor**’s phrase _“your team wins”_ will always mean _“good wins”_ because the Mayor is always good.
+In other editions, an **evil Mayor** means _“evil wins”_ instead.
+
+## Quote
+
+_We must put our differences aside, and cease this senseless killing.
+We are all taxpayers after all. Well, most of us._
 
 ##  Examples
 
 {{< example >}}
-The Imp attacks the Mayor. The Storyteller chooses that the Ravenkeeper dies instead.
+The [Imp](/en/characters/demons/imp) attacks the **Mayor**.
+The **Storyteller** chooses that the [Ravenkeeper](/en/characters/townsfolk/ravenkeeper) dies instead.
 {{< /example >}}
 
 {{< example >}}
-There are three players alive. There are no nominations for execution today. Good wins.
+There are three players _alive_.
+There are no nominations for execution today.
+**Mayor**'s team wins.
 {{< /example >}}
 
 {{< example >}}
-There are five players alive, including two Travellers. Both Travellers are exiled, and the vote is tied between the remaining players. Because a tied vote means neither player is executed, good wins.
+There are five players alive, including two **Travellers**.
+Both Travellers are _exiled_, and the vote is tied between the remaining players.
+Because a tied vote means neither player is _executed_, Mayor's team wins.
 {{< /example >}}
 
-##  Tips & Tricks
+---
 
-* Your power activates on the final day, when just three players are alive. You may not know who the Demon is, but you can definitely win by not executing. Do whatever you can to convince the group that you are the Mayor. Everything. If the good team believes you, they will either not nominate anybody, or will deliberately tie votes so that no execution occurs.
-
-* It is often best not to reveal that you are the Mayor until late in the game. If you reveal early, the Demon may spend night after night trying to kill you, and the Storyteller may let that attempt succeed.
-
-* You might want to tell people that you're the Mayor. Winning the game with your ability requires trust from your fellow players, and being open and honest is a fine way to acheive that trust.
-
-* When a character that's an unlikely target for the Demon to pick dies at night, such as the Butler, this may be an indication that you were attacked instead. When convincing other players that you are the Mayor, you can use this as evidence.
-
-* Once the Demon attacks you and somebody else dies, they will know for sure that you are the Mayor. At the very beginning of each morning, if a particular player looks surprised and confused, they are likely to be the Demon!
-
-* If you intend to use your ability to win the game by not executing, do everything you can to make sure you are not actually the Drunk. Spend the game listening to other players, and verifying that any Outsiders are actually Outsiders. If you think a Drunk is in play, you will need to figure out who it is, because if it is you, and you don't execute on the final day, evil wins. Similarly, if the only other players alive are the Imp and the Poisoner, then you will certainly be poisoned. You will need to make sure that the Poisoner is dead before using your Mayor ability.
-
-##  Bluffing as the Mayor
-
-When bluffing as the Mayor, there are a few things you should keep in mind:
-
-* The Mayor would never wake at night. You would never learn if you were targeted and caused another player to die instead.
-
-* The Mayor has a good reason to survive at night, which you can use to explain your longevity as other players die. This makes it a great bluff for a Demon in particular.
-
-* Come out to a few players in private early on in the game, so that when you eventually reveal you have some backup that you're not just coming out with this claim out of nowhere.
-
-* The Mayor is a fantastic fallback if another bluff doesn't work out. Coming out on the final day as the Mayor who was "in hiding" can alleviate suspicion that you may have come under if your Fortune Teller information wasn't adding up.
-
-* Deliberately setting up a kill of a character that isn't 'optimal' can be used as evidence for a Mayor being in play. For example, you can target a Recluse, or a Washerwoman who has already given their information; both are normally low priority for the Demon, and so you can argue that this was a redirected kill from your ability.
-
-* As a good player, bluffing as the Mayor can get the Demon to target you, since they will either suspect you are a more powerful character bluffing as the Mayor to survive, or they just want to confirm the existence of a Mayor overall.
-
-* Good players are more likely to risk winning with the Mayor if they have no better leads. Coordinate with your evil team to keep confusion high so that on the final day, good does not feel like they have a clear path to victory.
-
-* If you are nominated on the final day, don't despair! Unlike a regular bluff where you must beat the votes against you, a Mayor can call for the town to tie the vote instead, since that will cause no execution, allowing the Mayor ability to activate normally.
+See also [Mayor - Official Wiki](https://wiki.bloodontheclocktower.com/Mayor)

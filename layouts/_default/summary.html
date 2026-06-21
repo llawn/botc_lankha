@@ -12,6 +12,17 @@
     <div class="botc-card-summary">
       {{ .Summary | strings.Truncate 200 }}
     </div>
+    <div style="display:flex;flex-wrap:wrap;gap:0.3em;align-items:center;margin-bottom:0.5em;">
+      {{ $editionList := slice }}{{ if .Params.editions }}{{ $editionList = .Params.editions }}{{ else if .Params.edition }}{{ $editionList = slice .Params.edition }}{{ end }}
+      {{ $editions := dict "trouble-brewing" (dict "label" "TB" "bg" "#c0392b") "bad-moon-rising" (dict "label" "BMR" "bg" "#e67e22") "sects-and-violets" (dict "label" "S&V" "bg" "#8e44ad") "loup-garou" (dict "label" "LG" "bg" "#333333") "lg-nouvelle-lune" (dict "label" "NL" "bg" "#666666") "lg-le-village" (dict "label" "Village" "bg" "#8B4513") "lg-personnages" (dict "label" "Perso" "bg" "#2d5016") "lg-pour-une-nuit" (dict "label" "1Nuit" "bg" "#1a237e") "lg-pour-un-crepuscule" (dict "label" "Crép" "bg" "#e67e22") "vampire-pour-une-nuit" (dict "label" "Vamp" "bg" "#8b0000") }}
+      {{ range $editionList }}
+        {{ with . }}{{ with index $editions . }}
+          <span style="font-size:0.6rem;background:{{ .bg }};color:#fff;border-radius:3px;padding:0.1em 0.4em;line-height:1.4;">{{ .label }}</span>
+        {{ end }}{{ end }}
+      {{ end }}
+      {{ if .Params.experimental }}<span style="font-size:0.6rem;line-height:1.4;">⚗️</span>{{ end }}
+      {{ if .Params.homemade }}<span style="font-size:0.6rem;line-height:1.4;">🔧</span>{{ end }}
+    </div>
     <a href="{{ .RelPermalink }}" class="botc-card-link">Read more</a>
   </div>
 </article>

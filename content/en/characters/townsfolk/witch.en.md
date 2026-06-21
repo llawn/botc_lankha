@@ -3,7 +3,6 @@ title: "Witch"
 weight: 110
 charType: "townsfolk"
 summary: "\"Once per game, you may save a player from death. Once per game, you may poison a player.\"\n\nThe Witch holds two powerful potions: one to cheat death, one to deal it.\n* The Witch has two separate one-use abilities: a healing potion and a killing potion.\n* The healing potion may be used at any night after a player dies. That player is saved and does not die.\n* The killing potion may be used at any night to poison a player. That player dies immediately.\n* The Witch may use both potions in the same night, or on different nights.\n* The Witch learns who was targeted by the Werewolf each night."
-flavour: "\"A pinch of mandrake, a dash of belladonna... and a drop of your tears. Stir thrice, and the spell is cast.\""
 editions: ["loup-garou", "lg-pour-une-nuit"]
 homemade: true
 section: "characters"

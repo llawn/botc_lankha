@@ -34,13 +34,3 @@ The Thief steals from the Seer. The Thief now sees players' characters each nigh
 The Thief steals from the Guard on night one. The Guard can no longer protect anyone. The Thief has wasted their theft—the Guard's protection is most useful early.
 {{< /example >}}
 
-##  Tips & Tricks
-
-* Target information roles like the Seer to cripple the good team's intelligence gathering.
-* Stealing from the Guard gives you personal protection while removing a key defensive role.
-* If you suspect who the Werewolf is, avoid stealing from them—you don't want to be the Demon.
-* Use your theft early before your target dies. A dead target means a wasted theft.
-
-##  Bluffing as the Thief
-
-Bluffing as the Thief is difficult because you need to explain what ability you stole and from whom. Claim to have stolen from a dead player (conveniently unable to confirm or deny). Alternatively, claim to be saving your theft for the right moment.
