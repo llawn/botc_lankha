@@ -2,7 +2,7 @@
 title: "Recluse"
 weight: 970
 charType: "outsiders"
-summary: "**You might register as evil & as a Minion or Demon, even if dead.**"
+summary: "- [x] Done\n\n**You might register as evil & as a Minion or Demon, even if dead.**"
 edition: "trouble-brewing"
 section: "characters"
 toc: true
@@ -45,23 +45,33 @@ Git, assay!*
 ##  Examples
 
 {{< example >}}
-The Slayer uses their ability on the **Recluse**. The Storyteller decides that the Recluse registers as the Imp, so the Recluse dies. The Slayer believes that they just killed the Imp.
+The [Slayer](/en/characters/townsfolk/slayer) uses their ability on the **Recluse**.
+The Storyteller decides that the **Recluse** registers as the [Imp](/en/characters/demons/imp),
+so the **Recluse** _dies_.
+The [Slayer](/en/characters/townsfolk/slayer) believes that they just killed the [Imp](/en/characters/demons/imp).
 {{< /example >}}
 
 {{< example >}}
-The Empath, who neighbours the **Recluse** and the Monk, learns she is neighbouring one evil player. The next night, the Empath learns they are neighbouring no evil players.
+The [Empath](/en/characters/townsfolk/empath),
+who neighbours the **Recluse** and the [Monk](/en/characters/townsfolk/monk),
+learns she is neighbouring one _evil player_.
+The next night, the [Empath](/en/characters/townsfolk/recluse) learns they are neighbouring no _evil players_.
 {{< /example >}}
 
 {{< example >}}
-The Investigator learns that either the **Recluse** or the Saint is the Scarlet Woman.
+The [Investigator](/en/characters/townsfolk/investigator) learns that either
+the **Recluse** or the [Saint](/en/characters/outsiders/saint) is the [Scarlet Woman](/en/characters/minions/scarlet-woman).
 {{< /example >}}
 
 {{< example >}}
-The **Recluse** is executed. The Undertaker learns that the Imp was executed.
+The **Recluse** is executed.
+The [Undertaker](/en/characters/townsfolk/undertaker) learns that the [Imp](/en/characters/demons/imp) was executed.
 {{< /example >}}
 
 {{< example >}}
-The **Recluse** neighbours the Imp and an Evil Traveller. Because showing a "2" to the Chef might be too revealing, the Chef learns true information, a "0,” instead.
+The **Recluse** neighbours the [Imp](/en/characters/demons/imp) and an _Evil_ Traveller.
+Because showing a "2" to the [Chef](/en/characters/townsfolk/chef) might be too revealing,
+the Chef learns _true_ information, a _"0”_ instead.
 {{< /example >}}
 
 ---
