@@ -3,7 +3,6 @@ title: "Thief"
 weight: 1010
 charType: "minions"
 summary: "\"Once per game, at night, choose a player: you gain their ability and they lose theirs.\"\n\nThe Thief slips through shadows and steals more than just coin—they steal identities.\n* Once per game, at night, the Thief chooses a living player.\n* The Thief gains that player's ability, and that player loses their ability for the rest of the game.\n* The Thief learns the character of the player they stole from.\n* The Thief retains their own Minion abilities after stealing.\n* If the Thief steals from a player with a spent ability, they gain nothing."
-flavour: "\"Your wallet? Please. I take things far more valuable—like your place in this world.\""
 editions: ["loup-garou", "lg-pour-une-nuit"]
 homemade: true
 section: "characters"

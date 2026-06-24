@@ -3,7 +3,6 @@ title: "Harpy"
 weight: 1130
 charType: "minions"
 summary: "\"Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.\"\n\nThe Harpy creates discord and distrust between good players.\n* At night, the Harpy player chooses one player at a time, not two at once.\n* A player chosen by the Harpy is affected by the ability until the next Harpy choice.  \n* If the Storyteller decides to kill players with the Harpy ability, they do not need to kill both. The Storyteller can decide to kill only one, or none. \n* The Harpy can choose a dead player. If so, the Storyteller can kill just the living player, since dead players can not die again.\n* The order of deaths due to the Harpy ability can be chosen by the Storyteller, should that be important."
-flavour: "\"So fair a day I never did see, nor so fowl a presence hanging over me.\""
 experimental: true
 section: "characters"
 toc: true

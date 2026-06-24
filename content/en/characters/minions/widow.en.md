@@ -3,7 +3,6 @@ title: "Widow"
 weight: 1250
 charType: "minions"
 summary: "\"On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.\"\n\nThe Widow sees the Grimoire and poisons a character of their choice.\n* The Widow acts on their first night only, poisoning one player.\n* The player that the Widow poisons is poisoned until the Widow dies.\n* On the same night that the Widow acts, one good player learns that the Widow is in play, but not which player is the Widow, and not which player is poisoned."
-flavour: "\"More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.\""
 experimental: true
 section: "characters"
 toc: true

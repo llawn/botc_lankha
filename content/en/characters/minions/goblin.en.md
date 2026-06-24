@@ -3,7 +3,6 @@ title: "Goblin"
 weight: 1110
 charType: "minions"
 summary: "\"If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.\"\n\nThe Goblin takes revenge if the town knowingly executes them.\n* If the Goblin is executed, evil wins.\n* ...but for this to happen the Goblin needs to tell the group that they are the Goblin when they are nominated, but before votes happen, and to do so in a way that everyone hears. The good players need to know the risk.\n* If the Goblin is executed without telling the group that they are the Goblin when nominated, the Goblin dies and the game continues as normal.\n* The Goblin must have claimed to be the Goblin today for their ability to work. Telling the group yesterday, or even every previous day, doesn't count.\n* Any player may claim to be the Goblin when nominated."
-flavour: "\"You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?\""
 experimental: true
 section: "characters"
 toc: true

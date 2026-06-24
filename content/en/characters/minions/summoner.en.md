@@ -3,7 +3,6 @@ title: "Summoner"
 weight: 1230
 charType: "minions"
 summary: "\"You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]\"\n\nThe Summoner creates a Demon.\n* The Summoner may choose any player to become the Demon, even themselves.\n* The new Demon does not learn which players are Minions, or vice versa. The evil players will need to talk amongst themselves to figure this out.\n* Even though there is no Demon in play for two days, the game does not end. However, if the Summoner becomes unable to create a Demon (due to dying, becoming drunk on night 3 etc.) good wins.\n* The newly created Demon acts on the same night that it is created."
-flavour: "\"Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness\""
 experimental: true
 section: "characters"
 toc: true

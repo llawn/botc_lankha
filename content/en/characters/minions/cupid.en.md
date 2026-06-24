@@ -3,7 +3,6 @@ title: "Cupid"
 weight: 1000
 charType: "minions"
 summary: "\"Each night, choose two players: they become lovers. If one dies, the other dies too.\"\n\nCupid's arrows bind two souls together—for better or worse, until death do them part.\n* Each night, Cupid wakes and chooses two living players. These players become lovers.\n* If one lover dies (by any means), the other lover dies immediately.\n* Lovers may be changed each night—Cupid's affections are fickle.\n* A lover who dies because of their partner's death does not trigger the Hunter's ability.\n* Cupid may choose themselves as one of the lovers."
-flavour: "\"Love is a many-splendored thing... especially when it ends in tragedy. Draw back the bowstring, and let fate decide.\""
 edition: "loup-garou"
 homemade: true
 section: "characters"

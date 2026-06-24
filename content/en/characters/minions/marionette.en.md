@@ -3,7 +3,6 @@ title: "Marionette"
 weight: 1140
 charType: "minions"
 summary: "\"You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]\"\n\nThe Marionette doesn't know that they are a Minion. \n* The Marionette draws either a Townsfolk or an Outsider token from the bag, but is secretly the Marionette.\n* The Marionette neighbors the Demon. There are no players sitting in between the Marionette and the Demon.\n* The Demon knows which player is the Marionette.\n* On the first night, the Marionette does not wake to learn the other evil players, and the other Minions do not learn the Marionette.\n* The good ability that the Marionette thinks they have doesn’t work, but the Storyteller pretends it does. It is just as if this player is the Drunk.\n* The Marionette registers as evil, and as a Minion.\n* The Marionette is not woken due to character abilities that would confirm that they are a Minion eg. Snitch, Preacher, Lil’ Monsta, Poppy Grower, Hatter, Damsel."
-flavour: "\"Words, words. They're all we have to go on.\""
 experimental: true
 section: "characters"
 toc: true

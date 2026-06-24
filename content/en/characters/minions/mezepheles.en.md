@@ -3,7 +3,6 @@ title: "Mezepheles"
 weight: 1160
 charType: "minions"
 summary: "\"You start knowing a secret word. The 1st good player to say this word becomes evil that night.\"\n\nThe Mezepheles offers good players a choice: to turn evil or not.  \n* On the first night, the Mezepheles learns a secret word from the Storyteller.\n* If a good player says this word, either publicly or privately, they turn evil that night. The Storyteller needs to hear this player actually say the word before turning them evil.\n* The Mezepheles does not learn if a player turns evil. The good player learns if they turn evil, but not until that night.\n* If the Mezepheles is sober and healthy at night, the good player turns evil even if the Mezepheles was drunk or poisoned when the good player spoke the secret word. If the Mezepheles is drunk or poisoned at night when a player would turn evil, the player stays good—the Mezepheles has “used their ability” and may not turn a player evil later on."
-flavour: "\"That which issues from the heart alone, will bend the hearts of others to your own.\""
 experimental: true
 section: "characters"
 toc: true
@@ -40,4 +39,3 @@ The Mezepheles tells the Mayor the secret word. The Mayor, wanting to stay good,
 {{< example >}}
 The Mezepheles privately tells the Noble the secret word – “Constantinople”. The Noble visits the Storyteller and says “Constantinople” in private. That night, the Courtier makes the Mezepheles drunk. The Noble stays good.
 {{< /example >}}
-

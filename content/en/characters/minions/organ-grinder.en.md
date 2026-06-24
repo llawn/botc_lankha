@@ -3,7 +3,6 @@ title: "Organ Grinder"
 weight: 1170
 charType: "minions"
 summary: "\"All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk until dusk.\"\n\nThe Organ Grinder makes voting secret.\n* When a player is nominated, players vote with eyes closed.\n* The Storyteller does not count the votes out loud, and does not reveal how many players voted once voting is complete.\n* The Storyteller doesn’t reveal which player is “about to die”.\n* After nominations have closed, the Storyteller reveals which player is executed, as normal.\n* Dead players may vote once if they have a vote token. Their vote token is removed at the end of the day instead of after the vote.\n* If the Organ Grinder is drunk, the vote happens with eyes open, as normal. The Storyteller makes no comment as to whether the Organ Grinder is dead or alive. That night, the Organ Grinder chooses to become sober or drunk again."
-flavour: "\"Round and round the handles go. The more you dance the less you know.\""
 experimental: true
 section: "characters"
 toc: true

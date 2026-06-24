@@ -3,7 +3,6 @@ title: "Vizier"
 weight: 1240
 charType: "minions"
 summary: "\"All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.\"\n\nThe Vizier executes players without the town’s consent.\n* On the first day, all players learn that the Vizier is in play, and which player it is.\n* During the day, the Vizier can not die by any means.\n* After a vote is tallied, if the Vizier chooses to execute the nominee (and at least one good player voted), they are executed immediately. This counts as the 1 execution allowed each day.\n* After a vote is tallied, if the Vizier chooses to execute the nominee (and no good players voted), nothing happens.\n* Even if the vote tally is less than 50% of the living players, the Vizier may still execute. Even if another player has more votes than the current player, the Vizier may still execute.\n* The Vizier does not have to force an execution each day."
-flavour: "\"An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.\""
 experimental: true
 section: "characters"
 toc: true

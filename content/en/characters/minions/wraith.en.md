@@ -3,7 +3,6 @@ title: "Wraith"
 weight: 1280
 charType: "minions"
 summary: "\"You may choose to open your eyes at night. You wake when other evil players do.\"\n\nThe Wraith knows and shares what happens at night.\n* The Wraith may open their eyes at any point during the night, for as long or as short a time as they wish.\n* They may open their eyes fully, or just peek.\n* The Storyteller wakes the Wraith when other evil players also wake, such as when the Demon kills a player, an evil Traveller uses their ability, or a Cult Leader learns that they are evil.\n* When several players have their eyes open at once, they may communicate if they wish.\n* If a good player catches the Wraith with their eyes open, there is no mechanical effect. \n* A dead Wraith may not open their eyes at night. A drunk or poisoned Wraith is told by the Storyteller that they may not open their eyes that night."
-flavour: "\"Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.\""
 experimental: true
 section: "characters"
 toc: true

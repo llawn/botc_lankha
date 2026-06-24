@@ -3,7 +3,6 @@ title: "Fearmonger"
 weight: 1100
 charType: "minions"
 summary: "\"Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.\"\n\nThe Fearmonger creates paranoia about who nominates whom.\n* During the first night, when the Fearmonger selects a player, all players learn this.\n* During other nights, each time the Fearmonger selects a new player, all players learn this. If the Fearmonger selects the same player as previously, the players learn nothing.\n* The players only learn that the Fearmonger has acted, not which player was selected.\n* If the Fearmonger nominates their chosen player, and that nomination results in their execution, the chosen player loses, their team loses, and the game ends.\n* Only the currently chosen player is susceptible to the Fearmonger’s ability. Previously chosen players don’t count.\n* If the chosen player is executed but does not die, the chosen player’s team still loses."
-flavour: "\"Beware of gazing long into the Abyss, lest the Abyss also gaze into you.\""
 experimental: true
 section: "characters"
 toc: true

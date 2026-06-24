@@ -3,7 +3,6 @@ title: "Xaan"
 weight: 1290
 charType: "minions"
 summary: "\"On night X, all Townsfolk are poisoned until dusk. [X Outsiders]\"\n\nThe Xaan poisons all Townsfolk.\n* The Xaan poisons all Townsfolk players for one night then one day. The night that this happens equals the number of Outsiders in play. For example, if there are 2 Outsiders, the Xaan poisons on night 2.\n* There can be any number of Outsiders in play, but usually 1 to 4. This can be the normal number of Outsiders if the Xaan was not in play, or something different. This overrides other characters that add or remove Outsiders, such as the Baron.\n* If the number of Outsiders changes during the game, the Xaan poisons on the night corresponding to the number of Outsiders during setup.\n* The Xaan needs to be alive in order to poison."
-flavour: "\"Down they fall. One by one. By two, by three, by five.\""
 experimental: true
 section: "characters"
 toc: true

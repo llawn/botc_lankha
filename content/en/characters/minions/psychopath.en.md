@@ -3,7 +3,6 @@ title: "Psychopath"
 weight: 1200
 charType: "minions"
 summary: "\"Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.\"\n\nThe Psychopath kills in broad daylight.\n* During the day, if the Psychopath declares that they are the Psychopath and publicly chooses a player, that player dies. This can only be done once per day, and only before the Storyteller has called for nominations.\n* The Psychopath does not need to use this ability if they don’t want to.\n* The Psychopath can be nominated and voted for normally. If the Psychopath is executed, they might not die. They play Roshambo (*Paper-Rock-Scissors*) with the player that nominated them. The nominator needs to win for the Psychopath to die. Drawing or losing means the Psychopath lives.\n* If the Psychopath is executed, this still counts as the one execution for the day. No more players may be nominated or executed today.\n* If the Psychopath dies by other means, such as the Demon attacking them, they do not play Roshambo. They die."
-flavour: "\"Surprise!\""
 experimental: true
 section: "characters"
 toc: true
